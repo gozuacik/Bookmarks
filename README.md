@@ -7,4 +7,4 @@ Bookmark Repository
 <br>
 [Sinema](Sinema.MD)
 <br>
-[Yazılım - Genel](Yazılım - Genel.MD)
+[Yazılım - Genel](Yazılım%20-%20Genel.MD)
