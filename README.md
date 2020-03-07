@@ -13,6 +13,8 @@ Bookmark Repository
 <br>
 [Edebiyat](Edebiyat.MD)
 <br>
+[Eğitim](Eğitim.MD)
+<br>
 [Fotoğraf - Ses - Video](Fotoğraf%20-%20Ses%20-%20Video.MD)
 <br>
 [Gezi - Seyahat](Gezi%20-%20Seyahat.MD)
