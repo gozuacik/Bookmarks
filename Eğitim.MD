@@ -27,7 +27,7 @@
 <a href="https://onemonth.com/">One Month</a>
 <br>
 <a href="https://oyc.yale.edu/courses">Open Yale Courses</a>
-<br>                                      
+<br>
 <a href="https://www.pluralsight.com/">PLURALSIGHT</a>
 <br>
 <a href="https://www.programiz.com/">Programiz</a>
