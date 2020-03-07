@@ -6,17 +6,27 @@
 <br>
 <a href="https://code.org/">Code</a>
 <br>
+<a href="https://codelabs.developers.google.com/">Codelabs</a>
+<br>
 <a href="https://www.coursera.org/">Coursera</a>
+<br>
+<a href="https://courseroot.com/courses/subjects/">Courseroot</a>
 <br>
 <a href="https://www.creativelive.com/">Creative Live</a>
 <br>
 <a href="https://dash.generalassemb.ly/">Dash</a>
 <br>
+<a href="https://dev.tube/">DevTube</a>
+<br>
 <a href="https://www.edx.org/">edX</a>
+<br>
+<a href="https://www.eggradients.com/free-online-ebook">EGGRADIENTS</a>
 <br>
 <a href="https://exercism.io/">Exercism</a>
 <br>
 <a href="https://guides.co/">Guides</a>
+<br>
+<a href="https://informationisbeautiful.net/">Information is Beautiful</a>
 <br>
 <a href="https://www.khanacademy.org/">Khan Academy</a>
 <br>
