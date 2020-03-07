@@ -10,6 +10,8 @@
 <br>
 <a href="https://www.filmhafizasi.com/">Film Hafızası</a>
 <br>
+<a href="https://www.filmloverss.com/">FILMLOVERSS</a>
+<br>
 <a href="https://filmmakersbucket.com/">Filmmaker's Bucket</a>
 <br>
 <a href="http://fipresci.org/">FIPRESCI</a>
@@ -17,6 +19,10 @@
 <a href="https://icsfilm.org/">International Cinephile Society</a>
 <br>
 <a href="https://www.istanbulmodern.org/">İstanbul Modern</a>
+<br>
+<a href="http://www.kadikoysinemasi.com/">Kadıköy Sineması</a>
+<br>
+<a href="https://www.beykozkundura.com/sinema">Kundura Sinema</a>
 <br>
 <a href="http://www.melisinema.net/">Melis Sinema</a>
 <br>
@@ -27,6 +33,8 @@
 <a href="http://reverseshot.org/">Reverse Shot</a>
 <br>
 <a href="https://screenmarks.com/">SCREENMARKS</a>
+<br>
+<a href="http://sinematek.kadikoy.bel.tr/">SİNEMATEK</a>
 <br>
 <a href="https://tsa.org.tr/">Türk Sineması Araştırmaları</a>
 <br>
