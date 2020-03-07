@@ -1,6 +1,8 @@
 # Bookmarks
 Bookmark Repository
 <br>
+[Akademi - Araştırma](Akademi%20-%20Araştırma.MD)
+<br>
 [Alışveriş - Hediye](Alışveriş%20-%20Hediye.MD)
 <br>
 [Araçlar - Web Tasarım](Araçlar%20-%20Web%20Tasarım.MD)
