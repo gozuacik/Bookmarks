@@ -37,7 +37,7 @@
 <a href="https://ed.ted.com/">TEDEd</a>
 <br>
 <a href="https://trinket.io/">Trinket</a>
-<br>                           
+<br>                        
 <a href="https://www.udacity.com/">Udacity</a>
 <br>
 <a href="https://www.udemy.com/">Udemy</a>
