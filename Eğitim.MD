@@ -22,7 +22,7 @@
 <br>
 <a href="https://www.lynda.com/">Lynda</a>
 <br>
-<a href=https://ocw.mit.edu/index.htm">MIT OpenCourseWare</a>
+<a href="https://ocw.mit.edu/index.htm">MIT OpenCourseWare</a>
 <br>
 <a href="https://onemonth.com/">One Month</a>
 <br>
