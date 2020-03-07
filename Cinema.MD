@@ -1,2 +1,1 @@
-Türk Sineması Araştırmaları:
-<a href="www.tsa.org.tr">TSA</a>
+<a href="www.tsa.org.tr">Türk Sineması Araştırmaları</a>
