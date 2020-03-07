@@ -6,3 +6,5 @@ Bookmark Repository
 [Edebiyat](Edebiyat.MD)
 <br>
 [Sinema](Sinema.MD)
+<br>
+[Yazılım - Genel](Yazılım - Genel.MD)
