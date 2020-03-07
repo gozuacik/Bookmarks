@@ -1,4 +1,4 @@
 # Bookmarks
-My Favourite Bookmark Repository
+Bookmark Repository
 <br>
-[Cinema](Cinema.MD)
+[Sinema](Cinema.MD)
