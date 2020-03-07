@@ -33,6 +33,8 @@ Bookmark Repository
 <br>
 [Yardım](Yardım.MD)
 <br>
+[Yarışma - Eğlence](Yarışma%20-%20Eğlence.MD)
+<br>
 [Yazılım - Genel](Yazılım%20-%20Genel.MD)
 <br>
 [Yazılım - Gömülü Sistemler](Yazılım%20-%20Gömülü%20Sistemler.MD)
