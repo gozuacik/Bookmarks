@@ -6,7 +6,11 @@
 <br>
 <a href="https://www.thecherrypicks.com/home">Cherry Picks</a>
 <br>
+<a href="http://www.cinedergi.com/">Cine Dergi</a>
+<br>
 <a href="https://www.criticker.com/">Criticker</a>
+<br>
+<a href="https://www.filmcomment.com/">Film Comment</a>
 <br>
 <a href="https://www.filmhafizasi.com/">Film Hafızası</a>
 <br>
@@ -33,6 +37,8 @@
 <a href="http://reverseshot.org/">Reverse Shot</a>
 <br>
 <a href="https://screenmarks.com/">SCREENMARKS</a>
+<br>
+<a href="http://sensesofcinema.com/">Senses of Cinema</a>
 <br>
 <a href="http://sinematek.kadikoy.bel.tr/">SİNEMATEK</a>
 <br>
