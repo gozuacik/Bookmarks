@@ -3,6 +3,7 @@
 <a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?utm_source=aidigest&utm_medium=email&utm_campaign=featured">A Visual Introduction to Machine Learning</a>
 <br>
 <a href="https://wiki.tum.de/display/lfdv/Convolutional+Neural+Networks+for+Image+and+Video+Processing">Convolutional Neural Networks for Image and Video Processing</a>
+<br>
 <a href="http://cs231n.github.io/convolutional-networks/">Convolutional Neural Networks for Visual Recognition</a>
 <br>
 <a href="https://www.datacamp.com/">DataCamp</a>
