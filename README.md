@@ -11,6 +11,8 @@ Bookmark Repository
 <br>
 [Blog - Bülten](Blog%20-%20Bülten.MD)
 <br>
+[Devlet](Devlet.MD)
+<br>
 [Dil](Dil.MD)
 <br>
 [Edebiyat](Edebiyat.MD)
