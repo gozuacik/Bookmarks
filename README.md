@@ -31,6 +31,8 @@ Bookmark Repository
 <br>
 [Spor](Spor.MD)
 <br>
+[Veri Görselleştirme](Veri%20Görselleştirme.MD)
+<br>
 [Yapay Zeka - Genel](Yapay%20Zeka%20-%20Genel.MD)
 <br>
 [Yapay Zeka - Makine Öğrenmesi](Yapay%20Zeka%20-%20Makine%20Öğrenmesi.MD)
