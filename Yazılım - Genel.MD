@@ -1,15 +1,24 @@
+<p>
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge">A Collection of Inspiring Resources</a>
-<br>
+</p>
+<p>
 <a href="https://algorithm-visualizer.org/">Algorithm Visualizer</a>
-<br>
+</p>
+<p>
 <a href="https://getawesomeness.herokuapp.com/">Awesome Programming Resources</a>
-<br>
+</p>
+<p>
 <a href="https://www.freecodecamp.org/news/">Free Code Camp</a>
-<br>
+</p>
+<p>
 <a href="https://opensource.google/">Google Open Source</a>
-<br>
+</p>
+<p>
 <a href="https://www.jollycode.org/">Jolly Code</a>
-<br>
+</p>
+<p>
 <a href="https://libraries.io/">Libraries.io</a>
-<br>
+</p>
+<p>
 <a href="https://github.com/charlax/professional-programming">Professional Programming</a>
+</p>
