@@ -1,47 +1,72 @@
+<p>
 <a href="https://www.akbanksanat.com/">Akbank Sanat</a>
-<br>
+</p>
+<p>
 <a href="http://www.altyazi.net/">Altyazı Sinema Dergisi</a>
-<br>
+</p>
+<p>
 <a href="http://www.baskasinema.com/">Başka Sinema</a>
-<br>
+</p>
+<p>
 <a href="https://www.thecherrypicks.com/home">Cherry Picks</a>
-<br>
+</p>
+<p>
 <a href="http://www.cinedergi.com/">Cine Dergi</a>
-<br>
+</p>
+<p>
 <a href="https://www.criticker.com/">Criticker</a>
-<br>
+</p>
+<p>
 <a href="https://www.filmcomment.com/">Film Comment</a>
-<br>
+</p>
+<p>
 <a href="https://www.filmhafizasi.com/">Film Hafızası</a>
-<br>
+</p>
+<p>
 <a href="https://www.filmloverss.com/">FILMLOVERSS</a>
-<br>
+</p>
+<p>
 <a href="https://filmmakersbucket.com/">Filmmaker's Bucket</a>
-<br>
+</p>
+<p>
 <a href="http://fipresci.org/">FIPRESCI</a>
-<br>
+</p>
+<p>
 <a href="https://icsfilm.org/">International Cinephile Society</a>
-<br>
+</p>
+<p>
 <a href="https://www.istanbulmodern.org/">İstanbul Modern</a>
-<br>
+</p>
+<p>
 <a href="http://www.kadikoysinemasi.com/">Kadıköy Sineması</a>
-<br>
+</p>
+<p>
 <a href="https://www.beykozkundura.com/sinema">Kundura Sinema</a>
-<br>
+</p>
+<p>
 <a href="http://www.melisinema.net/">Melis Sinema</a>
-<br>
+</p>
+<p>
 <a href="http://www.nuribilgeceylan.com/index.html">Nuri Bilge Ceylan</a>
-<br>
+</p>
+<p>
 <a href="https://www.peramuzesi.org.tr/">Pera Müzesi</a>
-<br>
+</p>
+<p>
 <a href="http://reverseshot.org/">Reverse Shot</a>
-<br>
+</p>
+<p>
 <a href="https://screenmarks.com/">SCREENMARKS</a>
-<br>
+</p>
+<p>
 <a href="http://sensesofcinema.com/">Senses of Cinema</a>
-<br>
+</p>
+<p>
 <a href="http://sinematek.kadikoy.bel.tr/">SİNEMATEK</a>
-<br>
+</p>
+<p>
 <a href="https://tsa.org.tr/">Türk Sineması Araştırmaları</a>
-<br>
+</p>
+<p>
 <a href="http://www.whatismymovie.com/">What is My Movie</a>
+</p>
