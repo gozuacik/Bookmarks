@@ -33,13 +33,13 @@ Bookmark Repository
 <br>
 [Veri Görselleştirme](Veri%20Görselleştirme.MD)
 <br>
+[Verimlilik - Yardım](Verimlilik%20-%20Yardım.MD)
+<br>
 [Yapay Zeka - Genel](Yapay%20Zeka%20-%20Genel.MD)
 <br>
 [Yapay Zeka - Makine Öğrenmesi](Yapay%20Zeka%20-%20Makine%20Öğrenmesi.MD)
 <br>
 [Yapay Zeka - Veri Seti](Yapay%20Zeka%20-%20Veri%20Seti.MD)
-<br>
-[Yardım](Yardım.MD)
 <br>
 [Yarışma - Eğlence](Yarışma%20-%20Eğlence.MD)
 <br>
