@@ -1,20 +1,30 @@
+<p>
 <a href="https://www.abonesepeti.com/">AboneSepeti</a>
-<br>
+</p>
+<p>
 <a href="https://www.bazarazia.com/index/home">BazarAzia</a>
-<br>
+</p>
+<p>
 <a href="https://www.bidolubaski.com/">BiDoluBaskı</a>
-<br>
+</p>
+<p>
 <a href="https://www.bikutukalem.com/">BiKutuKalem</a>
-<br>
+</p>
+<p>
 <a href="https://china-gadgets.com/">China Gadgets</a>
-<br>
+</p>
+<p>
 <a href="https://www.egeusulu.com/index.html">Ege Usulü</a>
-<br>
+</p>
+<p>
 <a href="https://www.ges.gov.tr/">Geleneksel Ev Sanatları</a>
-<br>
+</p>
+<p>
 <a href="https://www.matbuu.com/">Matbuu</a>
-<br>
+</p>
+<p>
 <a href="https://tr.pandacheck.com/">PandaCheck</a>
-<br>
+</p>
+<p>
 <a href="https://www.tohumkart.com/">TohumKart</a>
-<br>
+</p>
