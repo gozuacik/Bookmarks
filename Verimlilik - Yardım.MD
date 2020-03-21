@@ -29,5 +29,10 @@
 <a href="https://www.veed.io/">Video Editing - Online</a>
 </p>
 <p>
+<a href="https://whimsical.com/">Whimsical</a>
+<br>
+The Visual Workspace
+</p>
+<p>
 <a href="https://www.wikihow.com/Main-Page">wikiHow</a>
 </p>
