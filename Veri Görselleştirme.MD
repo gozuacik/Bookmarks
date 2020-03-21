@@ -1,5 +1,7 @@
+<p>
 <a href="https://datamaps.world/">Datamaps</a>
-<br>
+</p>
+<p>
 <a href="https://datavizproject.com/#">Data Viz Project</a>
-<br>
+</p>
 
