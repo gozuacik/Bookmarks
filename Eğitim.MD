@@ -1,53 +1,81 @@
+<p>
 <a href="https://www.baserails.com/">BaseRails</a>
-<br>
+</p>
+<p>
 <a href="https://brilliant.org/courses/?tour=true">BRILLIANT</a>
-<br>
+</p>
+<p>
 <a href="https://www.classcentral.com/report/">Class Central</a>
-<br>
+</p>
+<p>
 <a href="https://code.org/">Code</a>
-<br>
+</p>
+<p>
 <a href="https://codelabs.developers.google.com/">Codelabs</a>
-<br>
+</p>
+<p>
 <a href="https://www.coursera.org/">Coursera</a>
-<br>
+</p>
+<p>
 <a href="https://courseroot.com/courses/subjects/">Courseroot</a>
-<br>
+</p>
+<p>
 <a href="https://www.creativelive.com/">Creative Live</a>
-<br>
+</p>
+<p>
 <a href="https://dash.generalassemb.ly/">Dash</a>
-<br>
+</p>
+<p>
 <a href="https://dev.tube/">DevTube</a>
-<br>
+</p>
+<p>
 <a href="https://www.edx.org/">edX</a>
-<br>
+</p>
+<p>
 <a href="https://www.eggradients.com/free-online-ebook">EGGRADIENTS</a>
-<br>
+</p>
+<p>
 <a href="https://exercism.io/">Exercism</a>
-<br>
+</p>
+<p>
 <a href="https://guides.co/">Guides</a>
-<br>
+</p>
+<p>
 <a href="https://informationisbeautiful.net/">Information is Beautiful</a>
-<br>
+</p>
+<p>
 <a href="https://www.khanacademy.org/">Khan Academy</a>
-<br>
+</p>
+<p>
 <a href="https://www.lynda.com/">Lynda</a>
-<br>
+</p>
+<p>
 <a href="https://ocw.mit.edu/index.htm">MIT OpenCourseWare</a>
-<br>
+</p>
+<p>
 <a href="https://onemonth.com/">One Month</a>
-<br>
+</p>
+<p>
 <a href="https://oyc.yale.edu/courses">Open Yale Courses</a>
-<br>
+</p>
+<p>
 <a href="https://www.pluralsight.com/">PLURALSIGHT</a>
-<br>
+</p>
+<p>
 <a href="https://www.programiz.com/">Programiz</a>
-<br>
+</p>
+<p>
 <a href="https://www.skillshare.com/">Skillshare</a>
-<br>
+</p>
+<p>
 <a href="https://ed.ted.com/">TEDEd</a>
-<br>
+</p>
+<p>
 <a href="https://trinket.io/">Trinket</a>
-<br>
+</p>
+<p>
 <a href="https://www.udacity.com/">Udacity</a>
-<br>
+</p>
+<p>
 <a href="https://www.udemy.com/">Udemy</a>
+</p>
