@@ -8,6 +8,10 @@
 <a href="https://getawesomeness.herokuapp.com/">Awesome Programming Resources</a>
 </p>
 <p>
+<a href="http://beej.us/guide/">Beej's Guides</a>
+<br>C Programming, Network Programming
+</p>
+<p>
 <a href="https://www.freecodecamp.org/news/">Free Code Camp</a>
 </p>
 <p>
