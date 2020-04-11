@@ -26,3 +26,7 @@
 <p>
 <a href="https://github.com/charlax/professional-programming">Professional Programming</a>
 </p>
+<p>
+<a href="https://www.syncfusion.com/ebooks">Succinctly Series</a>
+<br>Free Access to 170+ ebooks
+</p>
