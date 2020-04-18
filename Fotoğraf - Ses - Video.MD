@@ -80,6 +80,10 @@
 <a href="https://photos.icons8.com/creator/dashboard">Moose - Photo Creator</a>
 </p>
 <p>
+<a href="https://www.music-map.com/">Music Map</a>
+<br>Benzer Müzisyenleri Bulma  
+</p>
+<p>
 <a href="https://orioniconlibrary.com/all-icons">Orion Icon Library</a>
 </p>
 <p>
@@ -96,6 +100,10 @@
 </p>
 <p>
 <a href="https://www.pond5.com/free">Public Domain Project</a>
+</p>
+<p>
+<a href="http://radio.garden/visit/istanbul/Jz9EFkDQ">Radio Garden</a>
+<br>Dünyadaki Radyo İstasyonları  
 </p>
 <p>
 <a href="https://www.remove.bg/">Remove Background from Image</a>
