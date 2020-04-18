@@ -1,4 +1,8 @@
 <p>
+<a href="https://alternativeto.net/">AlternativeTo</a>
+<br>Program Alternatifleri
+</p>
+<p>
 <a href="https://www.beautiful.ai/">Beautiful.ai</a>
 <br>Presentation Software
 </p>
@@ -56,6 +60,10 @@
 </p>                            
 <p>
 <a href="https://www.printfriendly.com/">Print Friendly & PDF</a>
+</p>
+<p>
+<a href="https://www.pushbullet.com/">Pushbullet</a>
+<br>Cep Telefonu - Bilgisayar Etkileşimi                                     
 </p>
 <p>
 <a href="https://ceev.io/?ref=producthunt">Resume Designer</a>
