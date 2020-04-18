@@ -103,6 +103,10 @@
 <a href="https://orioniconlibrary.com/all-icons">Orion Icon Library</a>
 </p>
 <p>
+<a href="https://petalica-paint.pixiv.dev/index_en.html">Petalica Paint</a>
+<br>Eskizlerin Renklendirilmesi
+</p>
+<p>
 <a href="https://www.pexels.com/tr-tr/">Pexels</a>
 </p>
 <p>
