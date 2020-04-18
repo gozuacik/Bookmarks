@@ -79,6 +79,10 @@
 <a href="https://www.listennotes.com/">Lister Notes - Podcast Search Engine</a>
 </p>
 <p>
+<a href="https://localingual.com/?ISO=TR&Region=TUR-2265">Localingual</a>
+<br>Dünyadan Aksan/Ses Kayıtları  
+</p>
+<p>
 <a href="https://www.loom.com/">Loom - Screen & Video Recording</a>
 </p>
 <p>
@@ -90,6 +94,10 @@
 <p>
 <a href="https://www.music-map.com/">Music Map</a>
 <br>Benzer Müzisyenleri Bulma  
+</p>
+<p>
+<a href="http://publicdomain.nypl.org/pd-visualization/">NYPL Public Domain Release</a>
+<br>New York Halk Kütüphanesi tarafından dijital ortama aktarılan belgeler 
 </p>
 <p>
 <a href="https://orioniconlibrary.com/all-icons">Orion Icon Library</a>
