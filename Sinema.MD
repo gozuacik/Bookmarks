@@ -69,6 +69,10 @@
 <a href="http://sinematek.kadikoy.bel.tr/">SİNEMATEK</a>
 </p>
 <p>
+<a href="https://thecolorsofmotion.com/">The Colors of Motion</a>
+<br>Filmlerin Renk Paletleri  
+</p>
+<p>
 <a href="https://tsa.org.tr/">Türk Sineması Araştırmaları</a>
 </p>
 <p>
