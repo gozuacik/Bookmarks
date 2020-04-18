@@ -21,6 +21,10 @@
 <a href="https://everydaycalculation.com/">Everyday Calculation</a>
 </p>
 <p>
+<a href="https://www.flightradar24.com/">FlightRadar24</a>
+<br>Uçak Takibi                                        
+</p>                                          
+<p>
 <a href="https://cheatography.com/">Free Cheat Sheets / Create Cheat Sheet</a>
 </p>
 <p>
