@@ -53,7 +53,11 @@
 </p>
 <a href="https://www.omnicalculator.com/discover">Omni Calculator</a>
 <br>Online Calculator
-</p>                              
+</p>        
+<p>
+<a href="https://papersizes.io/">Paper Sizes</a>
+<br>Kağıt Boyutları
+</p>                                                   
 <p>
 <a href="https://www.papersurvey.io/">papersurvey</a>
 <br>Printable Paper Survey
