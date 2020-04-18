@@ -1,4 +1,8 @@
 <p>
+<a href="https://ai-art.tokyo/en/#/">AI Gahaku</a>
+<br>Fotoğraflardan Yağlı Tablo Üretimi  
+</p>
+<p>
 <a href="https://barnimages.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter">Barnimages</a>
 </p>
 <p>
@@ -6,6 +10,10 @@
 </p>
 <p>
 <a href="https://www.cleanpng.com/">CleanPNG</a>
+</p>
+<p>
+<a href="https://demos.algorithmia.com/colorize-photos">Colorize Photos</a>
+<br>Siyah-Beyaz Fotoğrafların Renklendirilmesi  
 </p>
 <p>
 <a href="https://coolbackgrounds.io/">Cool Backgrounds</a>
@@ -116,6 +124,10 @@
 </p>
 <p>
 <a href="https://shape.so/">Shape</a>
+</p>
+<p>
+<a href="https://www.skylinewebcams.com/">Skyline Webcams</a>
+<br>Dünyadaki Şehir Kameraları  
 </p>
 <p>
 <a href="https://streamlineicons.com/">StreamLineIcons</a>
