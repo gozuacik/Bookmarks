@@ -39,6 +39,10 @@
 <a href="https://namechk.com/">Namechk</a>
 </p>
 <p>
+<p>
+<a href="https://ninite.com/">Ninite</a>
+<br>Toplu Şekilde Program İndirme  
+</p>
 <a href="https://www.omnicalculator.com/discover">Omni Calculator</a>
 <br>Online Calculator
 </p>                              
