@@ -5,6 +5,9 @@
 <a href="https://algorithm-visualizer.org/">Algorithm Visualizer</a>
 </p>
 <p>
+<a href="https://awesomeopensource.com/">Awesome Open Source</a>
+</p>
+<p>
 <a href="https://getawesomeness.herokuapp.com/">Awesome Programming Resources</a>
 </p>
 <p>
