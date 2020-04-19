@@ -55,6 +55,8 @@ Bookmark Repository
 <br>
 [Yazılım - Script](Yazılım%20-%20Script.MD)
 <br>
+[Yazılım - Test](Yazılım%20-%20Test.MD)
+<br>
 [Yazılım - Unix](Yazılım%20-%20Unix.MD)
 <br>
 [Yazılım - Uygulamalar](Yazılım%20-%20Uygulamalar.MD)
