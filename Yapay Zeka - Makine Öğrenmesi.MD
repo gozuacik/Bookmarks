@@ -23,6 +23,9 @@
 <a href="https://www.kdnuggets.com/">KDnuggets</a>
 </p>
 <p>
+<a href="https://github.com/lazyprogrammer/machine_learning_examples">Machine Learning Examples</a>
+</p>
+<p>
 <a href="https://machinelearningmastery.com/">Machine Learning Mastery</a>
 </p>
 <p>
