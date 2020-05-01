@@ -1,5 +1,14 @@
 <p>
+<a href="https://10minutemail.com/?dswid=3810">10 Minute Mail</a>
+<br>Ücretsiz Geçici E-Posta Adresi Kullanma  
+</p>  
+<p>
+<p>
 <a href="https://edebiyatyarismalari.com/">Edebiyat Yarışmaları</a>
+</p>  
+<p>
+<a href="https://emojipedia.org/">Emojipedia</a>
+<br>Home of Emoji Meanings  
 </p>  
 <p>
 <a href="https://krikienoid.github.io/flagwaver/">FlagWaver</a>
@@ -7,11 +16,19 @@
 </p>  
 <p>
 <a href="https://hackathonturkiye.com/">Hackathon Türkiye</a>
-</p> 
+</p>
+
+<p>
+<a href="https://archive.org/details/internetarcade?ref=producthunt">Internet Arcade</a>
+<br>A web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s  
+</p>
 <p>
 <a href="https://www.kimkazandi.com/">KimKazandı</a>
 <br>Türkiye'nin Tüm Çekiliş ve Yarışmaları
 </p>  
+<p>
+<a href="https://www.dunyahalleri.com/sehir-isimlerinin-ne-anlama-geldigini-gosteren-harita/">Şehir İsimlerinin Anlamları</a>
+</p> 
 <p>
 <a href="https://www.tfsfonayliyarismalar.org/">TFSF Onaylı Yarışmalar</a>
 <br>Türkiye Fotoğraf Sanatı Federasyonu - Onaylı Yarışmalar
