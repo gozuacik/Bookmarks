@@ -26,6 +26,9 @@
 <a href="https://github.com/lazyprogrammer/machine_learning_examples">Machine Learning Examples</a>
 </p>
 <p>
+<a href="https://developers.google.com/machine-learning/crash-course/">Machine Learning Crash Course</a>
+</p>
+<p>
 <a href="https://machinelearningmastery.com/">Machine Learning Mastery</a>
 </p>
 <p>
