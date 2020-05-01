@@ -15,3 +15,7 @@
 <a href="https://seeing-theory.brown.edu/index.html">Seeing Theory</a>
 <br>A Visual Introduction to Probability and Statistics
 </p>
+<p>
+<a href="http://www.veridefteri.com/">Veri Defteri</a>
+<br>Veri Bilimi ve Yapay Öğrenme Üzerine Kısa Notlar
+</p>
