@@ -1,4 +1,8 @@
 <p>
+<a href="https://acikacik.org/">Açık Açık</a>
+<br>Bağışçılar ile Dernekleri/Vakıfları Bir Araya Getiren Platform
+</p>
+<p>
 <a href="https://alternativeto.net/">AlternativeTo</a>
 <br>Program Alternatifleri
 </p>
@@ -36,12 +40,19 @@
 </p>                              
 <p>
 <a href="https://medium.com/t%C3%BCrkiye/googleda-do%C4%9Fru-veriye-h%C4%B1zl%C4%B1-ula%C5%9Fmak-i%C3%A7in-arama-operat%C3%B6rleri-ve-google-%C4%B1n-gizli-%C3%B6zellikleri-cd7cfdde5844">Google Arama Tüyoları</a>
-</p>                              
+</p>         
+<p>
+<a href="https://www.heforshe.org/tr">HeForShe</a>
+<br>Toplumsal Cinsiyet Eşitliği                                     
+</p>
 <p>
 <a href="http://how-to-fix-a-toilet.com/">How To Fix</a>
 </p>
 <p>
 <a href="https://tr.ifixit.com/">I Fix It</a>
+</p>
+<p>
+<a href="http://www.kardesokullar.com/">Kardeş Okullar</a>
 </p>
 <p>
 <a href="https://namechk.com/">Namechk</a>
