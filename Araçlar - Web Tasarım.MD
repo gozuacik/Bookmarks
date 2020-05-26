@@ -6,6 +6,10 @@
 <br>Free Hand-Drawn Animated GIF Creator  
 </p>
 <p>
+<a href="https://myquicksite.com/?ref=producthunt">MyQuickSite</a>
+<br>Create websites from Google Sheets  
+</p>
+<p>
 <a href="https://ninite.com/">Ninite</a>
 <br>Toplu Şekilde Program İndirme  
 </p>
