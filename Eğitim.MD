@@ -53,6 +53,9 @@
 <a href="https://www.khanacademy.org/">Khan Academy</a>
 </p>
 <p>
+<a href="https://www.linkedin.com/learning/">Linkedin Learning</a>
+</p>
+<p>
 <a href="https://www.lynda.com/">Lynda</a>
 </p>
 <p>
