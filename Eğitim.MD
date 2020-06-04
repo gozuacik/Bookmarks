@@ -20,6 +20,9 @@
 <a href="https://courseroot.com/courses/subjects/">Courseroot</a>
 </p>
 <p>
+<a href="https://www.creativebug.com/">Creativebug</a>
+</p>
+<p>
 <a href="https://www.creativelive.com/">Creative Live</a>
 </p>
 <p>
