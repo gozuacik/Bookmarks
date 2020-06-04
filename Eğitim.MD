@@ -41,6 +41,9 @@
 <a href="https://guides.co/">Guides</a>
 </p>
 <p>
+<a href="https://academy.hubspot.com/">HubSpot Academy</a>
+</p>
+<p>
 <a href="https://informationisbeautiful.net/">Information is Beautiful</a>
 </p>
 <p>
@@ -48,6 +51,9 @@
 </p>
 <p>
 <a href="https://www.lynda.com/">Lynda</a>
+</p>
+<p>
+<a href="https://www.masterclass.com/#/">MasterClass</a>
 </p>
 <p>
 <a href="https://ocw.mit.edu/index.htm">MIT OpenCourseWare</a>
