@@ -27,6 +27,9 @@
 <a href="https://libraries.io/">Libraries.io</a>
 </p>
 <p>
+<a href="https://www.jamisbuck.org/mazes/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun">Maze Algorithms</a>
+</p>
+<p>
 <a href="https://github.com/charlax/professional-programming">Professional Programming</a>
 </p>
 <p>
