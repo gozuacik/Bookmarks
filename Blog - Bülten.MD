@@ -41,5 +41,14 @@
 <a href="https://www.radletters.com/">Rad Letters</a>
 <br>Discover the best email newsletters.
 </p> 
+<p>
+<a href="https://stackhunt.xyz/">Stack Hunt</a>
+<br>Find engaging, fun, and informative newsletters for every topic
+</p> 
+<p>
+<a href="https://www.thanksforsubscribing.app/">Thanks For Subscribing</a>
+<br>Make your inbox happy again! ❤️
+</p> 
+
 
 
