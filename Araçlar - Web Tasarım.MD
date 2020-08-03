@@ -1,4 +1,8 @@
 <p>
+<a href="https://www.adalo.com/">Adalo</a>
+<br>Turn Your Startup Idea Into Reality Without Coding!
+</p>
+<p>
 <a href="https://github.com/LisaDziuba/Awesome-Design-Tools">Awesome Design Tools</a>
 </p>
 <p>
