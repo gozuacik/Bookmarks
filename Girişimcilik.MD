@@ -7,6 +7,10 @@
 <br>The list of Turkish online companies exporting products worldwide.
 </p>  
 <p>
+<a href="https://www.namesnack.com/">NameSnack</a>
+<br>Generate 100's of unique, creative business names, and check domains instantly
+</p> 
+<p>
 <a href="https://startnames.co/">StartNames</a>
 <br>Proje Fikirleri için Alan Adı Önerileri
 </p>  
