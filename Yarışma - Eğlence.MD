@@ -37,6 +37,10 @@
 <a href="https://www.dunyahalleri.com/sehir-isimlerinin-ne-anlama-geldigini-gosteren-harita/">Şehir İsimlerinin Anlamları</a>
 </p> 
 <p>
+<a href="https://www.bluebulbprojects.com/MeasureOfThings/default.php">The Measure of Things</a>
+<br>Enter a measurement to see comparisons
+</p> 
+<p>
 <a href="https://www.tfsfonayliyarismalar.org/">TFSF Onaylı Yarışmalar</a>
 <br>Türkiye Fotoğraf Sanatı Federasyonu - Onaylı Yarışmalar
 </p> 
