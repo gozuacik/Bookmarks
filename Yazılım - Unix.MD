@@ -1,4 +1,8 @@
 <p>
+<a href="http://gnulinux.guru/?about">GNU/Linux Guru</a>
+<br>Clues about Bash, Vim, Pyhton, Networking
+</p>
+<p>
 <a href="https://haydenjames.io/linux-networking-commands-scripts/">Linux Networking Commands</a>
 <br>59 Linux Networking commands and scripts
 </p>
