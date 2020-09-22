@@ -3,6 +3,10 @@
 <br>Clues about Bash, Vim, Pyhton, Networking
 </p>
 <p>
+<a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html">Linux Kernel Teaching</a>
+<br>This is a collection of lectures and labs Linux kernel topics
+</p>
+<p>
 <a href="https://haydenjames.io/linux-networking-commands-scripts/">Linux Networking Commands</a>
 <br>59 Linux Networking commands and scripts
 </p>
