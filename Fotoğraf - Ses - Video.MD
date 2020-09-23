@@ -111,6 +111,10 @@
 <br>Eskizlerin Renklendirilmesi
 </p>
 <p>
+<a href="https://www.peteyvid.com/">Petey Vid</a>
+<br>Video Search Engine
+</p>
+<p>
 <a href="https://www.pexels.com/tr-tr/">Pexels</a>
 </p>
 <p>
