@@ -14,3 +14,7 @@
 <a href="https://startnames.co/">StartNames</a>
 <br>Proje Fikirleri için Alan Adı Önerileri
 </p>  
+<p>
+<a href="https://startupmate.flammate.co/">StartupMate</a>
+<br>700+ Resources for your next Startup or Side Project
+</p>  
