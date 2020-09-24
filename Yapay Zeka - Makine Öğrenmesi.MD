@@ -11,6 +11,9 @@
 <a href="http://cs231n.github.io/convolutional-networks/">Convolutional Neural Networks for Visual Recognition</a>
 </p>
 <p>
+<a href="http://web.stanford.edu/class/cs224n/">CS224n: Natural Language Processing with Deep Learning</a>
+</p>
+<p>
 <a href="https://www.datacamp.com/">DataCamp</a>
 </p>
 <p>
