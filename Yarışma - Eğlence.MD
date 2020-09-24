@@ -30,6 +30,10 @@
 <br>Türkiye'nin Tüm Çekiliş ve Yarışmaları
 </p>  
 <p>
+<a href="https://www.logaster.com/slogan-generator/">Logaster</a>
+<br>Free slogan generator from Logaster
+</p> 
+<p>
 <a href="https://github.com/LingDong-/shan-shui-inf">Shan, Shui</a>
 <br>Procedurally-generated vector-format infinitely-scrolling Chinese landscape for the browser
 </p>  
