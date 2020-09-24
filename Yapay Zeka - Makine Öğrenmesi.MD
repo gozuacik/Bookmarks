@@ -46,6 +46,10 @@ Deep Natural Language Processing course offered in Hilary Term 2017 at the Unive
 <a href="https://mlcourse.ai/">MLCOURSE.AI</a>
 </p>
 <p>
+<a href="https://paperswithcode.com/">Papers with Code</a>
+<br>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
+</p>
+<p>
 <a href="https://scikit-learn.org/stable/index.html">Scikit-Learn</a>
 </p>
 <p>
