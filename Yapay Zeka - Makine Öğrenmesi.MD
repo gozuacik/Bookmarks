@@ -25,6 +25,11 @@
 Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford
 </p>
 <p>
+<a href="https://github.com/sibirbil/IMO2020">İstanbul'da Makine Öğrenmesi, 2020</a>
+<br>Bu sayfada 27 Ocak 2020 - 2 Şubat 2020 tarihleri arasında İstanbul'da İlker Birbil ile Utku Karaca hocaların 
+verdiği "Makine Öğrenmesine Giriş" ders notlarını ve video kayıtlarını bulabilirsiniz.  
+</p>
+<p>
 <a href="http://www.jmlr.org/">Journal of Machine Learning Research</a>
 </p>
 <p>
