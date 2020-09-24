@@ -6,6 +6,9 @@
 <a href="https://github.com/LisaDziuba/Awesome-Design-Tools">Awesome Design Tools</a>
 </p>
 <p>
+<a href="https://nelsonmichael.dev/awesome-developer-resources">Awesome Developer Resources</a>
+</p>
+<p>
 <a href="https://brush.ninja/">Brush Ninja</a>
 <br>Free Hand-Drawn Animated GIF Creator  
 </p>
