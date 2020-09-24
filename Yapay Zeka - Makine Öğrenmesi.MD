@@ -17,6 +17,11 @@
 <a href="https://www.datasciencecentral.com/">Data Science Central</a>
 </p>
 <p>
+<a href="https://github.com/oxford-cs-deepnlp-2017/lectures">Deep Neural Network Course</a>
+<br>This repository contains the lecture slides and course description for the 
+Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford
+</p>
+<p>
 <a href="http://www.jmlr.org/">Journal of Machine Learning Research</a>
 </p>
 <p>
