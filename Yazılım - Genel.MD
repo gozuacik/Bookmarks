@@ -1,4 +1,8 @@
 <p>
+<a href="https://www.30secondsofcode.org/">30 Seconds of Code</a>
+<br>Short code snippets for all your development needs  
+</p>
+<p>
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge">A Collection of Inspiring Resources</a>
 </p>
 <p>
