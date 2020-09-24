@@ -22,6 +22,10 @@
 <a href="https://www.freecodecamp.org/news/">Free Code Camp</a>
 </p>
 <p>
+<a href="https://free-for.dev/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-67#/?id=apis-data-and-ml">Free for Developers</a>
+<br>This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.  
+</p>
+<p>
 <a href="https://opensource.google/">Google Open Source</a>
 </p>
 <p>
