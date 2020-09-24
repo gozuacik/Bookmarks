@@ -43,3 +43,7 @@
 <a href="https://www.syncfusion.com/ebooks">Succinctly Series</a>
 <br>Free Access to 170+ ebooks
 </p>
+<p>
+<a href="https://github.com/PizzaPokerGuy/ultimate-coding-resources">Ultimate Coding Resources</a>
+<br>A collection of the best resources for programming, web development, computer science and more.
+</p>
