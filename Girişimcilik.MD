@@ -15,6 +15,10 @@
 <br>Generate 100's of unique, creative business names, and check domains instantly
 </p> 
 <p>
+<a href="https://namewink.com/">Namewink</a>
+<br>Generate Instant Name Ideas
+</p> 
+<p>
 <a href="https://startnames.co/">StartNames</a>
 <br>Proje Fikirleri için Alan Adı Önerileri
 </p>  
