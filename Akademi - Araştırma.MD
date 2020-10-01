@@ -18,3 +18,7 @@ Link-aggregator website for academic article discussion
 <p>
 <a href="http://www.tubaterim.gov.tr/">TÜBA - Türkçe Bilim Terimleri Sözlüğü</a>
 <p>
+<p>
+<a href="http://www.wikicfp.com/cfp/">WikiCFP</a>
+<br>A Wiki for Call For Papers  
+<p>
