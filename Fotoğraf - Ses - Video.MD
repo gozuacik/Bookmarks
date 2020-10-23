@@ -175,5 +175,9 @@
 <a href="https://www.verby.co/">Verby - Text to Voice</a>
 </p>
 <p>
+<a href="https://vidkeeper.io/">VidKeeper</a>
+<br>Easily save videos from YouTube, Facebook, Instagram, Twitter, and other sites  
+</p>
+<p>
 <a href="https://www.wordclouds.com/">Word Cloud Generator</a>
 </p>
