@@ -18,6 +18,10 @@
 <a href="http://www.cinedergi.com/">Cine Dergi</a>
 </p>
 <p>
+<a href="https://connectthestars.xyz/">Connect the Stars</a>
+<br>Movie Trivia Game  
+</p>
+<p>
 <a href="https://www.criticker.com/">Criticker</a>
 </p>
 <p>
