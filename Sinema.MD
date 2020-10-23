@@ -21,6 +21,10 @@
 <a href="https://www.criticker.com/">Criticker</a>
 </p>
 <p>
+<a href="https://www.documentarymania.com/home.php">Documentary Mania</a>
+<br>Simply the best Documentaries  
+</p>
+<p>
 <a href="https://www.filmcomment.com/">Film Comment</a>
 </p>
 <p>
