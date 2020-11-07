@@ -43,6 +43,8 @@ Bookmark Repository
 <br>
 [Yapay Zeka - Makine Öğrenmesi](Yapay%20Zeka%20-%20Makine%20Öğrenmesi.MD)
 <br>
+[Yapay Zeka - Genel](Yapay%20Zeka%20-%NLP.MD)
+<br>
 [Yapay Zeka - Veri Seti](Yapay%20Zeka%20-%20Veri%20Seti.MD)
 <br>
 [Yarışma - Eğlence](Yarışma%20-%20Eğlence.MD)
