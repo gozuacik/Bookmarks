@@ -11,6 +11,10 @@
 <br>59 Linux Networking commands and scripts
 </p>
 <p>
+<a href="https://www.mankier.com/">Man Pages</a>
+<br>Linux man pages
+</p>
+<p>
 <a href="https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234">Simple Linux Kernel Module</a>
 <br>Writing a Simple Linux Kernel Module
 </p>
