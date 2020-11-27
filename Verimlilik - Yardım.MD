@@ -58,6 +58,10 @@
 <br>Toplumsal Cinsiyet Eşitliği                                     
 </p>
 <p>
+<a href="http://www.hemingwayapp.com/">Hemigway Editor</a>
+<br>Hemingway App makes your writing bold and clear.                                    
+</p>                                     
+<p>
 <a href="http://how-to-fix-a-toilet.com/">How To Fix</a>
 </p>
 <p>
