@@ -23,6 +23,10 @@
 <br>Generate Instant Name Ideas
 </p> 
 <p>
+<a href="https://www.productdesignresources.com/">Product Design Resources</a>
+<br>Keeping product designers updated & inspired with lots of new design resources and the latest UI/UX tools.
+</p> 
+<p>
 <a href="https://startnames.co/">StartNames</a>
 <br>Proje Fikirleri için Alan Adı Önerileri
 </p>  
