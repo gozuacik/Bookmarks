@@ -64,6 +64,10 @@
 <a href="https://tr.ifixit.com/">I Fix It</a>
 </p>
 <p>
+<a href="https://www.judyrecords.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn">JudyRecords</a>
+<br>United States Court Cases                                                                                                    
+</p>                               
+<p>
 <a href="http://www.kardesokullar.com/">Kardeş Okullar</a>
 </p>
 <p>
