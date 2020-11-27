@@ -3,6 +3,10 @@
 <br>Best Online Productivity Tools to Maximize Your Time
 </p>
 <p>
+<a href="https://mohitkhare.me/acrons/?utm_campaign=newsletter-2020-11-25&utm_medium=email&utm_source=10words#/">Acrons</a>
+<br>One stop solution for finding acronyms
+</p>
+<p>
 <a href="https://acikacik.org/">Açık Açık</a>
 <br>Bağışçılar ile Dernekleri/Vakıfları Bir Araya Getiren Platform
 </p>
