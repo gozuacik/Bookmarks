@@ -1,4 +1,8 @@
 <p>
+<a href="https://www.commandlinefu.com/commands/browse">COMMANDLINEFU</a>
+<br>The place to record those command-line gems that you return to again and again
+</p>
+<p>
 <a href="http://gnulinux.guru/?about">GNU/Linux Guru</a>
 <br>Clues about Bash, Vim, Pyhton, Networking
 </p>
