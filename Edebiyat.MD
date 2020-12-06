@@ -8,3 +8,6 @@
 <p>
 <a href="http://earsiv.sehir.edu.tr:8080/xmlui/">Şehir Üniveritesi Arşiv</a>
 </p>
+<p>
+<a href="http://teis.yesevi.edu.tr/">Türk Edebiyatı İsimler Sözlüğü</a>
+</p>
