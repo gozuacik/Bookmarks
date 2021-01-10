@@ -109,6 +109,12 @@
 <br>Cep Telefonu - Bilgisayar Etkileşimi                                     
 </p>
 <p>
+<a href="https://rabbitique.com/">Rabbitique</a>
+<br>searches and collects etymological information across multiple word variations and 
+languages and creates a satellite view of the word’s context and points to the concept 
+that it was designated to materialise                                     
+</p>                                    
+<p>
 <a href="https://ceev.io/?ref=producthunt">Resume Designer</a>
 </p>
 <p>
