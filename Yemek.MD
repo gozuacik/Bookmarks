@@ -1,4 +1,8 @@
 <p>
+<a href="https://badecikolata.com/">Bade Çikolata</a>
+<br>El Yapımı Çikolatalar
+</p> 
+<p>
 <a href="https://www.cemens.com.tr/">Çemen's Gurme</a>
 <br>Yöresel Ürünler: Mantı, Pastırma, Sucuk vb.
 </p> 
