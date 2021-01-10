@@ -44,6 +44,10 @@
 <a href="https://filmmakersbucket.com/">Filmmaker's Bucket</a>
 </p>
 <p>
+<a href="https://filmocracy.com/login">Filmocracy</a>
+<br>Discover the next Tarantino, Experience global film festivals, Earn Rewards for watching & rating films
+</p>
+<p>
 <a href="http://fipresci.org/">FIPRESCI</a>
 </p>
 <p>
