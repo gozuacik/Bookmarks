@@ -20,3 +20,7 @@
 <a href="https://mix.com/">Mix</a>
 <br>Faydalı Web Sayfası Önerileri
 </p>  
+<p>
+<a href="https://www.spreadshare.co/">SpreadShare</a>
+<br>Collection of Spreadsheets
+</p>  
