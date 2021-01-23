@@ -19,6 +19,10 @@
 <br>C Programming, Network Programming
 </p>
 <p>
+<a href="https://thesmartcoder.dev/books/">DevBooks</a>
+<br>DevBooks helps developers to find the best books for developers and authors to showcase their amazing work.
+</p>
+<p>
 <a href="https://www.freecodecamp.org/news/">Free Code Camp</a>
 </p>
 <p>
