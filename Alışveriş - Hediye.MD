@@ -33,6 +33,10 @@
 <br>Gurme Lezzetler  
 </p>
 <p>
+<a href="https://karkasciftligi.com/">Karkas Çiftliği</a>
+<br>Dana Etleri, Kıyma, Köfte, Şarküteri
+</p>
+<p>
 <a href="https://www.matbuu.com/">Matbuu</a>
 </p>
 <p>
