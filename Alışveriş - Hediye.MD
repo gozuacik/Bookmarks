@@ -18,6 +18,10 @@
 <p>  
 <a href="https://china-gadgets.com/">China Gadgets</a>
 </p>
+<p>  
+<a href="https://www.ciraganpalaceshop.com/">Çırağan Palace Shop</a>
+<br>Çırağan Sarayından Ürünler (Çikolata, Pasta, Baklava, Kurabiye)
+</p>
 <p>
 <a href="https://www.egeusulu.com/index.html">Ege Usulü</a>
 </p>
