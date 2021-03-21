@@ -49,6 +49,10 @@
 <br>Free Public APIs  
 </p>
 <p>
+<a href="https://ray.so/">Ray.so</a>
+<br>Create beautiful images of your code 
+</p>
+<p>
 <a href="https://refrf.shreyasminocha.me/?utm_source=hackernewsletter&utm_medium=email&utm_term=books">Regular Expressions for Regular Folk</a> 
 </p>
 <p>
