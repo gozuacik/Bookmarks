@@ -68,6 +68,10 @@
 <a href="https://www.humaaans.com/">Humaaans</a>
 </p>
 <p>
+<a href="https://iconduck.com/">Iconduck</a>
+<br>Free open source icons, illustrations and graphics
+</p>
+<p>
 <a href="https://ikonate.com/?utm_campaign=StartupResources.io&utm_medium=email&utm_source=Revue%20newsletter">Ikonate - Vector Icons</a>
 </p>
 <p>
