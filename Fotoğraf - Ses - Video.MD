@@ -98,6 +98,10 @@
 <a href="https://www.loom.com/">Loom - Screen & Video Recording</a>
 </p>
 <p>
+<a href="https://www.midomi.com/">Midomi</a>
+<br>Mırıldanan sesten şarkıyı bulmaya çalışma  
+</p>
+<p>
 <a href="https://mixkit.co/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-24">Mixkit - Free Assets</a>
 </p>
 <p>
