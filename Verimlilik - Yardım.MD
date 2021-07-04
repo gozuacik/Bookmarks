@@ -122,6 +122,10 @@ that it was designated to materialise
 <br>LIVE TERMINAL BROADCAST
 </p>
 <p>
+<a href="https://tempail.com/tr/">Tempail</a>
+<br>Geçici E-Mail Adresi Alma
+</p>                                    
+<p>
 <a href="https://tinysheet.com/">Tinysheet</a>
 <br>Online Excel Sheet
 </p>    
