@@ -84,6 +84,10 @@
 <a href="https://isometric.online/">Isometric - Illustration</a>
 </p>
 <p>
+<a href="https://letsenhance.io/">Let's Enhance</a>
+<br>Düşük çözünürlüğe sahip fotoğrafların iyileştirilmesi
+</p>
+<p>
 <a href="https://www.listennotes.com/">Lister Notes - Podcast Search Engine</a>
 </p>
 <p>
