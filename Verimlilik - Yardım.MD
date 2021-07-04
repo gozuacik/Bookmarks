@@ -100,7 +100,11 @@
 <p>
 <a href="https://github.com/danburzo/percollate">percollate</a>
 <br>Command-line tool to turn web pages into beautifully formatted PDFs
-</p>                            
+</p>
+<p>
+<a href="https://www.phrasebank.manchester.ac.uk/">Phrasebank</a>
+<br>İngilizce Akademik Yazma ile ilgili tavsiyeler
+</p>                                                   
 <p>
 <a href="https://www.printfriendly.com/">Print Friendly & PDF</a>
 </p>
