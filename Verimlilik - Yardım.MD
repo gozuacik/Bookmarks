@@ -34,6 +34,10 @@
 <a href="https://www.cleverfiles.com/disk-drill-windows.html">Data Recovery Software for Windows</a>
 </p>
 <p>
+<a href="https://deftpdf.com//">DeftPDF</a>
+<br>Web üzerinde PDF düzenleme
+</p>                                                            
+<p>
 <a href="https://everydaycalculation.com/">Everyday Calculation</a>
 </p>
 <p>
@@ -60,7 +64,11 @@
 <p>
 <a href="http://www.hemingwayapp.com/">Hemingway Editor</a>
 <br>Hemingway App makes your writing bold and clear.                                    
-</p>                                     
+</p>
+<p>
+<a href="https://chrome.google.com/webstore/detail/highlighter/fdfcjfoifbjplmificlkdfneafllkgmn">Highlighter</a>
+<br>Web sitelerinde okuduğunuz metnin altını çizmeye yarayan bir Chrome eklentisi                                  
+</p>                                       
 <p>
 <a href="http://how-to-fix-a-toilet.com/">How To Fix</a>
 </p>
