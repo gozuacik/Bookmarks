@@ -191,5 +191,9 @@
 <br>Easily save videos from YouTube, Facebook, Instagram, Twitter, and other sites  
 </p>
 <p>
+<a href="https://voicenote.in/">VoiceNote</a>
+<br>Sesten yazıya çevirme, Speech to Text
+</p>
+<p>
 <a href="https://www.wordclouds.com/">Word Cloud Generator</a>
 </p>
