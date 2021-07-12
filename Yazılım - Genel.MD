@@ -19,6 +19,10 @@
 <br>C Programming, Network Programming
 </p>
 <p>
+<a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav">Data Structure Visualization</a>
+<br>Visualizations for generic data structures and algorithms.
+</p>
+<p>
 <a href="https://thesmartcoder.dev/books/">DevBooks</a>
 <br>DevBooks helps developers to find the best books for developers and authors to showcase their amazing work.
 </p>
