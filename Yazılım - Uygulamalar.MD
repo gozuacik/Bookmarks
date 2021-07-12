@@ -7,6 +7,10 @@
 <br>Create diagrams with code
 </p> 
 <p>
+<a href="https://swimlanes.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn">Swimlanes</a>
+<br>Create sequence diagrams with simple online tool.
+</p> 
+<p>
 <a href="https://smusamashah.github.io/text-to-diagram">Text-to-Diagram</a>
 <br>Online text to diagram tools
 </p> 
