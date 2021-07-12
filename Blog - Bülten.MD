@@ -50,6 +50,10 @@
 <br>Discover the best email newsletters.
 </p> 
 <p>
+<a href="http://shelldorado.com/">Shelldorado</a>
+<br>UNIX shell scripting resource.
+</p> 
+<p>
 <a href="https://stackhunt.xyz/">Stack Hunt</a>
 <br>Find engaging, fun, and informative newsletters for every topic
 </p> 
