@@ -9,6 +9,9 @@
 <a href="https://algorithm-visualizer.org/">Algorithm Visualizer</a>
 </p>
 <p>
+<a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students?utm_source=pocket_mylist">A to Z Resources for Students</a>
+</p>
+<p>
 <a href="https://awesomeopensource.com/">Awesome Open Source</a>
 </p>
 <p>
