@@ -3,7 +3,10 @@
 <br>Learn Data Sciences Online  
 </p>
 <p>
-<a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+<a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
+</p>
+<p>
+<a href="https://semanti.ca/blog/?glossary-of-machine-learning-terms">Glossary of Machine Learning Terms</a>
 </p>
 <p>
 <a href="https://okai.brown.edu/chapter0.html">OKAI</a>
