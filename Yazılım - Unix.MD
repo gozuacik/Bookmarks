@@ -7,6 +7,10 @@
 <br>Clues about Bash, Vim, Pyhton, Networking
 </p>
 <p>
+<a href="https://github.com/cirosantilli/linux-cheat">Linux Cheat</a>
+<br>Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities
+</p>
+<p>
 <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html">Linux Kernel Teaching</a>
 <br>This is a collection of lectures and labs Linux kernel topics
 </p>
