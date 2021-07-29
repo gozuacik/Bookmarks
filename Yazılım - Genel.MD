@@ -37,6 +37,9 @@
 <br>This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.  
 </p>
 <p>
+<a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a>
+</p>
+<p>
 <a href="https://opensource.google/">Google Open Source</a>
 </p>
 <p>
