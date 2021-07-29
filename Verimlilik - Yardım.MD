@@ -56,7 +56,11 @@
 </p>                              
 <p>
 <a href="https://medium.com/t%C3%BCrkiye/googleda-do%C4%9Fru-veriye-h%C4%B1zl%C4%B1-ula%C5%9Fmak-i%C3%A7in-arama-operat%C3%B6rleri-ve-google-%C4%B1n-gizli-%C3%B6zellikleri-cd7cfdde5844">Google Arama Tüyoları</a>
-</p>         
+</p>    
+<p>
+<a href="https://gcemetery.co/">Google Cemetery</a>
+<br>Google products which become extinct                                    
+</p>
 <p>
 <a href="https://www.heforshe.org/tr">HeForShe</a>
 <br>Toplumsal Cinsiyet Eşitliği                                     
