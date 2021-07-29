@@ -29,6 +29,10 @@
 <br>CV Düzenleme Aracı 
 </p>
 <p>
+<a href="https://www.screely.com/">Screely</a>
+<br>Generate Website Mockups Instantly Without Complicated Software
+</p>
+<p>
 <a href="https://spreadsimple.com/">SpreadSimple</a>
 <br>Simplify website management with SpreadSimple and Google Sheets
 </p>
