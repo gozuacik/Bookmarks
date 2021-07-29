@@ -70,6 +70,10 @@
 <br>Free Access to 170+ ebooks
 </p>
 <p>
+<a href="https://github.com/trimstray/the-book-of-secret-knowledge?utm_source=pocket_mylist">The Book of Secret Knowledge</a>
+<br>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+</p>
+<p>
 <a href="https://github.com/PizzaPokerGuy/ultimate-coding-resources">Ultimate Coding Resources</a>
 <br>A collection of the best resources for programming, web development, computer science and more.
 </p>
