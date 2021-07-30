@@ -40,6 +40,9 @@
 <a href="https://github.com/EbookFoundation/free-programming-books">Free Programming Books</a>
 </p>
 <p>
+<a href="https://medium.com/devopsturkiye/git-nedir-b9213666856c">Git Nedir</a>
+</p>
+<p>
 <a href="https://opensource.google/">Google Open Source</a>
 </p>
 <p>
