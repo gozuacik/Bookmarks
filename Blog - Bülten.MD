@@ -38,6 +38,10 @@
 <br>The new way of subscribing anonymously to newsletters
 </p> 
 <p>
+<a href="https://newsletterguide.org/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-21">Newsletter Guide</a>
+<br>A guide for taking your newsletters to the next level — growing the lists, making money, and more.
+</p> 
+<p>
 <a href="https://newsletterjunkie.com/">Newsletter Junkie</a>
 <br>A hand picked directory of the best newsletters
 </p> 
