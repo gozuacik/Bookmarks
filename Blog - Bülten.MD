@@ -54,8 +54,16 @@
 <br>Newsletters & Stacks.
 </p> 
 <p>
+<a href="https://preshing.com/">Preshing on Programming</a>
+<br>Software notes, especially for C++
+</p> 
+<p>
 <a href="https://www.radletters.com/">Rad Letters</a>
 <br>Discover the best email newsletters.
+</p> 
+<p>
+<a href="https://refined.blog/">Refined Blog</a>
+<br>Blog list about Software
 </p> 
 <p>
 <a href="http://shelldorado.com/">Shelldorado</a>
