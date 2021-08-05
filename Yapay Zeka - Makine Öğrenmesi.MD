@@ -68,5 +68,9 @@ verdiği "Makine Öğrenmesine Giriş" ders notlarını ve video kayıtlarını 
 <a href="https://seeing-theory.brown.edu/index.html">Seeing Theory</a>
 </p>
 <p>
+<a href="https://github.com/MAIF/shapash">shapash</a>
+<br>Python library which aims to make machine learning interpretable and understandable by everyone.
+</p>
+<p>
 <a href="http://www.veridefteri.com/">Veri Defteri</a>
 </p>
