@@ -9,6 +9,10 @@
 <a href="https://semanti.ca/blog/?glossary-of-machine-learning-terms">Glossary of Machine Learning Terms</a>
 </p>
 <p>
+<a href="https://notebook.community/">Jupyter Notebooks Gallery</a>
+<br>Notebook.community is an effort to archive the most interesting open-source Jupyter notebooks.
+</p>
+<p>
 <a href="https://okai.brown.edu/chapter0.html">OKAI</a>
 </p>
 <p>
