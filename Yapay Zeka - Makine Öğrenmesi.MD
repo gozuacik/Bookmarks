@@ -5,6 +5,10 @@
 <a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?utm_source=aidigest&utm_medium=email&utm_campaign=featured">A Visual Introduction to Machine Learning</a>
 </p>
 <p>
+<a href="https://github.com/visenger/awesome-mlops">Awesome MLOps</a>
+<br>An awesome list of references for MLOps - Machine Learning Operations
+</p>
+<p>
 <a href="https://wiki.tum.de/display/lfdv/Convolutional+Neural+Networks+for+Image+and+Video+Processing">Convolutional Neural Networks for Image and Video Processing</a>
 </p>
 <p>
