@@ -23,6 +23,10 @@
 <br>Tech Blog
 </p> 
 <p>
+<a href="https://d.sb/blog">Daniel15's Blog</a>
+<br>Tech Blog
+</p> 
+<p>
 <a href="https://discover.getrevue.co/">Discover Getrevue</a>
 <br>Curated list of newsletters with search functionality 
 </p> 
@@ -37,6 +41,10 @@
 <p>
 <a href="https://inboxreads.co//">InboxReads</a>
 <br>Find The Best Email Newsletters For Any Topic  
+</p>
+<p>
+<a href="https://jvns.ca/">Julia Evans</a>
+<br>Tech Blog 
 </p> 
 <p>
 <a href="https://www.kadinyazilimci.com/">Kadın Yazılımcı</a>
