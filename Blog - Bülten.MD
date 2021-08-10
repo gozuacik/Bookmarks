@@ -1,10 +1,26 @@
 <p>
+<a href="https://adityarohilla.com/blog/">Aditya Rohilla</a>
+<br>Tech Blog
+</p> 
+<p>
+<a href="https://www.alanbi.com/blog/">Alan Bi</a>
+<br>Tech Blog
+</p>
+<p>
+<a href="https://amitness.com/">Amit Chaudhary</a>
+<br>Tech Blog
+</p> 
+<p>
 <a href="https://brendangregg.com/index.html">Brendan D. Gregg's Blog</a>
 <br>Unix, Linux, Programming, Performance, Tracing
 </p> 
 <p>
 <a href="https://buttondown.email/">Buttondown</a>
 <br>The easiest way to write/run your newsletter.
+</p> 
+<p>
+<a href="http://colah.github.io/">colah's Blog</a>
+<br>Tech Blog
 </p> 
 <p>
 <a href="https://discover.getrevue.co/">Discover Getrevue</a>
