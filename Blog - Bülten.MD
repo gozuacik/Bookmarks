@@ -47,6 +47,10 @@
 <br>Tech Blog 
 </p> 
 <p>
+<a href="https://digitaldrummerj.me/blog/">Justin James</a>
+<br>Tech Blog 
+</p> 
+<p>
 <a href="https://www.kadinyazilimci.com/">Kadın Yazılımcı</a>
 </p> 
 <p>
@@ -56,6 +60,14 @@
 <p>
 <a href="https://letterlist.com/">Letter List</a>
 <br>Discover the best email newsletters
+</p> 
+<p>
+<a href="https://blog.isquaredsoftware.com/">Mark's Dev Blog</a>
+<br>Tech Blog 
+</p> 
+<p>
+<a href="https://martinfowler.com/">Martin Fowler</a>
+<br>Tech Blog 
 </p> 
 <p>
 <a href="https://newsletterest.com/">Newsletterest</a>
@@ -74,8 +86,20 @@
 <br>Discover curated newsletters to help youlearn about anything.
 </p> 
 <p>
+<a href="https://whoisnicoleharris.com/#writing">Nicole Harris</a>
+<br>Tech Blog 
+</p> 
+<p>
 <a href="https://www.nuton.co/">Nuton</a>
 <br>Newsletters & Stacks.
+</p>
+<p>
+<a href="https://www.paulox.net/">pauloxnet</a>
+<br>Tech Blog 
+</p> 
+<p>
+<a href="https://www.peterbe.com/">Peter Bengtsson</a>
+<br>Tech Blog 
 </p> 
 <p>
 <a href="https://preshing.com/">Preshing on Programming</a>
@@ -88,6 +112,10 @@
 <p>
 <a href="https://refined.blog/">Refined Blog</a>
 <br>Blog list about Software
+</p> 
+<p>
+<a href="https://girisagar46.github.io/">Sagar Giri</a>
+<br>Tech Blog 
 </p> 
 <p>
 <a href="http://shelldorado.com/">Shelldorado</a>
