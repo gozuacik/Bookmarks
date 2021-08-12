@@ -1,4 +1,8 @@
 <p>
+<a href="https://github.com/r0f1/datascience">Awesome Data Science with Python</a>
+<br>A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks. 
+</p>
+<p>
 <a href="https://www.datacamp.com/">DataCamp</a>
 <br>Learn Data Sciences Online  
 </p>
