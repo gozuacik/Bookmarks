@@ -19,6 +19,10 @@
 <br>Doğal Ürünler
 </p> 
 <p>
+<a href="https://www.lackerchocolates.com/">Läcker Chocolates</a>
+<br>Çikolata
+</p> 
+<p>
 <a href="https://www.metinbaba.com.tr/">Metin Baba</a>
 <br>Tahin Helva
 </p> 
