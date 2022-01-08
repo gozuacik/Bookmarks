@@ -11,6 +11,10 @@
 <br>Yöresel Ürünler: Mantı, Pastırma, Sucuk vb.
 </p> 
 <p>
+<a href="https://www.handeonel.com/">Hande Önel Bakery</a>
+<br>Pasta, Fırın
+</p> 
+<p>
 <a href="https://www.koyde.com/">Köyde</a>
 <br>Doğal Ürünler
 </p> 
