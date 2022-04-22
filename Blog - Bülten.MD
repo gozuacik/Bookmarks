@@ -126,6 +126,10 @@
 <br>Find engaging, fun, and informative newsletters for every topic
 </p> 
 <p>
+<a href="http://www.teapotea.com/">Teapotea</a>
+<br>Çay Blogu
+</p> 
+<p>
 <a href="https://www.thanksforsubscribing.app/">Thanks For Subscribing</a>
 <br>Make your inbox happy again! ❤️
 </p> 
