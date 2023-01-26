@@ -46,6 +46,10 @@
 <a href="https://medium.com/devopsturkiye/git-nedir-b9213666856c">Git Nedir</a>
 </p>
 <p>
+<a href="https://github.com/initialcommit-com/git-sim">Git-Sim</a>
+<br>Visually simulate Git operations in your own repos with a single terminal command. 
+</p>
+<p>
 <a href="https://opensource.google/">Google Open Source</a>
 </p>
 <p>
