@@ -6,16 +6,19 @@
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge">A Collection of Inspiring Resources</a>
 </p>
 <p>
-<a href="https://algorithm-visualizer.org/">Algorithm Visualizer</a>
+<a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students?utm_source=pocket_mylist">A to Z Resources for Students</a>
 </p>
 <p>
-<a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students?utm_source=pocket_mylist">A to Z Resources for Students</a>
+<a href="https://algorithm-visualizer.org/">Algorithm Visualizer</a>
 </p>
 <p>
 <a href="https://awesomeopensource.com/">Awesome Open Source</a>
 </p>
 <p>
 <a href="https://getawesomeness.herokuapp.com/">Awesome Programming Resources</a>
+</p>
+<p>
+<a href="https://github.com/DovAmir/awesome-design-patterns">Awesome Software and Architectural Design Patterns</a>
 </p>
 <p>
 <a href="http://beej.us/guide/">Beej's Guides</a>
