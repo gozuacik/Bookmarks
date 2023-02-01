@@ -3,6 +3,9 @@
 <br>A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks. 
 </p>
 <p>
+<a href="https://stanford-cs329s.github.io/syllabus.html">CS 329S: Machine Learning Systems Design</a>
+</p>
+<p>
 <a href="https://www.datacamp.com/">DataCamp</a>
 <br>Learn Data Sciences Online  
 </p>
