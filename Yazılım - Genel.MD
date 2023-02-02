@@ -56,6 +56,9 @@
 <a href="https://www.jollycode.org/">Jolly Code</a>
 </p>
 <p>
+<a href="https://github.com/techiescamp/kubernetes-learning-path?utm_source=tldrnewsletter">Kubernetes Learning Roadmap</a>
+</p>
+<p>
 <a href="https://libraries.io/">Libraries.io</a>
 </p>
 <p>
