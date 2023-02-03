@@ -16,6 +16,11 @@
 Link-aggregator website for academic article discussion
 </p>
 <p>
+<a href="https://github.com/papers-we-love/papers-we-love">Papers We Love</a>
+<br>
+Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.
+</p>
+<p>
 <a href="http://www.tubaterim.gov.tr/">TÜBA - Türkçe Bilim Terimleri Sözlüğü</a>
 <p>
 <p>
