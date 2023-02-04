@@ -23,6 +23,10 @@
 <br>Çikolata
 </p> 
 <p>
+<a href="https://www.mahizer.com.tr/">Mahizer</a>
+<br>Baklava-Kadayıf-Lokum
+</p> 
+<p>
 <a href="https://www.metinbaba.com.tr/">Metin Baba</a>
 <br>Tahin Helva
 </p> 
