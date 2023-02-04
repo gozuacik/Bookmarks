@@ -26,3 +26,8 @@
 <a href="https://www.metinbaba.com.tr/">Metin Baba</a>
 <br>Tahin Helva
 </p> 
+<p>
+<a href="https://www.ngp.com.tr/?lang=tr">Nadir Gastronomi Platformu</a>
+<br>Gastronomi ve kültür alt başlıklarını birleştiren ortak projeler geliştirmeyi ve iletişim programı sunmayı hedefleyen bir deneyim platformudur.
+</p> 
+
