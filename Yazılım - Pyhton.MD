@@ -7,6 +7,10 @@
 <br>Briefcase is a tool for converting a Python project into a standalone native application.
 </p> 
 <p>
+<a href="https://github.com/bloomberg/memray">Memray</a>
+<br>Memray is a memory profiler for Python.
+</p> 
+<p>
 <a href="https://learnbyexample.github.io/py_regular_expressions/">Python re(gex)?</a>
 <br>A magical tool for text processing.
 </p> 
