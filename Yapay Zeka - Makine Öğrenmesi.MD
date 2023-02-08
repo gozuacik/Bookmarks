@@ -49,6 +49,10 @@ verdiği "Makine Öğrenmesine Giriş" ders notlarını ve video kayıtlarını 
 <a href="https://machinelearningmastery.com/">Machine Learning Mastery</a>
 </p>
 <p>
+<a href="https://github.com/dair-ai/ML-Notebooks">Machine Learning Notebooks</a>
+<br>This repo contains machine learning notebooks for different tasks and applications. The notebooks are meant to be minimal, easily reusable, and extendable. You are free to use them for educational and research purposes.  
+</p>
+<p>
 <a href="https://medium.com/@ayyucekizrak">Medium - Ayyüce Kızrak</a>
 </p>
 <p>
