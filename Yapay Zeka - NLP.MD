@@ -2,6 +2,10 @@
 <a href="https://github.com/dbamman/anlp19">Applied Natural Language Processing (Spring 2019)</a>
 </p>
 <p>
+<a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a>
+<br>Curated list of resources for ChatGPT and GPT-3 from OpenAI  
+</p>
+<p>
 <a href="https://github.com/code-kern-ai/bricks">Bricks</a>
 <br>Browse bricks to find gold nuggets for your projects; enrich your texts e.g. with sentence complexity estimations, sentiment analysis, and more. 
 </p>
