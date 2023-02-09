@@ -2,6 +2,10 @@
 <a href="https://github.com/dbamman/anlp19">Applied Natural Language Processing (Spring 2019)</a>
 </p>
 <p>
+<a href="https://github.com/code-kern-ai/bricks">Bricks</a>
+<br>Browse bricks to find gold nuggets for your projects; enrich your texts e.g. with sentence complexity estimations, sentiment analysis, and more. 
+</p>
+<p>
 <a href="https://web.stanford.edu/class/cs224n/">CS224n: Natural Language Processing with Deep Learning</a>
 <br>Stanfor NLP Course  
 </p>
