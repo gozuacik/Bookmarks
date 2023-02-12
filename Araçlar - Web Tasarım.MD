@@ -37,6 +37,9 @@
 <br>Presentation Slides for Developers
 </p>
 <p>
+<a href="http://softr.io/">Softr</a>
+<br>Turn your Airtable or Google Sheets into modern business tools you need.
+<p>
 <a href="https://spreadsimple.com/">SpreadSimple</a>
 <br>Simplify website management with SpreadSimple and Google Sheets
 </p>
