@@ -24,6 +24,10 @@
 <br>Notebook.community is an effort to archive the most interesting open-source Jupyter notebooks.
 </p>
 <p>
+<a href="https://github.com/comet-ml/kangas">Kangas</a>
+<br>Kangas is a tool for exploring, analyzing, and visualizing large-scale multimedia data
+</p>
+<p>
 <a href="https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb?utm_source=pocket_mylist">Kapsamlı Derin Öğrenme Rehberi</a>
 </p>
 <p>
