@@ -53,6 +53,10 @@
 <a href="https://opensource.google/">Google Open Source</a>
 </p>
 <p>
+<a href="https://grep.app/">grep.app</a>
+<br>Search across a half million git repos.
+</p>
+<p>
 <a href="https://www.jollycode.org/">Jolly Code</a>
 </p>
 <p>
