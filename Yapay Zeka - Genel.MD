@@ -13,6 +13,10 @@
 <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
 </p>
 <p>
+<a href="https://www.futurepedia.io/">Futurepedia</a>
+<br>THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY  
+</p>
+<p>
 <a href="https://semanti.ca/blog/?glossary-of-machine-learning-terms">Glossary of Machine Learning Terms</a>
 </p>
 <p>
