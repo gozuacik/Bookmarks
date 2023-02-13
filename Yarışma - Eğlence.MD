@@ -3,6 +3,10 @@
 <br>Ücretsiz Geçici E-Posta Adresi Kullanma  
 </p>  
 <p>
+<a href="https://www.chronophoto.app/game.html">Chronophoto</a>
+<br>Fotoğrafın ait olduğu yılı tahmin etme üzerine bir yarışma.
+</p> 
+<p>
 <p>
 <a href="https://edebiyatyarismalari.com/">Edebiyat Yarışmaları</a>
 </p>  
