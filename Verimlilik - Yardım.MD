@@ -174,9 +174,11 @@ that it was designated to materialise
 </p>
 <p>
 <a href="https://whimsical.com/">Whimsical</a>
-<br>
-The Visual Workspace
+<br>The Visual Workspace
 </p>
+<p>
+<a href="https://wifi-qr-co.de/">WIFI QR Code</a>
+</p>                                
 <p>
 <a href="https://www.wikihow.com/Main-Page">wikiHow</a>
 </p>
