@@ -148,7 +148,11 @@ that it was designated to materialise
 <p>
 <a href="https://untools.co/?utm_source=startupresources.io_newsletter">Untools</a>
 <br>Tools for better thinking
-</p>                                 
+</p>  
+<p>
+<a href="https://vento.so/">Vento</a>
+<br>Stress-free Screen Recording                           
+</p>                                                                    
 <p>
 <a href="https://www.veed.io/">Video Editing - Online</a>
 </p>
