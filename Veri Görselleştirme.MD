@@ -3,6 +3,10 @@
 <br>Create charts online to visualize data
 </p>
 <p>
+<a href="https://dashboarddesignpatterns.github.io/">Dashboard Design Patterns</a>
+<br>This page lists design patterns for dashboard design collected to support the design and creative exploration of dashboard design.
+</p>
+<p>
 <a href="https://datamaps.world/">Datamaps</a>
 </p>
 <p>
