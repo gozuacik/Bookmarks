@@ -12,6 +12,10 @@
 <a href="https://algorithm-visualizer.org/">Algorithm Visualizer</a>
 </p>
 <p>
+<a href="https://github.com/oz123/awesome-c">Awesome C</a>
+<br>A curated list of C good stuff.  
+</p>
+<p>
 <a href="https://awesomeopensource.com/">Awesome Open Source</a>
 </p>
 <p>
