@@ -31,6 +31,9 @@
 <br>Curated list of newsletters with search functionality 
 </p> 
 <p>
+<a href="https://github.com/kilimchoi/engineering-blogs">Engineering Blogs</a>
+</p> 
+<p>
 <a href="https://findnewsletters.com/">Find Your Newsletter</a>
 <br>The best newsletters on the web
 </p> 
