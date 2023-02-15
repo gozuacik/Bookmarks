@@ -50,6 +50,9 @@
 <br>Curated list of newsletters with search functionality 
 </p> 
 <p>
+<a href="https://engineering.fb.com/">Engineering at Meta</a>
+</p> 
+<p>
 <a href="https://github.com/kilimchoi/engineering-blogs">Engineering Blogs</a>
 </p> 
 <p>
@@ -58,6 +61,9 @@
 <p>
 <a href="https://findnewsletters.com/">Find Your Newsletter</a>
 <br>The best newsletters on the web
+</p> 
+<p>
+<a href="https://grafana.com/blog/">Grafana Blog</a>
 </p> 
 <p>
 <a href="https://www.gurayyildirim.com.tr/">Güray YILDIRIM</a>
