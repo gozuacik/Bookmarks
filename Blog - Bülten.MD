@@ -53,6 +53,9 @@
 <a href="https://github.com/kilimchoi/engineering-blogs">Engineering Blogs</a>
 </p> 
 <p>
+<a href="https://evernote.com/blog/">Evernote Blog</a>
+</p> 
+<p>
 <a href="https://findnewsletters.com/">Find Your Newsletter</a>
 <br>The best newsletters on the web
 </p> 
