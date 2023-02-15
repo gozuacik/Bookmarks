@@ -1,4 +1,8 @@
 <p>
+<a href="https://8thlight.com/insights/">8th Light</a>
+<br>Sparking ideas, insights, and creative solutions
+</p> 
+<p>
 <a href="https://adityarohilla.com/blog/">Aditya Rohilla</a>
 <br>Tech Blog
 </p> 
@@ -17,6 +21,14 @@
 <p>
 <a href="https://buttondown.email/">Buttondown</a>
 <br>The easiest way to write/run your newsletter.
+</p> 
+<p>
+<a href="https://canvatechblog.com/">Canva Engineering Blog</a>
+<br>The technology behind Canva
+</p> 
+<p>
+<a href="https://blog.codelitt.com/">Codelitt Blog</a>
+<br>Providing the best possible products and solutions using cutting edge technology and genuine, personal connections.
 </p> 
 <p>
 <a href="http://colah.github.io/">colah's Blog</a>
