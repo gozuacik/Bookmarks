@@ -31,8 +31,15 @@
 <br>Providing the best possible products and solutions using cutting edge technology and genuine, personal connections.
 </p> 
 <p>
+<a href="https://www.codementor.io/community">Codementor Blog</a>
+<br>Share insights, exchange ideas, and learn from fellow developers.
+</p> 
+<p>
 <a href="http://colah.github.io/">colah's Blog</a>
 <br>Tech Blog
+</p> 
+<p>
+<a href="https://cloud.blog.csc.fi/">CSC - IT Center For Science - Cloud Team</a>
 </p> 
 <p>
 <a href="https://d.sb/blog">Daniel15's Blog</a>
