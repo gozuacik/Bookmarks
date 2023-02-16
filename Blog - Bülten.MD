@@ -74,6 +74,9 @@
 <br>Find The Best Email Newsletters For Any Topic  
 </p>
 <p>
+<a href="https://engineering.imvu.com/">IMVU Engineering Blog</a>
+</p>
+<p>
 <a href="https://jvns.ca/">Julia Evans</a>
 <br>Tech Blog 
 </p> 
