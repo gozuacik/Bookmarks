@@ -159,6 +159,10 @@
 <a href="https://rfclipart.com/?utm_campaign=StartupResources.io&utm_medium=email&utm_source=Revue%20newsletter">RFclipart</a>
 </p>
 <p>
+<a href="https://same.energy/">Same Energy</a>
+<br>Visual image search  
+</p>
+<p>
 <a href="https://shape.so/">Shape</a>
 </p>
 <p>
