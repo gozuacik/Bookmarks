@@ -41,6 +41,10 @@
 <a href="https://everydaycalculation.com/">Everyday Calculation</a>
 </p>
 <p>
+<a href="https://exceljet.net/formulas">ExcelJet</a>
+<br>Excel Formulas                                       
+</p>                                          
+<p>
 <a href="https://www.flightradar24.com/">FlightRadar24</a>
 <br>Uçak Takibi                                        
 </p>                                          
