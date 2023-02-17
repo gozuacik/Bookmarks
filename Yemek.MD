@@ -3,6 +3,10 @@
 <br>Kuruyemiş
 </p>
 <p>
+<a href="https://www.ayvalikzade.com/">Ayvalıkzade</a>
+<br>Çikolata | Kahve | Dondurma | Ayvalık
+</p>
+<p>
 <a href="https://badecikolata.com/">Bade Çikolata</a>
 <br>El Yapımı Çikolatalar
 </p> 
