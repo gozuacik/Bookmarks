@@ -22,3 +22,7 @@
 <a href="https://smusamashah.github.io/text-to-diagram">Text-to-Diagram</a>
 <br>Online text to diagram tools
 </p> 
+<p>
+<a href="https://textvis.lnu.se/">Text Visualization Browser</a>
+<br>A Visual Survey of Text Visualization Techniques
+</p> 
