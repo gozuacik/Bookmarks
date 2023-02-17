@@ -13,6 +13,10 @@
 <br>Free Hand-Drawn Animated GIF Creator  
 </p>
 <p>
+<a href="https://www.usegalileo.ai/">Galileo AI</a>
+<br>Creates delightful, editable UI designs from a simple text description.  
+</p>
+<p>
 <a href="https://myquicksite.com/?ref=producthunt">MyQuickSite</a>
 <br>Create websites from Google Sheets  
 </p>
