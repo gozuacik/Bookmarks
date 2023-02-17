@@ -53,6 +53,9 @@
 <a href="https://engineering.fb.com/">Engineering at Meta</a>
 </p> 
 <p>
+<a href="https://quoraengineering.quora.com/">Engineering at Quora</a>
+</p> 
+<p>
 <a href="https://github.com/kilimchoi/engineering-blogs">Engineering Blogs</a>
 </p> 
 <p>
@@ -168,8 +171,17 @@
 <br>Discover the best email newsletters.
 </p> 
 <p>
+<a href="https://www.reddit.com/r/RedditEng/">RedditEng</a>
+</p> 
+<p>
+<a href="https://developers.redhat.com/blog">Red Hat Developer</a>
+</p> 
+<p>
 <a href="https://refined.blog/">Refined Blog</a>
 <br>Blog list about Software
+</p> 
+<p>
+<a href="https://blog.robertelder.org/">Robert Elder</a>
 </p> 
 <p>
 <a href="https://girisagar46.github.io/">Sagar Giri</a>
@@ -184,6 +196,10 @@
 <br>Find engaging, fun, and informative newsletters for every topic
 </p> 
 <p>
+<a href="https://www.stridenyc.com/blog">Stride</a>
+<br>Tech Blog
+</p> 
+<p>
 <a href="http://www.teapotea.com/">Teapotea</a>
 <br>Çay Blogu
 </p> 
@@ -191,6 +207,8 @@
 <a href="https://www.thanksforsubscribing.app/">Thanks For Subscribing</a>
 <br>Make your inbox happy again! ❤️
 </p> 
-
+<p>
+<a href="https://stackoverflow.blog/engineering/">The Overflow</a>
+</p> 
 
 
