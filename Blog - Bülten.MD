@@ -70,6 +70,10 @@
 <br>Personal Blog About DevOps, GNU/Linux and Docker  
 </p> 
 <p>
+<a href="https://ibakesoftware.com/">I Bake Software</a>
+<br>Tech Blog  
+</p>
+<p>
 <a href="https://inboxreads.co//">InboxReads</a>
 <br>Find The Best Email Newsletters For Any Topic  
 </p>
@@ -102,12 +106,18 @@
 <br>Discover the best email newsletters
 </p> 
 <p>
+<a href="https://www.madetech.com/blog/">Made Tech Blog</a>
+</p> 
+<p>
 <a href="https://blog.isquaredsoftware.com/">Mark's Dev Blog</a>
 <br>Tech Blog 
 </p> 
 <p>
 <a href="https://martinfowler.com/">Martin Fowler</a>
 <br>Tech Blog 
+</p>
+<p>
+<a href="https://netflixtechblog.com/">Netflix Tech Blog</a>
 </p> 
 <p>
 <a href="https://newsletterest.com/">Newsletterest</a>
@@ -134,6 +144,9 @@
 <br>Newsletters & Stacks.
 </p>
 <p>
+<a href="https://code.oursky.com/">Oursky Code Blog</a>
+</p>
+<p>
 <a href="https://www.paulox.net/">pauloxnet</a>
 <br>Tech Blog 
 </p> 
@@ -141,9 +154,14 @@
 <a href="https://www.peterbe.com/">Peter Bengtsson</a>
 <br>Tech Blog 
 </p> 
+<a href="https://www.pluralsight.com/guides">Pluralsight Blog</a>
+</p> 
 <p>
 <a href="https://preshing.com/">Preshing on Programming</a>
 <br>Software notes, especially for C++
+</p> 
+<p>
+<a href="https://www.pubnub.com/blog/">PubNub Blog</a>
 </p> 
 <p>
 <a href="https://www.radletters.com/">Rad Letters</a>
