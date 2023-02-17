@@ -13,6 +13,9 @@
 <br>Free Hand-Drawn Animated GIF Creator  
 </p>
 <p>
+<a href="https://freetools.site/">Free Online Tools</a>
+</p>
+<p>
 <a href="https://www.usegalileo.ai/">Galileo AI</a>
 <br>Creates delightful, editable UI designs from a simple text description.  
 </p>
