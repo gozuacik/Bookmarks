@@ -17,6 +17,10 @@
 <br>Creates delightful, editable UI designs from a simple text description.  
 </p>
 <p>
+<a href="https://hiya.io/">Hiya</a>
+<br>Websites for professionals. 
+</p>
+<p>
 <a href="https://myquicksite.com/?ref=producthunt">MyQuickSite</a>
 <br>Create websites from Google Sheets  
 </p>
