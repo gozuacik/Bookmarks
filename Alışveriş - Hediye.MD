@@ -5,6 +5,10 @@
 <a href="https://www.bazarazia.com/index/home">BazarAzia</a>
 </p>
 <p>
+<a href="https://beije.co/">beije</a>
+<br>Doğal, sürdürülebilir hijyenik ürünler.
+</p>
+<p>
 <a href="https://www.bidolubaski.com/">BiDoluBaskı</a>
 </p>
 <p>
