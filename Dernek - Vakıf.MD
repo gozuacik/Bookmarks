@@ -303,9 +303,105 @@
 <br>Aile ve Sosyal Politikalar Bakanlığı Çocuk Hizmetleri Genel Müdürlüğü'ne bağlı Sevgi Evleri il Çocuk Destek Merkezleri açmak, tefriş etmek vb.
 </p> 
 <p>
+<a href="https://www.nirengidernegi.org/tr/anasayfa/">Nirengi Derneği</a>
+<br>Psikososyal Destek, İnsani Yardım-Afet ve Acil Durum Yönetimi ve Kalkınma, Risk Altındaki Gruplara Yönelik Doğrudan Destekleme, Savunuculuk ve Ağ Oluşturma, Politika Oluşturma, Toplumsal Diyalog ve Kalkınma, Kapasite Geliştirme ve Araştırma alanlarında projeler yürüten bir sivil toplum kuruluşudur.
+</p> 
+<p>
+<a href="https://okuldestek.org/">Okul Destek Derneği</a>
+<br>Devlet ortaokulu öğrencilerinin eğitimine yıl boyu süren ücretsiz ve çevrim içi destek.
+</p>
+<p>
+<a href="https://www.otistiklerdernegi.org.tr/">Otistikler Derneği</a>
+<br>Farklı gelişen bireylerin toplumla entegrasyonu amaçlanmaktadır.
+</p>
+<p>
+<a href="https://www.obidev.org/">Otizmli Bireyleri Destekleme Vakfı (OBİDEV)</a>
+<br>Otizm Spektrum Bozukluğu (OSB) tanısı almış bireylerin, bağımsız yaşam ve kaynaştırma ihtiyaçlarının dünya standartlarında karşılandığı bir sivil toplum kuruluşu.
+</p>
+<p>
+<a href="https://oyveotesi.org/">Oy ve Ötesi Derneği</a>
+<br>Türkiye’de katılımcı demokrasi anlayışının yerleşmesine yönelik projeler yapmak.
+</p>
+<p>
+<a href="https://www.oyunatlasi.co/index.asp">Oyun Atlası Derneği</a>
+<br>Antik ve geleneksel oyunların izini süren, arşivleyen ve yeniden tasarlayarak yaşatan bir sosyal girişimdir.
+</p>
+<p>
+<a href="https://oyundakaldernegi.org/">Oyunda Kal Derneği</a>
+<br>Geleceği bilinebilir kılmak mümkün inancı ile gençleri üreten, hoşgörülü, sorgulayan, kendini tanıyan bireyler olarak topluma kazandırmak.
+</p>
+<p>
+<a href="https://www.orav.org.tr/">Öğretmen Akademisi Vakfı (ÖRAV)</a>
+<br>Türkiye'de öğretmenlerin kişisel ve mesleki gelişimine katkı sağlamak amacıyla faaliyet gösteren etkin bir sivil toplum kuruluşu olmak.
+</p>
+<p>
+<a href="https://www.onemsiyoruz.org/">Önemsiyoruz Derneği</a>
+<br>Risk altındaki çocukların ve çevresindeki yetişkinlerin; sosyal, kültürel ve ekonomik alanda iyi bir yaşam sürmeleri için çalışır.
+</p>
+<p>
+<a href="https://www.parilti.org.tr/">Parıltı Görmeyen Çocuklara Destek Derneği</a>
+<br>Görmeyen ve az gören çocukları doğumlarından, eğitimleri tamamlanana kadar her alanda yaşıtlarıyla aynı seviyeye getirmektir
+</p>
+<p>
+<a href="https://www.patikadernek.com/">Patika Doğa ve Yaşama Saygı Derneği</a>
+<br>Sokak hayvanlarını korumak.
+</p>
+<p>
+<a href="https://paylasimcitoplum.org/">Paylaşımcı Toplum Derneği</a>
+<br>Gençlik Çalışmaları, Hak Savunuculuğu.
+</p>
+<p>
+<a href="https://www.paydaplatformu.org/">Paylaşma ve Dayanışma Platformu Derneği (PAYDA)</a>
+<br>Toplumda çeşitli nedenler ile birbirlerinden uzaklaşmış kesimlerin etkileşimlerinin arttırılarak yakınlaşmalarının sağlanması.
+</p>
+<p>
+<a href="https://www.kadinkanserleridernegi.org/">Pembe İzler Kadın Kanserleri Derneği</a>
+<br>Kadın kanserleri ile savaşan hastaların tanı, tedavi, koruyucu girişimsel işlemlerini üstlenmek ve psikolojik destek sağlamayı amaçlamaktadır.
+</p>
+<p>
+<a href="https://www.pigenclikdernegi.org/tr/ana-sayfa/">Pi Gençlik Derneği</a>
+<br>Gençlik hakları ve sorunları alanında faaliyet gösteren bir sivil toplum kuruluşudur.
+</p>
+<p>
+<a href="https://www.pahssc.org.tr/">Pulmoner Hipertansiyon ve Skleroderma Hasta Derneği</a>
+<br>Nadir Hastalık Pulmoner Hipertansiyon ve Skleroderma Hastalıkları için Farkındalık oluşturmak, hak savunuculuğu yapmak. Hasta eğitimleri yapmak.
+</p>
+<p>
+<a href="https://www.rehberkopeklerdernegi.org/">Rehber Köpekler Derneği</a>
+<br>Göremeyen kişilerin toplumda bağımsız hareket edebilmeleri için tamamen bedelsiz olarak rehber köpek eğitimi ve teslimi.
+</p>
+<p>
+<a href="https://www.ucim.org.tr/">Saadet Öğretmen Çocuk İstismarı ile Mücadele Derneği</a>
+<br>Çocuk istismarı ile mücadele etmek amacı ile 2017 yılında kurulmuş bir sivil toplum kuruluşudur.
+</p> 
+<p>
+<a href="https://www.saglikhakki.net/>Sağlık Hakkı Derneği</a>
+<br>Sağlık hakları ve sağlık okuryazarlığı konularında savunuculuk, farkındalık ve kapasite geliştirme çalışmaları yürütmektedir.
+</p> 
+<p>
+<a href="https://www.sagkal.org/">Sağlıkta Kalite Derneği</a>
+<br>Bireylerin sağlıklı yaş almalarına katkı sağlayarak toplum sağlığını korumak.
+</p> 
+<p>
+<a href="https://seyev.org/">Seda Yekeler Eğitim Vakfı (SEYEV)</a>
+<br>Türkiye’de yabancı dil ediniminde ilkokuldan üniversiteye kadar her bir bireye fırsat eşitliği tanımak.
+</p>    
+<p>
+<a href="https://www.seyvakfi.org/">Semra ve Enver Yücel (SEY) Vakfı</a>
+<br>Asgari ücretle geçinen ailelerin çocuklarına 8.sınıf sonuna kadar %100 eğitim bursu vermek.
+</p>     
+<p>
+<a href="https://sercev.org.tr/">Serebral Palsili Çocuklar Derneği (SERÇEV)</a>
+<br>Ülkemizdeki 600 bin serebral palsili bireye ulaşmak sorunlarının çözümünde ve ihtiyaçlarının karşılanmasında aktif rol almak.
+</p>                                     
+<p>
 <a href="http://bomovu.org/tr/">Sosyal Güçlendirme için Spor ve Beden Hareketi Derneği</a>
 <br>Her insanın, tüm temel hakların esasında yatan vücut bütünlüğü hakkına erişimi ve bu hakkın korunması için çalışıyoruz.
 </p> 
+<p>
+<a href="http://www.sendegel.org.tr/">Sosyal ve Ekonomik Yaşamda Nitelikli Değişim ve Gelişime Destek Derneği (Sen De Gel)</a>
+<br>Sosyal ve ekonomik alanda sürdürülebilir gelişim programları aracılığıyla “en az gelişmiş ülkelerin” sorunlarına çözümler üretmek.
+</p>                                
 <p>
 <a href="https://kasder.org.tr/">Türkiye Kas Hastalıkları Derneği (KASDER)</a>
 <br>Kas hastalarının daha kaliteli yaşam sürmelerini sağlamak, hastalara ve topluma rehber olmak, çözüm önerileri sunarak, uygulanmasını sağlamak.
