@@ -13,7 +13,7 @@ Bookmark Repository
 <br>
 [Dergi](Dergi.MD)
 <br>
-[Dernek - Vakıf](Dernek%20-%20Vakıf.MD)
+[Dernek - Vakıf - Soyal Girişim](Dernek%20-%20Vakıf.MD)
 <br>
 [Devlet](Devlet.MD)
 <br>
