@@ -437,6 +437,14 @@
 <a href="https://www.tog.org.tr/">Toy Gençlik Derneği</a>
 <br>Gençlerin, kendilerini ilgilendiren konularda karar alma süreçlerine aktif katılımını sağlama, akranlar arası yatay öğrenme ortamlarını yaratma.
 </p>
+<p> 
+<a href="https://turetimekonomisi.org/">Türetim Ekonomisi Derneği</a>
+<br>Ekolojik ve sosyal açıdan adil, doğaya ve insana dost bir ekonomik sistem olan türetim ekonomisini güçlendirmek ve kitlelere yaymak.
+</p>
+<p>
+<a href="https://www.ted.org.tr/">Türk Eğitim Derneği (TED)</a>
+<br>Okullar, yurtlar açmak. Olanaksız çocuklara burslar vermek. Bilimsel platformlar, projeler ile eğitim politikalarına yön vermek.
+</p> 
 <p>
 <a href="https://www.tev.org.tr/anasayfa/tr">Türk Eğitim Vakfı (TEV)</a>
 <br>Başarılı fakat maddi olanaklardan yoksun, ülkemize ve insanlığa katkı sağlayacak gençleri ve onların yetişecekleri eğitim sistemini desteklemek.
@@ -454,8 +462,16 @@
 <br>Toplumumuzun Alzheimer hastalığı konusunda bilinçlendirilmesi; Alzheimer Hastalarına ve yakınlarına destek vermek.
 </p> 
 <p>
+<a href="https://tubed.org.tr/">Türkiye Beden Eğitimi Öğretmenleri Derneği (TÜBED)</a>
+<br>Mesleki gelişime yönelik bilimsel ve sosyal etkinlikler düzenlemek. Spor kültürünün yaygınlaştırılması adına paydaşlarla işbirliği yapmak.
+</p> 
+<p>
 <a href="http://www.tcyov.org/">Türkiye Çocuklara Yeniden Özgürlük Vakfı (TÇYOV)</a>
 <br>Suça sürüklenen çocukların tutuksuz yargılanması, tutuklulukları ve hükümlülükleri sırasında ve sonrasında güven duygularının geliştirilmesi.
+</p> 
+<p>
+<a href="https://tegv.org/">Türkiye Eğitim Gönüllüleri Vakfı (TEGV)</a>
+<br>Amacımız ilköğretim çağındaki imkanları kısıtlı çocuklarımızın eğitimlerine destek olmaktır.
 </p> 
 <p>
 <a href="http://tesyev.org/tr/anasayfa">Türkiye Engelliler Spor Yardım ve Eğitim Vakfı (TESYEV)</a>
@@ -482,6 +498,62 @@
 <br>Otizmin ülke çapında tanınmasını sağlamak, halkı bu konuda bilgilendirmek, tanı, terapi, eğitim ve rehabilitasyon hizmetlerini gerçekleştirmek.
 </p>
 <p>
+<a href="https://www.sma.org.tr/">Türkiye SMA Vakfı</a>
+<br>SMA hasta ve ailelerine hizmet veren; tedavi, eğitim ve sosyal haklara erişim için lobicilik, savunuculuk yapan hak temelli çalışan bir STK'dır.
+</p>
+<p>
+<a href="https://www.tscv.org.tr/">Türkiye Spastik Çocuklar Vakfı (TSÇV)</a>
+<br>Cerebral Palsy’li çocuk ve erişkinlere teşhis, tedavi, rehabilitasyon ve eğitim hizmeti sağlamak; CP ile ilgili toplumsal farkındalık yaratmak.
+</p>
+<p>
+<a href="https://www.spinabifida.org.tr/">Türkiye Spina Bifida Derneği</a>
+<br>Toplumu Spina Bifida ve önlenmesi için bilinçlendirerek Spina Bifidalı doğum oranını azaltmak, spina bifidalıların yaşam kalitelerini yükseltmek.
+</p>
+<p>
 <a href="https://www.tocev.org.tr/">Tüvana Okuma İstekli Çocuk Eğitim Vakfı (TOÇEV)</a>
 <br>Maddi yetersizlik içerisinde olan ailelerin okuma istekli çocuklarına destek vermek.
+</p> 
+<p>
+<a href="https://bambugep.org/">Uluslararası Bambu Eğitim Derneği</a>
+<br>Eğitimde fırsat eşitliğini artırmak için çevrimiçi eğitim çalışmaları yürüterek 4-18 yaş grubundaki çocukların eğitimlerine destek olmaktır.
+</p> 
+<p>
+<a href="https://www.unicefturk.org/">UNICEF Türkiye</a>
+<br>UNICEF’in dünyada ve Türkiye'de çocukların sağlığı, eğitimi, korunması ve çocuk hakları ile ilgili yürüttüğü çalışmalara kaynak geliştirmek.
+</p> 
+<p>
+<a href="https://unvansizgonulluler.org/">Unvansız Gönüllüler Derneği</a>
+<br>Farklı unvanlara sahip gönüllüleri bir araya getirerek topluma fayda sağlamak ve farkındalık yaratmak.
+</p> 
+<p>
+<a href="https://www.wwf.org.tr/">WWF-Türkiye</a>
+<br>İnsanlığın doğayla uyum içinde yaşadığı bir geleceğin kurulması için çalışıyoruz.
+</p> 
+<p>
+<a href="https://www.yanindayiz.org/">Yanındayız Derneği</a>
+<br>Evrensel insan hakları anlayışı çerçevesinde, Türkiye’de toplumsal cinsiyet eşitliğinin sağlanmasını amaçlıyor.
+</p> 
+<p>
+<a href="https://yayadernegi.org/">Yaya Derneği</a>
+<br>Amacımız, ülkemizdeki yaya hakları düşünce ve uygulamasının, Avrupa Yaya Hakları Bildirgesi boyutunda gelişmesi için çalışmalar yapmaktır.
+</p> 
+<p>
+<a href="https://www.yenidenbiz.org/">YenidenBiz Derneği</a>
+<br>İş hayatına ara vermiş eğitimli ve deneyimli kadınları güçlendirmek ve işe dönmelerini kolaylaştırmak için çalışmaktadır
+</p> 
+<p>
+<a href="https://yesilkitaplik.org/">Yeşil Kitaplık Derneği</a>
+<br>Türkiye’deki gelir seviyesi düşük okullara kitap desteği amacı ile kurulmuştur.
+</p> 
+<p>
+<a href="https://www.yoret.org.tr/">YÖRET</a>
+<br>Çocuk ve gençlerin yetişmesine katkıda bulunmak üzere, sürekli eğitim ve hizmet projeleri yürüterek, toplumun yaşam kalitesini artırmaktır.
+</p> 
+<p>
+<a href="https://yuvamdunya.org/">Yuvam Dünya</a>
+<br>İklim kriziyle mücadelede toplumun her kesimine ulaşarak dünyaya ve kaynaklarına saygılı nesiller yetişmesine öncü olmak.
+</p> 
+<p>
+<a href="https://www.zicev.org.tr/">Zihinsel Yetersiz Çocukları Yetiştirme ve Koruma Vakfı (ZİÇEV)</a>
+<br>Özel gereksinimli öğrencilerimizin, sahip olduğu potansiyeli ortaya çıkararak bağımsız bireyler olmaları için yol göstermek.
 </p> 
