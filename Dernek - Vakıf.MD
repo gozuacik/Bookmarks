@@ -375,8 +375,12 @@
 <br>Çocuk istismarı ile mücadele etmek amacı ile 2017 yılında kurulmuş bir sivil toplum kuruluşudur.
 </p> 
 <p>
-<a href="https://www.saglikhakki.net/>Sağlık Hakkı Derneği</a>
+<a href="https://www.saglikhakki.net/">Sağlık Hakkı Derneği</a>
 <br>Sağlık hakları ve sağlık okuryazarlığı konularında savunuculuk, farkındalık ve kapasite geliştirme çalışmaları yürütmektedir.
+</p> 
+<p>
+<a href="https://sagliktagenc.org/">Sağlıkta Genç Yaklaşımlar Derneği (SGYD)</a>
+<br>Gençlerin cinsel sağlığı ve üreme sağlığı konularındaki bilgilerini artırarak gençlerin yeni yaşam becerileri kazanması.
 </p> 
 <p>
 <a href="https://www.sagkal.org/">Sağlıkta Kalite Derneği</a>
@@ -393,7 +397,11 @@
 <p>
 <a href="https://sercev.org.tr/">Serebral Palsili Çocuklar Derneği (SERÇEV)</a>
 <br>Ülkemizdeki 600 bin serebral palsili bireye ulaşmak sorunlarının çözümünde ve ihtiyaçlarının karşılanmasında aktif rol almak.
-</p>                                     
+</p>  
+<p>
+<a href="https://sisterslab.co/">SistersLab | Bilim ve Teknolojide Kadın Derneği</a>
+<br>STEM alanlarında cinsiyet eşitliği farkındalığını artırmayı, kız çocukları ve kadınları eğitimler yoluyla güçlendirmeyi hedefleyen STK'dır.
+</p> 
 <p>
 <a href="http://bomovu.org/tr/">Sosyal Güçlendirme için Spor ve Beden Hareketi Derneği</a>
 <br>Her insanın, tüm temel hakların esasında yatan vücut bütünlüğü hakkına erişimi ve bu hakkın korunması için çalışıyoruz.
@@ -401,8 +409,79 @@
 <p>
 <a href="http://www.sendegel.org.tr/">Sosyal ve Ekonomik Yaşamda Nitelikli Değişim ve Gelişime Destek Derneği (Sen De Gel)</a>
 <br>Sosyal ve ekonomik alanda sürdürülebilir gelişim programları aracılığıyla “en az gelişmiş ülkelerin” sorunlarına çözümler üretmek.
-</p>                                
+</p>    
+<p>
+<a href="http://www.siddetsizlikmerkezi.org/">Şiddetsizlik Eğitim ve Araştırma Derneği</a>
+<br>Her gün, her koşulda, hep birlikte şiddetsiz bir dünya için çalışıyoruz.
+</p> 
+<p>
+<a href="https://tarihvakfi.org.tr/">Tarih Vakfı</a>
+<br>Ülkemizde demokratik tarih bilincinin geliştirilip yaygınlaştırılması.
+</p> 
+<a href="https://www.tider.org/">Temel İhtiyaç Derneği (TİDER)</a>
+<br>Yoksulluk sınırı altında yaşayan insanların temel ihtiyaçlara ulaşabilmelerini,ardından iş edinip kendi ayakları üzerinde durabilmelerini sağlar.
+</p> 
+<p> 
+<a href="https://tohumotizm.org.tr/">Tohum Otizm Vakfı</a>
+<br>Otizmli çocukları topluma kazandırmak için, kar amacı gütmeden ve kamu yararını gözeterek, erken tanı ve eğitim hizmeti vermek.
+</p> 
+<p> 
+<a href="https://www.tohumlukvakfi.org/">Tohumluk Vakfı</a>
+<br>Köy ve kırsalda toplumsal, kültürel, ekonomik ve sosyal gelişime yardımcı olmayı hedefler.
+</p> 
+<p> 
+<a href="https://www.toygenclik.org/">Toplum Gönüllüleri Vakfı (TOG)</a>
+<br>Gençlerin gönüllü olarak sosyal sorumluluk çalışmalarına katılmasını sağlayarak kişisel gelişimlerine katkıda bulunmak.
+</p>
+<p> 
+<a href="https://www.tog.org.tr/">Toy Gençlik Derneği</a>
+<br>Gençlerin, kendilerini ilgilendiren konularda karar alma süreçlerine aktif katılımını sağlama, akranlar arası yatay öğrenme ortamlarını yaratma.
+</p>
+<p>
+<a href="https://www.tev.org.tr/anasayfa/tr">Türk Eğitim Vakfı (TEV)</a>
+<br>Başarılı fakat maddi olanaklardan yoksun, ülkemize ve insanlığa katkı sağlayacak gençleri ve onların yetişecekleri eğitim sistemini desteklemek.
+</p> 
+<p>
+<a href="https://www.turkkanserdernegi.org/">Türk Kanser Derneği (TKD)</a>
+<br>Kanser hastalarına maddi-manevi destek olmak ve ücretsiz kanser tarama programlarıyla, eğitimler ile vs toplumda kanser farkındalığı oluşturmak.
+</p> 
+<p>
+<a href="https://www.turkkulturvakfi.org.tr/">Türk Kültür Vakfı (TKV)</a>
+<br>“Barış ve uyumun birleştirdiği bir dünya için çalışmak”.
+</p> 
+<p>
+<a href="https://www.alzheimerdernegi.org.tr/">Türkiye Alzheimer Derneği (TAD)</a>
+<br>Toplumumuzun Alzheimer hastalığı konusunda bilinçlendirilmesi; Alzheimer Hastalarına ve yakınlarına destek vermek.
+</p> 
+<p>
+<a href="http://www.tcyov.org/">Türkiye Çocuklara Yeniden Özgürlük Vakfı (TÇYOV)</a>
+<br>Suça sürüklenen çocukların tutuksuz yargılanması, tutuklulukları ve hükümlülükleri sırasında ve sonrasında güven duygularının geliştirilmesi.
+</p> 
+<p>
+<a href="http://tesyev.org/tr/anasayfa">Türkiye Engelliler Spor Yardım ve Eğitim Vakfı (TESYEV)</a>
+<br>İhtiyaç sahibi, %40 ve üzeri engelli bireylerin, eğitim, sağlık ve spor malzemesi ihtiyaçlarına destek oluyoruz.
+</p> 
+<p>
+<a href="https://www.tema.org.tr/">Türkiye Erozyonla Mücadele, Ağaçlandırma ve Doğal Varlıkları Koruma Vakfı (TEMA)</a>
+<br>Sürdürülebilir yaşam ilkesiyle topraklarımızı ve doğal varlıklarımızı korumak ve bu mücadelenin bir devlet politikası haline gelmesini sağlamak.
+</p> 
+<p>
+<a href="http://www.israf.org/">Türkiye İsrafı Önleme Vakfı (TİSVA)</a>
+<br>Dar gelirli kadınların kendi kendilerine gelir getirici faaliyette bulunmaları için mikrokredi desteği sağlamak.
+</p> 
 <p>
 <a href="https://kasder.org.tr/">Türkiye Kas Hastalıkları Derneği (KASDER)</a>
 <br>Kas hastalarının daha kaliteli yaşam sürmelerini sağlamak, hastalara ve topluma rehber olmak, çözüm önerileri sunarak, uygulanmasını sağlamak.
+</p> 
+<p>
+<a href="https://tofd.org.tr/">Türkiye Omurilik Felçlileri Derneği (TOFD)</a>
+<br>Kamu Yararına Dernek olan , engellilerin eğitim, sosyal, kültürel, ekonomik, hukuki, mesleki vb. hak ve menfaatlerini koruyup geiştirilmesi.
+</p> 
+<p>
+<a href="http://todev.org.tr/">Türkiye Otistiklere Destek ve Eğitim Vakfı (TODEV)</a>
+<br>Otizmin ülke çapında tanınmasını sağlamak, halkı bu konuda bilgilendirmek, tanı, terapi, eğitim ve rehabilitasyon hizmetlerini gerçekleştirmek.
+</p>
+<p>
+<a href="https://www.tocev.org.tr/">Tüvana Okuma İstekli Çocuk Eğitim Vakfı (TOÇEV)</a>
+<br>Maddi yetersizlik içerisinde olan ailelerin okuma istekli çocuklarına destek vermek.
 </p> 
