@@ -127,6 +127,90 @@
 <br>Sosyal ve ekonomik yönden risk altındaki çocuk ve kadınlara yönelik sosyal kalkınmayı amaçlayan eğitim, sanat ve teknoloji faaliyetleri yürütür.
 </p>
 <p>
+<a href="https://genchayat.org/">Genç Hayat Vakfı</a>
+<br>Psikolojik ve fiziksel değişimlerin en yoğun yaşandığı 11-18 yaş grubunun; hayata katılmasına destek olmak.
+</p> 
+<p>
+<a href="https://gktd.org/">Gıda Kurtarma Derneği</a>
+<br>Sürdürülebilir Kalkınma Hedefleri kapsamında, gıda atığı kaynaklı sorunlara yönelik pratik çözümlerin sağlanması.
+</p> 
+<p>
+<a href="https://www.gonulluhareketi.org/">Gönüllü Hareketi Derneği</a>
+<br>Bireylerin potansiyelini, toplumsal sorunlar ve ihtiyaçlar doğrultusunda gönüllü bir harekete dönüştürmek.
+</p> 
+<p>
+<a href="https://gonulluhizmetlerdernegi.org/">Gönüllü Hizmetler Derneği</a>
+<br>Uluslar ve kültürlerarası anlayışın tüm dünyada yaygınlaştırılması ve dünya barışının oluşturulmasına Türk gençlerinin de katkıda bulunabilmesi.
+</p> 
+<p>
+<a href="https://www.gozder.org.tr/">Görme Özürlüler Derneği (GÖZDER)</a>
+<br>Görme engellilerin toplum yaşamına eşit bir şekilde katılımını sağlamak hedefiyle çalışmalar yapar.
+</p> 
+<p>
+<a href="https://gulmekiyilestirir.org.tr/">Gülmek İyileştirir Derneği</a>
+<br>Kanser tedavisi gören çocuklar ve ailelerine Hijyenik Oyun Merkezleri ve psikolog hizmeti ile psikososyal destek sağlar.
+</p> 
+<p>
+<a href="https://www.gucev.org.tr/">Güneş Çocukları Eğitim Vakfı (GÜÇEV)</a>
+<br>Atatürk ilke ve inkılâplarına bağlı, - Türkiye Cumhuriyeti yasalarına saygılı, - Ülkesini seven, - Aydın bireylerin yetişmesine destek olmak.
+</p> 
+<p>
+<a href="https://www.guzelislerdernegi.org/">Güzel İşler Derneği</a>
+<br>Üretim, gelişim, paylaşım ve sosyal faydayı hedefleyen yerelde kurulu uluslararası bir atölye ve deneyim derneğidir.
+</p> 
+<p>
+<a href="https://www.humed.org.tr/">Hacettepe Üniversitesi Mezunlar Derneği (HÜMED)</a>
+<br>Hacettepe Üniversitesi Mezunları arasında dayanışma, iletişim ve sosyal birliktelik sağlamak; Hacettepe mezunu olma ayrıcalığını hissettirmek.
+</p>
+<p>
+<a href="https://yga.org.tr/">Hayal Ortakları Derneği</a>
+<br>Türkiye’de kurulan kâr amacı gütmeyen bir sivil toplum kuruluşudur. Geleceğe umutla bakmamızı sağlayan çift kanatlı gençler yetiştirir.
+</p> 
+<p>
+<a href="https://hayalimeortakol.org/">Hayalime Ortak Ol Derneği</a>
+<br>Bir hayali olan çeşitli nedenler ile yeterli desteği alamayan gençleri ve çocukları spor, sanat, eğitim ve kültür alanında destekliyoruz.
+</p> 
+<p>
+<a href="https://www.hayatsende.org/">Hayat Sende Gençlik Akademisi Derneği</a>
+<br>Koruma Altındaki Çocukların ve Gençlerin Hayatlarına Yenilikçi Çözümler.
+</p> 
+<p>
+<a href="https://www.hayatadestek.org/">Hayata Destek Derneği</a>
+<br>Afet risk ve etkilerini azaltmak ve yaşam koşullarını iyileştirmek için bireylerin, toplulukların ve STK'ların gelişmesine katkıda bulunmaktır.
+</p> 
+<p>
+<a href="https://haciko.org.tr/">Hayvanları Çaresizlikten ve İlgisizlikten Koruma Derneği (HAÇİKO)</a>
+<br>Toplumda hayvan sevgisi bilincini geliştirmek, hayvan hakları ihlallerinin önlenmesini sağlamak ve bu doğrultuda kamuoyunu bilinçlendirmek.
+</p> 
+<p>
+<a href="https://www.helpzone.org/">Herkes İçin Eşitlik ve Liderlik Platformu Derneği</a>
+<br>İklim değişikliği ile ilişkili riskler konusunda toplumun farkındalığını arttırma konusunda faaliyetlerde bulunmaktadır.
+</p> 
+<p>
+<a href="https://hrantdink.org/tr/">Hrant Dink Vakfı</a>
+<br>Hrant Dink'in hayallerini, mücadelesini, dilini ve yüreğini yaşatmak amacıyla 2007 yılından beri faaliyetlerini sürdürüyor.
+</p> 
+<p>
+<a href="https://ilgiotizm.org.tr/">İlgi Otizm Derneği</a>
+<br>Otizm tanısı almış çocuk ve ailelerine özel eğitim ve psikolojik destek vermek amacıyla 1988'den beri faaliyet göstermekteyiz.
+</p> 
+<p>
+<a href="https://www.iksv.org/">İstanbuk Kültür ve Sanat Vakfı (İKSV)</a>
+<br>Dünyadaki kültür ve sanat üretiminin seçkin örneklerini, yeni girişimleri ve değişik akımları İstanbul'daki sanatseverlere sunmak.
+</p> 
+<p>
+<a href="https://www.izev.org.tr/">İstanbul Zihinsel Engelliler İçin Eğitim ve Dayanışma Vakfı (İZEV)</a>
+<br>Zihin farklı bireyler ve aileleri özelinde topluma ve insanlığa farkındalık ve bütünleşme sağlamaktır.
+</p> 
+<p>
+<a href="https://izmirkoruyucuaile.org.tr/">İzmir Koruyucu Aile Derneği (İZKAD)</a>
+<br>Koruyucu Aile Sistemini tanıtmak, yaygınlaştırmak, koruma altındaki çocuklara ve koruyucu ailelere yönelik psikososyal destek sağlamak.
+</p> 
+<p>
+<a href="https://kacuv.org/">Kanserli Çocuklara Umut Vakfı (KAÇUV)</a>
+<br>Kanser hastası çocuklara tedavilerinde, psikolojik destek, eğitim, ücretsiz konaklama sağlar.
+</p> 
+<p>
 <a href="https://konusmamizgerek.org/">Konuşmamız Gerek</a>
 <br>Regl Yoksulluğu ve Tabusu ile Mücadele Eden Bir Dernek.
 </p> 
