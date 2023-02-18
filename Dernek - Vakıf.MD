@@ -211,10 +211,102 @@
 <br>Kanser hastası çocuklara tedavilerinde, psikolojik destek, eğitim, ücretsiz konaklama sağlar.
 </p> 
 <p>
+<a href="https://kadinbalikcilardernegi.org/">Kadın Balıkçılar Derneği</a>
+<br>İnsanın doğa ile uyumlu olduğu, çevre dengesi ve biyolojik çeşitliliği koruyan, adil toplum için çalışıyoruz.
+</p> 
+<p>
+<a href="https://www.kadindayanismavakfi.org.tr/">Kadın Dayanışma Vakfı</a>
+<br>Kadına yönelik şiddetle mücadele eden, şiddete maruz kalan kadınlara ücretsiz danışmanlık veren feminist bir sivil toplum örgütüyüz.
+</p> 
+<p>
+<a href="https://www.kedv.org.tr/">Kadın Emeğini Değerlendirme Vakfı (KEDV)</a>
+<br>KEDV'nin misyonu dar gelirli kadınların yaşam kalitelerini iyileştirmek amacıyla yerel kalkınmadaki liderliklerini güçlendirmektir.
+</p> 
+<p>
+<a href="https://www.kahev.org.tr/">Kadın Hekimler Eğitime Destek Vakfı (KAHEV)</a>
+<br>Kadın tıp doktoru ve diş hekimlerinin eğitimine destek amacıyla kurulan bir vakıftır.
+</p> 
+<p>
+<a href="https://kacod.org.tr/">Kanser Çocuğumdan Uzak Dur Derneği (KAÇOD)</a>
+<br>Çocukluk Çağı Kanserleri Hususunda Farkındalık Yaratmak ve Tedavi sürecini çocuklarımızın rahat şekilde atlatmalarını sağlamak.
+</p> 
+<p>
+<a href="https://www.kansersavascilari.org/">Kanser Savaşçıları Derneği</a>
+<br>Kanser tanı ve tedavi sürecinde ideal tedavi ortamı /sisteminin oluşturulması için katkı sağlamak ve çözümler geliştirmek.
+</p> 
+<p>
+<a href="https://kayd.org.tr/">Kansersiz Yaşam Derneği</a>
+<br>7'den 70'e sağlıklı bir yaşam ve kansersiz bir dünyanın mümkün olduğunu anlatmak.
+</p> 
+<p>
+<a href="https://www.karakutu.org.tr/">Karakutu Derneği</a>
+<br>Hafıza Yürüyüşü ile gençlerin insan hakları konusunda duyarlılık kazanmasını sağlamak.
+</p> 
+<p>
+<a href="https://kizcev.com/">Kız Çocukları Eğitim Derneği (KIZÇEV)</a>
+<br>Üniversiteli genç kadınların yaşadığı toplumsal cinsiyet eşitsizliğine son vermek amacıyla kuruldu.
+</p> 
+<p>
+<a href="https://kodluyoruz.org/">Kodluyoruz Derneği</a>
+<br>Türkiye’yi teknolojide dünya çapında bir yetenek merkezi haline getirmek, bunu yaparken de gençleri daha iyi bir dünya hayaline hazırlamak.
+</p> 
+<p>
 <a href="https://konusmamizgerek.org/">Konuşmamız Gerek</a>
 <br>Regl Yoksulluğu ve Tabusu ile Mücadele Eden Bir Dernek.
 </p> 
 <p>
+<a href="https://www.kalben.org.tr/">Korunma Altında Yetişen Gençler ve Koruyucu Aile Derneği (KALBEN)</a>
+<br>Koruyucu Aile Hizmet Modelinin toplumda yaygınlaştırılmasını sağlamaktadır.
+</p> 
+<p>
+<a href="https://www.korev.org.tr/">Koruyucu Aile, Evlat Edinme Derneği (KOREV)</a>
+<br>Aile Temelli Hizmet Modelleri olan Koruyucu Ailelik ve Evlat Edinme modellerinin toplumda yaygınlaştırılmasını sağlamaktır.
+</p> 
+<p>
+<a href="https://koruncuk.org/">Koruncuk Vakfı</a>
+<br>Hakları risk altında olan tüm çocukların karşılaşabileceği olumsuz sosyal etkileri en aza indirmek için faaliyette bulunmaktadır.
+</p> 
+<p>
+<a href="https://www.kev.org.tr/">Köksal Eğitim Vakfı (KEV)</a>
+<br>İmkanları kısıtlı, çalışkan, dürüst gençleri maddi anlamda desteklemek; onların sanatsal ve kültürel gelişimine katkıda bulunmak.
+</p> 
+<p>
+<a href="https://kodegisim.org/">Köy Okulları Değişim Ağı Derneği (KODA)</a>
+<br>Köylerde, çocuktan başlayarak tüm topluluğa yayılacak yenilikçi bir eğitim anlayışını hayata geçirmek için çalışıyoruz.
+</p> 
+<p>
+<a href="https://www.kursunkalem.org.tr/">Kurşun Kalem Eğitim Vakfı</a>
+<br>Çağdaş, okuyan, araştıran, bilimsel düşünen, sorgulayan, öncü niteliğindeki Öğretmen Adaylarını Burslar ile desteklemek.
+</p> 
+<p>
+<a href="https://kulturbilinci.org/">Kültür Bilincini Geliştirme Vakfı</a>
+<br>Somut / somut olmayan her türlü kültürel mirasın korunması ve topluma tanıtılması.
+</p> 
+<p>
+<a href="http://www.lisesvakfi.org/">Lions ve Leo Kulüpleri Yönetim Çevresi Sağlık Eğitim Sosyal Hizmet (LİSES) Vakfı</a>
+<br>Bizi biz yapan Lion ve Leo enerjisinin ve hayallerinin, toplumun yararına olacak kalıcı hizmetlere dönüşmesine zemin oluşturmak.
+</p> 
+<p>
+<a href="https://www.lokmanhekimsv.org/">Lokman Hekim Sağlık Vakfı</a>
+<br>Sağlık hizmet sunumu ve eğitiminde fırsat eşitliğinin sağlanması yolunda ülkemizde lider, dünyada örnek bir sivil toplum kuruluşu olmaktır.
+</p> 
+<p>
+<a href="https://mayavakfi.org/ana-sayfa-tr/">Maya Vakfı</a>
+<br>Doğal afet, göç, aile kaybı, zorbalık gibi sebeplerle travmaya maruz kalmış 5-24 yaş arası çocuk ve gençlere psikososyal destek sağlıyoruz.
+</p> 
+<p>
+<a href="https://www.medak.org.tr/">Medikal Arama Kurtarma Derneği (MEDAK)</a>
+<br>MEDAK'ın misyonu afetzedeler, mülteciler, mevsimlik tarım işçileri gibi kırılgan gruplara ilkyardım eğitimi ve sağlık hizmeti ulaştırmaktır.
+</p> 
+<p>
+<a href="https://mikader.org.tr/">Minik Kalplerle Elele Derneği (MİKADER)</a>
+<br>Aile ve Sosyal Politikalar Bakanlığı Çocuk Hizmetleri Genel Müdürlüğü'ne bağlı Sevgi Evleri il Çocuk Destek Merkezleri açmak, tefriş etmek vb.
+</p> 
+<p>
 <a href="http://bomovu.org/tr/">Sosyal Güçlendirme için Spor ve Beden Hareketi Derneği</a>
 <br>Her insanın, tüm temel hakların esasında yatan vücut bütünlüğü hakkına erişimi ve bu hakkın korunması için çalışıyoruz.
+</p> 
+<p>
+<a href="https://kasder.org.tr/">Türkiye Kas Hastalıkları Derneği (KASDER)</a>
+<br>Kas hastalarının daha kaliteli yaşam sürmelerini sağlamak, hastalara ve topluma rehber olmak, çözüm önerileri sunarak, uygulanmasını sağlamak.
 </p> 
