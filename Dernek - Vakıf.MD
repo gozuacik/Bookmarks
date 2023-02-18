@@ -27,12 +27,20 @@
 <br>Uluslararası insan hakları çerçevesinde ALS MNH hastalarının makul yaşam kalitesi sağlayarak yaşatılmasını sağlamak.
 </p>
 <p>
+<a href="https://www.anadolumera.com/">Anadolu Meraları</a>
+<br>Uluslararası bir kuruluş olan Savory Institute'un Türkiye gözesi olarak Allan Savory'nin ortaya çıkardığı Bütüncül Yönetim yöntemlerinden beslenerek faaliyetlerini yürütür. Bu bağlamda da organizasyon şemasını bütüncül ve onarıcı olacak şekilde sürdürürken yeni paradigmanın uyumlu bir parçası olmayı gözetir.
+</p> 
+<p>
 <a href="https://www.acev.org/">Anne Çocuk Eğitim Vakfı</a>
 <br>Erken çocukluk dönemindeki çocukları ve ailelerini destekleyen bilimsel eğitim programları geliştiriyor ve uyguluyoruz.
 </p> 
 <p>
 <a href="https://ashokaturkiye.org/">Ashoka Türkiye</a>
 <br>Dünyanın ilk ve en geniş sosyal girişimcilik ağı Ashoka, acil toplumsal sorunlarına etkin çözümler geliştiren sosyal girişimcileri destekliyor.
+</p> 
+<p>
+<a href="https://www.begojeans.com/">Bego Jeans</a>
+<br>Tekstil ürünlerinin üretim aşamasındaki çalışma koşulları, yaratığı çevre kirliliği ve adaletsiz ücret dağılımına dikkat çekerek çevreye doğaya insana saygılı geri dönüşümlü ürünler üretiyor. Bu "temiz giysi" fikrini Temiz Moda Hareketi ile başka markalara da ilham vererek sektörü dönüştürüyor.
 </p> 
 <p>
 <a href="https://bensecerim.org/">Ben Seçerim Derneği</a>
@@ -115,6 +123,9 @@
 <br>Down sendromlu bireylerin bağımsız, üretken ve toplumla bütünleşen bir yaşam kurabilmelerini sağlamaktır.
 </p> 
 <p>
+<a href="https://dongukoop.com/">Döngü Kooperatifi</a>
+<br>Kar amacı gütmeyen, tarımsal üretimin desteklenmesi ve güçlendirilmesi, köylünün topraklarını işlemeye devam etmesi için çözümler ve modeller oluşturmayı hedefleyen bir Ar-Ge kooperatifidir. Keten bitkisini merkeze alarak, kırsaldaki kadının ve gençlerin konumunu güçlendirmeyi ve kırsal kalkınmaya katkı sağlamayı amaçlamaktadır.</p> 
+<p>
 <a href="https://worldhumanrelief.org/tr/">Dünya İnsani Dayanışma Derneği</a>
 <br>Toplumun hak ihlalleri ve travma konusundaki farkındalığını arttıran etkinlikler düzenlemek.
 </p> 
@@ -127,6 +138,10 @@
 <br>Sosyal ve ekonomik yönden risk altındaki çocuk ve kadınlara yönelik sosyal kalkınmayı amaçlayan eğitim, sanat ve teknoloji faaliyetleri yürütür.
 </p>
 <p>
+<a href="https://www.fazlagida.com/">Fazla Gıda</a>
+<br>Sağlayacağı sürdürülebilir finansman modeli ile Gıda Atığını Önleyen Teknoloji Çözümleri ve Gıda Bankacılığının gelişimine yatırım yapma vizyonu ile kurulmuş olup aynı zamanda paydaşlarına iyi bir işten gelir elde etme imkanı tanımaktadır. Fazla Gıda gıda atığını önlerken diğer iki önemli Küresel Hedef olan Sorumlu Üretim ve Tüketim ile birlikte Açlığa Son hedeflerini de çözerek dönüşüm ekonomisi oluşturma hedefini misyon olarak edinmiştir.
+</p>
+<p>
 <a href="https://genchayat.org/">Genç Hayat Vakfı</a>
 <br>Psikolojik ve fiziksel değişimlerin en yoğun yaşandığı 11-18 yaş grubunun; hayata katılmasına destek olmak.
 </p> 
@@ -134,6 +149,10 @@
 <a href="https://gktd.org/">Gıda Kurtarma Derneği</a>
 <br>Sürdürülebilir Kalkınma Hedefleri kapsamında, gıda atığı kaynaklı sorunlara yönelik pratik çözümlerin sağlanması.
 </p> 
+<p>
+<a href="https://good4trust.org/">Good4Trust</a>
+<br>Ekolojik ve sosyal açıdan adil üreticiler ile onlardan bütün ihtiyaçlarını karşılayan türeticilerden oluşan küresel bir topluluk geliştirmek.
+</p>
 <p>
 <a href="https://www.gonulluhareketi.org/">Gönüllü Hareketi Derneği</a>
 <br>Bireylerin potansiyelini, toplumsal sorunlar ve ihtiyaçlar doğrultusunda gönüllü bir harekete dönüştürmek.
@@ -163,6 +182,10 @@
 <br>Hacettepe Üniversitesi Mezunları arasında dayanışma, iletişim ve sosyal birliktelik sağlamak; Hacettepe mezunu olma ayrıcalığını hissettirmek.
 </p>
 <p>
+<a href="https://www.harmoniyiz.com/tr/">Harmoni Kadın Kooperatifi</a>
+<br>Kadınların kendileri ve çocukları için güçlü gelecekler inşa edebilmeleri amacıyla, sosyo-ekonomik gelişme ve büyüme sağlama arayışı içinde bir araya gelen yirmi kadından oluşan bir kooperatiftir. Türkiye'nin iş gücünde kadınların değerini ve itibarını vurgulamak için çalışan Harmoni, kadınlara üretim yapabilecekleri imkanlar vererek ve onları cesaretlendirerek, ekonomiye ve üretime katkıda bulunmanın yanı sıra dayanışma, sosyalleşme, öğrenme ve iş birliği olanakları sunmaktadır.
+</p> 
+<p>
 <a href="https://yga.org.tr/">Hayal Ortakları Derneği</a>
 <br>Türkiye’de kurulan kâr amacı gütmeyen bir sivil toplum kuruluşudur. Geleceğe umutla bakmamızı sağlayan çift kanatlı gençler yetiştirir.
 </p> 
@@ -189,6 +212,14 @@
 <p>
 <a href="https://hrantdink.org/tr/">Hrant Dink Vakfı</a>
 <br>Hrant Dink'in hayallerini, mücadelesini, dilini ve yüreğini yaşatmak amacıyla 2007 yılından beri faaliyetlerini sürdürüyor.
+</p> 
+<p>
+<a href="https://istanbul.impacthub.net/">Impact Hub İstanbul</a>
+<br>Dünyayı daha yaşanabilir bir yer hâline getirecek ve değişime öncülük edecek, toplumu ileriye taşıyacak girişimcileri, liderleri ve kurumları güçlendirmeyi hedefleyen, 5 kıtada, 100’den fazla şehirde buluna global sosyal inovasyon platformudur.
+</p> 
+<p>
+<a href="https://www.ihtiyacharitasi.org/">İhtiyaç Haritası</a>
+<br>ihtiyaç sahipleri ve destekçileri harita tabanlı dijital bir platformda buluşturan online sosyal bir kooperatiftir.
 </p> 
 <p>
 <a href="https://ilgiotizm.org.tr/">İlgi Otizm Derneği</a>
@@ -242,6 +273,10 @@
 <a href="https://www.karakutu.org.tr/">Karakutu Derneği</a>
 <br>Hafıza Yürüyüşü ile gençlerin insan hakları konusunda duyarlılık kazanmasını sağlamak.
 </p> 
+<p>
+<a href="https://www.kizbasina.com/">KızBaşına</a>
+<br>Adını “Kız başına yapamazsın” nefret söylemini reddederek oluşturduğu karşıt “Yaparsan kız başına yaparsın” söyleminden almaktadır.
+</p>
 <p>
 <a href="https://kizcev.com/">Kız Çocukları Eğitim Derneği (KIZÇEV)</a>
 <br>Üniversiteli genç kadınların yaşadığı toplumsal cinsiyet eşitsizliğine son vermek amacıyla kuruldu.
@@ -299,13 +334,25 @@
 <br>MEDAK'ın misyonu afetzedeler, mülteciler, mevsimlik tarım işçileri gibi kırılgan gruplara ilkyardım eğitimi ve sağlık hizmeti ulaştırmaktır.
 </p> 
 <p>
+<a href="https://www.mikadoconsulting.com/">Mikado</a>
+<br>Sürdürülebilir Kalkınma Danışmanlığı, sürdürülebilir kalkınma için modeller yaratan bir sosyal girişimdir. Mikado, kaynakların mobilize edilmesi ve işbirlikleri geliştirilmesiyle sosyal etkiyi maksimize etmekte, çok boyutlu sosyal fayda ve toplumsal dönüşüm yaratmaktadır.
+</p> 
+<p>
 <a href="https://mikader.org.tr/">Minik Kalplerle Elele Derneği (MİKADER)</a>
 <br>Aile ve Sosyal Politikalar Bakanlığı Çocuk Hizmetleri Genel Müdürlüğü'ne bağlı Sevgi Evleri il Çocuk Destek Merkezleri açmak, tefriş etmek vb.
+</p> 
+<p>
+<a href="https://mumowrap.com/">Mumo</a>
+<br>Tek kullanımlık ürünlere getirdiği doğal ve uzun ömürlü alternatiflerle kişileri sürdürülebilir yaşama davet eder. Ürünleri aracılığı ile bağ kurmanın önemini hatırlatır ve doğa dostu bir davranış değişikliğini hedefler.
 </p> 
 <p>
 <a href="https://www.nirengidernegi.org/tr/anasayfa/">Nirengi Derneği</a>
 <br>Psikososyal Destek, İnsani Yardım-Afet ve Acil Durum Yönetimi ve Kalkınma, Risk Altındaki Gruplara Yönelik Doğrudan Destekleme, Savunuculuk ve Ağ Oluşturma, Politika Oluşturma, Toplumsal Diyalog ve Kalkınma, Kapasite Geliştirme ve Araştırma alanlarında projeler yürüten bir sivil toplum kuruluşudur.
 </p> 
+<p>
+<a href="https://www.ogbproject.org/">OGB Project</a>
+<br>Sosyal İnisiyatif Bir Toplum Kuruluşu, Toplumsal Farkındalık Projesidir.
+</p>
 <p>
 <a href="https://okuldestek.org/">Okul Destek Derneği</a>
 <br>Devlet ortaokulu öğrencilerinin eğitimine yıl boyu süren ücretsiz ve çevrim içi destek.
@@ -329,6 +376,10 @@
 <p>
 <a href="https://oyundakaldernegi.org/">Oyunda Kal Derneği</a>
 <br>Geleceği bilinebilir kılmak mümkün inancı ile gençleri üreten, hoşgörülü, sorgulayan, kendini tanıyan bireyler olarak topluma kazandırmak.
+</p>
+<p>
+<a href="https://ogrenmetasarimlari.com/">Öğrenme Tasarımları</a>
+<br>Özgür, katılımcı, ve yaratıcı öğrenme ortamları oluşturulması için yenilikçi savunuculuk çalışmaları geliştirir ve eğitimde kalitenin armasına katkı koyar.
 </p>
 <p>
 <a href="https://www.orav.org.tr/">Öğretmen Akademisi Vakfı (ÖRAV)</a>
@@ -361,6 +412,14 @@
 <p>
 <a href="https://www.pigenclikdernegi.org/tr/ana-sayfa/">Pi Gençlik Derneği</a>
 <br>Gençlik hakları ve sorunları alanında faaliyet gösteren bir sivil toplum kuruluşudur.
+</p>
+<p>
+<a href="https://www.pourlabonte.com/">Pour La Bonte</a>
+<br>Otizmli bireylerin eğitim ve istihdamına katkı sağlamayı amaçlayarak toplumsal farkındalık çalışmaları yürütmektedir.
+</p>
+<p>
+<a href="https://puduhepavekizkardesleri.com/">Puduhepa ve Kız Kardeşleri</a>
+<br>Kız çocuklarının eğitimini desteklemek ve kadın istihdamına katkıda bulunmak.
 </p>
 <p>
 <a href="https://www.pahssc.org.tr/">Pulmoner Hipertansiyon ve Skleroderma Hasta Derneği</a>
@@ -415,11 +474,32 @@
 <br>Her gün, her koşulda, hep birlikte şiddetsiz bir dünya için çalışıyoruz.
 </p> 
 <p>
+<a href="http://tr.tabit.com.tr/">Tabit</a>
+<br>Kırsaldaki yaşamı geleceğe hazırlamak. Türkiye'de bilgiye, iletişime ve teknolojiye kapalı, uzak olan çiftçiyi teknolojiye yaklaştırmaya ve başarıya ulaşan projelerini dünyadaki çiftçilerin hizmetine sunmak için çalışmaya devam etmektedir.
+</p> 
+<p>
 <a href="https://tarihvakfi.org.tr/">Tarih Vakfı</a>
 <br>Ülkemizde demokratik tarih bilincinin geliştirilip yaygınlaştırılması.
 </p> 
+<p>
 <a href="https://www.tider.org/">Temel İhtiyaç Derneği (TİDER)</a>
 <br>Yoksulluk sınırı altında yaşayan insanların temel ihtiyaçlara ulaşabilmelerini,ardından iş edinip kendi ayakları üzerinde durabilmelerini sağlar.
+</p> 
+<p>
+<a href="https://teyit.org/">Teyit</a>
+<br>Eleştirel düşünce alışkanlığını yaygınlaştırmayı ve dijital medya okuryazarlığını yükseltmeyi amaçlayan bir doğrulama platformudur.
+</p> 
+<p>
+<a href="https://www.thegrannie.com/">The Grannie</a>
+<br>Anadolu Kültürüne ait öge ve değerlerin kültürel sürdürülebilirliğini sağlamak, üretimlerini devam ettiremeyen zanaatkar ve sanatçılar için yeni gelir kanalı oluşturmak.
+</p> 
+<p>
+<a href="https://thisismana.com/">This is Mana</a>
+<br>Dezavantajlı topluluklara yaratıcı projeler ve işbirlikleriyle sürdürülebilir gelir modelleri yaratan bir sosyal girişimdir.
+</p> 
+<p>
+<a href="https://tiyatrokooperatifi.org/">Tiyatro Kooperatifi</a>
+<br>Özel tiyatroların sanatsal üretimini zenginleştirirken ekonomik, sosyal ve hukuki açıdan güçlenmesi ve sürdürülebilir hale gelmesi için çalışan bir sosyal kooperatiftir.
 </p> 
 <p> 
 <a href="https://tohumotizm.org.tr/">Tohum Otizm Vakfı</a>
@@ -430,12 +510,20 @@
 <br>Köy ve kırsalda toplumsal, kültürel, ekonomik ve sosyal gelişime yardımcı olmayı hedefler.
 </p> 
 <p> 
+<a href="https://tolkido.com/tr/">Tolkido</a>
+<br>Başta Otizmli çocuklar olmak üzere tüm dil ve konuşma problemi yaşayan çocukların eğitim süreçlerini bilimsel yöntemlerle destekleyerek onların kendilerini rahat ifade edebilen bireyler olmasını amaçlar.
+</p> 
+<p> 
 <a href="https://www.toygenclik.org/">Toplum Gönüllüleri Vakfı (TOG)</a>
 <br>Gençlerin gönüllü olarak sosyal sorumluluk çalışmalarına katılmasını sağlayarak kişisel gelişimlerine katkıda bulunmak.
 </p>
 <p> 
 <a href="https://www.tog.org.tr/">Toy Gençlik Derneği</a>
 <br>Gençlerin, kendilerini ilgilendiren konularda karar alma süreçlerine aktif katılımını sağlama, akranlar arası yatay öğrenme ortamlarını yaratma.
+</p>
+<p> 
+<a href="https://toyi.io/tr/">Toyi</a>
+<br>Çocukların yaratıcılıklarını ve hayal güçlerini desteklemek amacıyla oyun deneyimleri tasarlayan bir sosyal girişim.
 </p>
 <p> 
 <a href="https://turetimekonomisi.org/">Türetim Ekonomisi Derneği</a>
@@ -532,6 +620,10 @@
 <p>
 <a href="https://www.yanindayiz.org/">Yanındayız Derneği</a>
 <br>Evrensel insan hakları anlayışı çerçevesinde, Türkiye’de toplumsal cinsiyet eşitliğinin sağlanmasını amaçlıyor.
+</p> 
+<p>
+<a href="https://yardimsever.life/">Yardımsever</a>
+<br>STK ve Sosyal Girişimlerin güçlü bir iletişim ve yönetişim alt yapısı kurarak sürdürülebilir gelir oluşturmalarını ve etki yaratmalarını sağlamak.
 </p> 
 <p>
 <a href="https://yayadernegi.org/">Yaya Derneği</a>
