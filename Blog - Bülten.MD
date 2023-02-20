@@ -19,6 +19,10 @@
 <br>Unix, Linux, Programming, Performance, Tracing
 </p> 
 <p>
+<a href="https://buildingvts.com/">Building VTS</a>
+<br>VTS Product & Engineering.
+</p> 
+<p>
 <a href="https://buttondown.email/">Buttondown</a>
 <br>The easiest way to write/run your newsletter.
 </p> 
@@ -221,4 +225,18 @@
 </p> 
 <p>
 <a href="https://blog.twitter.com/engineering/en_us">Twitter Engineering</a>
+</p> 
+<p>
+<a href="https://engineering.vena.io/">Vena Engineering Blog</a>
+</p> 
+<p>
+<a href="https://blog.versioneye.com/">VersionEye Tech Blog</a>
+<br>Open Source License Compliance & Security for software dependencies.
+</p> 
+<p>
+<a href="https://www.viget.com/articles/category/code/#articles">Viget Tech Blog</a>
+<br>Articles on Code.
+</p> 
+<p>
+<a href="https://medium.com/vngrs">VNGRS Tech Blog</a>
 </p> 
