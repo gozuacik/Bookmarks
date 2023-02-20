@@ -208,7 +208,17 @@
 <br>Make your inbox happy again! ❤️
 </p> 
 <p>
+<a href="https://tech.trivago.com/">Tech at trivago</a>
+</p>
+<p>
 <a href="https://stackoverflow.blog/engineering/">The Overflow</a>
 </p> 
-
-
+<p>
+<a href="https://techblog.thescore.com/">theScore Tech Blog</a>
+</p> 
+<p>
+<a href="https://www.thoughtworks.com/insights">thoughtworks Insights</a>
+</p> 
+<p>
+<a href="https://blog.twitter.com/engineering/en_us">Twitter Engineering</a>
+</p> 
