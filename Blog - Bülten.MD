@@ -240,3 +240,27 @@
 <p>
 <a href="https://medium.com/vngrs">VNGRS Tech Blog</a>
 </p> 
+<p>
+<a href="https://www.aboutwayfair.com/careers/tech-blog">Wayfair Tech Blog</a>
+</p> 
+<p>
+<a href="https://engineering.wingify.com/">Wingify Engineering</a>
+</p> 
+<p>
+<a href="https://yahooeng.tumblr.com/">Yahoo Engineering</a>
+</p> 
+<p>
+<a href="https://medium.com/yammer-engineering">Yammer Engineering</a>
+</p> 
+<p>
+<a href="https://engineeringblog.yelp.com/">Yelp Engineering</a>
+</p> 
+<p>
+<a href="https://zapier.com/engineering/">Zapier Engineering Blog</a>
+</p> 
+<p>
+<a href="https://developerblog.zendesk.com/">Zendesk Developer Blog</a>
+</p> 
+<p>
+<a href="https://zendesk.engineering/">Zendesk Engineering Blog</a>
+</p> 
