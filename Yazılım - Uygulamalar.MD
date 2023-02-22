@@ -19,6 +19,10 @@
 <br>Create diagrams with code
 </p> 
 <p>
+<a href="https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/?utm_source=dailytechdigest&utm_medium&utm_campaign=1520">QGIS</a>
+<br>A Free and Open Source Geographic Information System
+</p> 
+<p>
 <a href="https://swimlanes.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn">Swimlanes</a>
 <br>Create sequence diagrams with simple online tool.
 </p> 
