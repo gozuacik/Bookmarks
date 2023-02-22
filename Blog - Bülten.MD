@@ -264,3 +264,15 @@
 <p>
 <a href="https://zendesk.engineering/">Zendesk Engineering Blog</a>
 </p> 
+<p>
+<a href="https://www.zillow.com/tech/">Zillow Tech Hub</a>
+</p> 
+<p>
+<a href="https://www.zomato.com/blog/category/technology">Zomato Technology</a>
+</p> 
+<p>
+<a href="https://tech.zumba.com/">ZumbaTech</a>
+</p> 
+<p>
+<a href="https://www.zynga.com/blogs/engineering">Zynga Engineering</a>
+</p> 
