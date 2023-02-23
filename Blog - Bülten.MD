@@ -3,6 +3,14 @@
 <br>Sparking ideas, insights, and creative solutions
 </p> 
 <p>
+<a href="https://aarvik.dk/">ANDERS AARVIK</a>
+<br>UNIX and Linux, Open Source, and systems
+</p> 
+<p>
+<a href="https://masnun.com/">Abu Ashraf Masnun</a>
+<br>Tech Blog (Python, Geneal)
+</p> 
+<p>
 <a href="https://adityarohilla.com/blog/">Aditya Rohilla</a>
 <br>Tech Blog
 </p> 
@@ -206,6 +214,10 @@
 <p>
 <a href="http://www.teapotea.com/">Teapotea</a>
 <br>Çay Blogu
+</p> 
+<p>
+<a href="http://tenderlovemaking.com/">Tenderlove Making</a>
+<br>Tech Blog
 </p> 
 <p>
 <a href="https://www.thanksforsubscribing.app/">Thanks For Subscribing</a>
