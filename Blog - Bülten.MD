@@ -35,6 +35,10 @@
 <br>The easiest way to write/run your newsletter.
 </p> 
 <p>
+<a href="https://www.cppstories.com/">C++ Stories</a>
+<br>Stay up-to-date with Modern C++
+</p> 
+<p>
 <a href="https://canvatechblog.com/">Canva Engineering Blog</a>
 <br>The technology behind Canva
 </p> 
