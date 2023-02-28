@@ -15,6 +15,10 @@
 <br>Online Collaborative LaTeX Eeditor
 </p>  
 <p>
+<a href="https://www.paperbrain.study/">Paper Brain</a>
+<br>Exploring your study papers has never been easier!
+</p>  
+<p>
 <a href="https://paperkast.com/">Paperkast</a>
 <br>
 Link-aggregator website for academic article discussion
