@@ -9,3 +9,7 @@
 <a href="https://www.onbironsekiz.com/">Onbironsekiz</a>
 <br>Türkiye'nin Podcast Kanalı
 </p>  
+<p>
+<a href="https://home.thesynthesis.app/">Synthesis YouTube</a>
+<br>Search your favourite podcast below and enjoy relevant video segments in seconds.
+</p>  
