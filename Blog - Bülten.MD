@@ -43,6 +43,10 @@
 <br>The technology behind Canva
 </p> 
 <p>
+<a href="https://nullprogram.com/">Chris Wellons Blog</a>
+<br>Tech Blog
+</p> 
+<p>
 <a href="https://blog.codelitt.com/">Codelitt Blog</a>
 <br>Providing the best possible products and solutions using cutting edge technology and genuine, personal connections.
 </p> 
@@ -58,12 +62,36 @@
 <a href="https://cloud.blog.csc.fi/">CSC - IT Center For Science - Cloud Team</a>
 </p> 
 <p>
+<a href="https://medium.com/dailyjs">Daily JS</a>
+<br>Tech Blog
+</p> 
+<p>
+<a href="https://dailytechvideo.com/">Daily Tech Video</a>
+<br>Daily technology videos, curated by Reuven Lerner.
+</p> 
+<p>
 <a href="https://d.sb/blog">Daniel15's Blog</a>
 <br>Tech Blog
 </p> 
 <p>
+<a href="http://www.dabeaz.com/blog.html">Dave's Blog</a>
+<br>Tech Blog
+</p> 
+<p>
+<a href="https://deanhume.com/">Dean Hume's Blog</a>
+<br>Tech Blog
+</p> 
+<p>
+<a href="https://yurichev.com/news/">Dennis Yurichev's Blog</a>
+<br>Main topics: CS, math, reverse engineering, SAT/SMT solvers, tinkering with *NIX...
+</p> 
+<p>
 <a href="https://discover.getrevue.co/">Discover Getrevue</a>
 <br>Curated list of newsletters with search functionality 
+</p> 
+<p>
+<a href="https://dotdev.co/">Dot Dev</a>
+<br>GitHub, NPM 
 </p> 
 <p>
 <a href="https://engineering.fb.com/">Engineering at Meta</a>
