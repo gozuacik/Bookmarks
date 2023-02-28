@@ -1,8 +1,11 @@
 <p>
+<a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?utm_source=aidigest&utm_medium=email&utm_campaign=featured">A Visual Introduction to Machine Learning</a>
+</p>
+<p>
 <a href="https://beta.aifiddle.io/">Aifiddle</a>
 </p>
 <p>
-<a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?utm_source=aidigest&utm_medium=email&utm_campaign=featured">A Visual Introduction to Machine Learning</a>
+<a href="https://animatedai.github.io/">Animated AI</a>
 </p>
 <p>
 <a href="https://github.com/visenger/awesome-mlops">Awesome MLOps</a>
