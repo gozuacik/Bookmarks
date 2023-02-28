@@ -94,6 +94,10 @@
 <a href="https://namechk.com/">Namechk</a>
 </p>
 <p>
+<a href="https://www.nimblelinks.com/">Nimble Links</a>
+<br>Create links that save you time                                      
+</p>
+<p>
 <p>
 <a href="https://ninite.com/">Ninite</a>
 <br>Toplu Şekilde Program İndirme  
