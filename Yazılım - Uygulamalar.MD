@@ -34,3 +34,7 @@
 <a href="https://textvis.lnu.se/">Text Visualization Browser</a>
 <br>A Visual Survey of Text Visualization Techniques
 </p> 
+<p>
+<a href="https://twinr.dev/">Twinr</a>
+<br>Convert Website to App in minutes
+</p> 
