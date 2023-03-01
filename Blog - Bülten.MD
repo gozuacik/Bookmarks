@@ -135,6 +135,10 @@
 <a href="https://blog.janestreet.com/">Jane Street Tech Blog</a>
 </p> 
 <p>
+<a href="https://www.joanneleah.com/">Joanne Leah</a>
+<br>Fotoğraf Sanatçısı
+</p>
+<p>
 <a href="https://jvns.ca/">Julia Evans</a>
 <br>Tech Blog 
 </p> 
