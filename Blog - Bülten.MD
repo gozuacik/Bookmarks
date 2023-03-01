@@ -90,6 +90,10 @@
 <br>Curated list of newsletters with search functionality 
 </p> 
 <p>
+<a href="https://www.discoveringtea.com/">Discovering Tea</a>
+<br>A Tea Traveller's Blog 
+</p> 
+<p>
 <a href="https://dotdev.co/">Dot Dev</a>
 <br>GitHub, NPM 
 </p> 
