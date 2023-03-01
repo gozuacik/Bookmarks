@@ -38,4 +38,7 @@
 <a href="https://www.ngp.com.tr/?lang=tr">Nadir Gastronomi Platformu</a>
 <br>Gastronomi ve kültür alt başlıklarını birleştiren ortak projeler geliştirmeyi ve iletişim programı sunmayı hedefleyen bir deneyim platformudur.
 </p> 
-
+<p>
+<a href="https://www.kayisiadinahersey.com/">Sarı Dünya</a>
+<br>Kayısı Adına Her Şey
+</p> 
