@@ -91,6 +91,10 @@
 <a href="http://www.kardesokullar.com/">Kardeş Okullar</a>
 </p>
 <p>
+<a href="https://kargomnerede.co/">Kargom Nerede</a>
+<br>Kargonu hemen takip etmeye başla.                                  
+</p>
+<p>
 <a href="https://namechk.com/">Namechk</a>
 </p>
 <p>
