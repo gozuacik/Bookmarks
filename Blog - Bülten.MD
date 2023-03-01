@@ -107,6 +107,12 @@
 <a href="https://github.com/kilimchoi/engineering-blogs">Engineering Blogs</a>
 </p> 
 <p>
+<a href="https://www.evanmiller.org/">Evan Miller Tech Blog</a>
+</p> 
+<p>
+<a href="https://www.evantahler.com/">Evan Tahler Tech Blog</a>
+</p> 
+<p>
 <a href="https://evernote.com/blog/">Evernote Blog</a>
 </p> 
 <p>
@@ -133,6 +139,9 @@
 </p>
 <p>
 <a href="https://blog.janestreet.com/">Jane Street Tech Blog</a>
+</p> 
+<p>
+<a href="https://medium.com/javascript-scene">JavaScript Scene</a>
 </p> 
 <p>
 <a href="https://www.joanneleah.com/">Joanne Leah</a>
