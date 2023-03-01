@@ -2,6 +2,10 @@
 <a href="https://www.baserails.com/">BaseRails</a>
 </p>
 <p>
+<a href="https://bilgeis.net/tr">Bilgeİş</a>
+<br>Bilişim ile gelişen iş dünyası  
+</p>
+<p>
 <a href="https://brilliant.org/courses/?tour=true">BRILLIANT</a>
 </p>
 <p>
