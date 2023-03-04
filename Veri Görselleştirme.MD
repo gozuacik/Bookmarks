@@ -11,6 +11,9 @@
 <br>This page lists design patterns for dashboard design collected to support the design and creative exploration of dashboard design.
 </p>
 <p>
+<a href="https://datagifmaker.withgoogle.com/">Data Gif Maker</a>
+</p>
+<p>
 <a href="https://datamaps.world/">Datamaps</a>
 </p>
 <p>
