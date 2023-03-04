@@ -1,4 +1,8 @@
 <p>
+<a href="https://almanac.io/home">Almanac</a>
+<br>Template Library.
+</p>
+<p>
 <a href="https://www.cambridge.org/core/what-we-publish/textbooks">Cambridge Core</a>
 <br>Cambridge Üniversitesi'ne ait ders kitaplarına ulaşabileceğiniz bir platform
 </p>
