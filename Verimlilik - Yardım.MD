@@ -59,6 +59,10 @@
 <a href="https://faxzero.com/">Free Fax * Free Internet Faxing</a>
 </p>
 <p>
+<a href="https://www.gantt.io/">Gantt</a>
+<br>Create beautiful Gantt charts.                                                         
+</p>                                 
+<p>
 <a href="https://github.com/glorious-codes/glorious-demo">Glorious</a>
 <br>The easiest way to demonstrate your code in action                                                         
 </p>                              
