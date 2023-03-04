@@ -69,6 +69,9 @@
 <br>Search across a half million git repos.
 </p>
 <p>
+<a href="https://ihateregex.io/">I Hate Regex</a>
+</p>
+<p>
 <a href="https://www.jollycode.org/">Jolly Code</a>
 </p>
 <p>
@@ -94,6 +97,9 @@
 <p>
 <a href="https://ray.so/">Ray.so</a>
 <br>Create beautiful images of your code 
+</p>
+<p>
+<a href="https://regex101.com/">Regex 101</a>
 </p>
 <p>
 <a href="https://refrf.shreyasminocha.me/?utm_source=hackernewsletter&utm_medium=email&utm_term=books">Regular Expressions for Regular Folk</a> 
