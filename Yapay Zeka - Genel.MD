@@ -1,4 +1,8 @@
 <p>
+<a href="https://allthingsai.com/">All Things AI</a>
+<br>The Complete Resource Of Artificial Intelligence Tools & Services.
+</p>
+<p>
 <a href="https://github.com/r0f1/datascience">Awesome Data Science with Python</a>
 <br>A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks. 
 </p>
@@ -33,6 +37,10 @@
 <p>
 <a href="https://github.com/amitness/learning">Learning</a>
 <br>Learning Philosophy for Data Scientist
+</p>
+<p>
+<a href="https://mad.firstmarkcap.com/">MAD Landscape</a>
+<br>Machine Learning / Artificial Intelligence / Data Landscape
 </p>
 <p>
 <a href="https://okai.brown.edu/chapter0.html">OKAI</a>
