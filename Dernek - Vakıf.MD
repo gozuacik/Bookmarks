@@ -31,12 +31,20 @@
 <br>Uluslararası bir kuruluş olan Savory Institute'un Türkiye gözesi olarak Allan Savory'nin ortaya çıkardığı Bütüncül Yönetim yöntemlerinden beslenerek faaliyetlerini yürütür. Bu bağlamda da organizasyon şemasını bütüncül ve onarıcı olacak şekilde sürdürürken yeni paradigmanın uyumlu bir parçası olmayı gözetir.
 </p> 
 <p>
+<a href="https://www.anlataneller.com/">Anlatan Eller</a>
+<br>Türk İşaret Dili desteği ile sağır topluma eğitim veren sosyal girişimdir.
+</p>
+<p>
 <a href="https://www.acev.org/">Anne Çocuk Eğitim Vakfı</a>
 <br>Erken çocukluk dönemindeki çocukları ve ailelerini destekleyen bilimsel eğitim programları geliştiriyor ve uyguluyoruz.
 </p> 
 <p>
 <a href="https://ashokaturkiye.org/">Ashoka Türkiye</a>
 <br>Dünyanın ilk ve en geniş sosyal girişimcilik ağı Ashoka, acil toplumsal sorunlarına etkin çözümler geliştiren sosyal girişimcileri destekliyor.
+</p> 
+<p>
+<a href="http://aura-istanbul.com/">Aura İstanbul</a>
+<br>İstanbul Mimarlık ve Şehircilik Araştırmaları Akademisi.
 </p> 
 <p>
 <a href="https://www.begojeans.com/">Bego Jeans</a>
@@ -137,6 +145,10 @@
 <a href="https://www.eleleegitim.org/">El Ele Eğitim ve Kültür Derneği</a>
 <br>Sosyal ve ekonomik yönden risk altındaki çocuk ve kadınlara yönelik sosyal kalkınmayı amaçlayan eğitim, sanat ve teknoloji faaliyetleri yürütür.
 </p>
+<p>
+<a href="https://www.enkad.org/">Engelli Kadın Derneği (EnKad)</a>
+<br>Engelli kadınların mevcut durum ve problemlerini irdeleyerek, onların; evrensel insan hakları, adalet ve hukukun üstünlüğü ilkesi çerçevesinde siyasi, hukuki, sosyal ve ekonomik varlıklarını geliştirecek teorik ve pratik çözümler üretir.
+</p> 
 <p>
 <a href="https://www.fazlagida.com/">Fazla Gıda</a>
 <br>Sağlayacağı sürdürülebilir finansman modeli ile Gıda Atığını Önleyen Teknoloji Çözümleri ve Gıda Bankacılığının gelişimine yatırım yapma vizyonu ile kurulmuş olup aynı zamanda paydaşlarına iyi bir işten gelir elde etme imkanı tanımaktadır. Fazla Gıda gıda atığını önlerken diğer iki önemli Küresel Hedef olan Sorumlu Üretim ve Tüketim ile birlikte Açlığa Son hedeflerini de çözerek dönüşüm ekonomisi oluşturma hedefini misyon olarak edinmiştir.
@@ -274,6 +286,10 @@
 <br>Hafıza Yürüyüşü ile gençlerin insan hakları konusunda duyarlılık kazanmasını sağlamak.
 </p> 
 <p>
+<a href="https://kirmizicocuklardernegi.org/home/index.html">Kırmızı Çocuklar Derneğpi</a>
+<br>koruyucu aile konusunda farkındalığı artırmak, devlet korumasından çıkan 18 yaş üzeri gençlere mentorlük yapmak ve yuvadaki çocukların gelişimine katkı sağlayacak projeler çerçevesinde çalışmak.
+</p> 
+<p>
 <a href="https://www.kizbasina.com/">KızBaşına</a>
 <br>Adını “Kız başına yapamazsın” nefret söylemini reddederek oluşturduğu karşıt “Yaparsan kız başına yaparsın” söyleminden almaktadır.
 </p>
@@ -386,6 +402,10 @@
 <br>Türkiye'de öğretmenlerin kişisel ve mesleki gelişimine katkı sağlamak amacıyla faaliyet gösteren etkin bir sivil toplum kuruluşu olmak.
 </p>
 <p>
+<a href="https://www.once.org.tr/">Önce Çocuklar ve Kadınlar Derneği</a>
+<br>Şiddet mağduru kadın ve çocuklarımıza hukuki ve psikolojik destek sunuyor.
+</p>
+<p>
 <a href="https://www.onemsiyoruz.org/">Önemsiyoruz Derneği</a>
 <br>Risk altındaki çocukların ve çevresindeki yetişkinlerin; sosyal, kültürel ve ekonomik alanda iyi bir yaşam sürmeleri için çalışır.
 </p>
@@ -456,6 +476,10 @@
 <p>
 <a href="https://sercev.org.tr/">Serebral Palsili Çocuklar Derneği (SERÇEV)</a>
 <br>Ülkemizdeki 600 bin serebral palsili bireye ulaşmak sorunlarının çözümünde ve ihtiyaçlarının karşılanmasında aktif rol almak.
+</p>  
+<p>
+<a href="https://sesdernegi.org/">Ses - Eşitlik ve Dayanışma Derneği</a>
+<br>Toplumsal cinsiyet eşitliğini savunmak, Sürdürülebilir Kalkınma Amaçları’na ulaşmak ve bu sayede memleketimizde ve dünyada eşitliğin, barışın hakim olduğu bir dünya düzeni için örgütlü dayanışmayı desteklemek.
 </p>  
 <p>
 <a href="https://sisterslab.co/">SistersLab | Bilim ve Teknolojide Kadın Derneği</a>
