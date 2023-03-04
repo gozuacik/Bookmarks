@@ -37,6 +37,10 @@
 <br>DevBooks helps developers to find the best books for developers and authors to showcase their amazing work.
 </p>
 <p>
+<a href="https://roadmap.sh/roadmaps">Developer Roadmaps</a>
+<br>Step by step guides and paths to learn different tools or technologies.
+</p>
+<p>
 <a href="https://www.freecodecamp.org/news/">Free Code Camp</a>
 </p>
 <p>
@@ -48,6 +52,10 @@
 </p>
 <p>
 <a href="https://medium.com/devopsturkiye/git-nedir-b9213666856c">Git Nedir</a>
+</p>
+<p>
+<a href="https://www.gitbook.com/">GitBook</a>
+<br>Makes it easy to plan, centralize and share knowledge, from start to ship.  
 </p>
 <p>
 <a href="https://github.com/initialcommit-com/git-sim">Git-Sim</a>
