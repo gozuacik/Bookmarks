@@ -3,6 +3,10 @@
 <br>Open-source platform to build, deploy, and maintain internal apps.
 </p> 
 <p>
+<a href="https://bytevitae.com/">Byte Vitae</a>
+<br>Highest quality developer resume in less than 5 minutes.
+</p>
+<p>
 <a href="https://usedevbook.com/">DEVBOOK</a>
 <br>Devbook is a search engine for developers that helps them to find the resources they need and answer their questions faster.
 </p> 
