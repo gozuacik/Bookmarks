@@ -13,6 +13,10 @@
 <br>Free Hand-Drawn Animated GIF Creator  
 </p>
 <p>
+<a href="https://designvalley.club/">Design Valley</a>
+<br>Design tool depository.  
+</p>
+<p>
 <a href="https://freetools.site/">Free Online Tools</a>
 </p>
 <p>
