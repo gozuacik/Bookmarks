@@ -27,6 +27,10 @@
 <br>Create a quiz, survey, form
 </p>
 <p>
+<a href="https://bytevitae.com/">Byte Vitae</a>
+<br>Highest quality developer resume in less than 5 minutes.
+</p>
+<p>
 <a href="https://carbon.now.sh/>Carbon</a>
 <br>Create and share beautiful images of your source code
 </p>
