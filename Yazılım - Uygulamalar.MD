@@ -39,6 +39,10 @@
 <br>A Visual Survey of Text Visualization Techniques
 </p> 
 <p>
+<a href="https://www.todesktop.com/">ToDesktop</a>
+<br>Convert your Wep App to a Desktop App.
+</p>
+<p>
 <a href="https://twinr.dev/">Twinr</a>
 <br>Convert Website to App in minutes
 </p> 
