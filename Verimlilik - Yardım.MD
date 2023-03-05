@@ -48,7 +48,11 @@
 <p>
 <a href="https://deftpdf.com//">DeftPDF</a>
 <br>Web üzerinde PDF düzenleme
-</p>                                                            
+</p> 
+<p>
+<a href="https://everyday.app/">Everyday</a>
+<br>Simple and beautiful habit tracker.  
+</p>
 <p>
 <a href="https://everydaycalculation.com/">Everyday Calculation</a>
 </p>
