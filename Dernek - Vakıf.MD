@@ -71,6 +71,9 @@
 <br>Sosyoekonomik eşitsizliklerin hakim olduğu bölgelerde yaşayan 5-18 yaş arası çocukların hakları ve eğitimleri için fırsat eşitsizliği mücadelesi.
 </p> 
 <p>
+<a href="https://brhd.org.tr/">Birleşmiş Ressamlar ve Heykeltıraşlar Derneği (BRHD)</a>
+</p> 
+<p>
 <a href="https://www.bumed.org.tr/">Boğaziçi Üniversitesi Mezunlar Derneği (BÜMED)</a>
 <br>Boğaziçi Üniversitesi’ni desteklemek, üyelerinin ve BÜ öğrencilerinin sosyal, kültürel, mesleki yaşantılarına katkıda bulunan çalışmalar yapmak.
 </p> 
@@ -284,6 +287,9 @@
 <p>
 <a href="https://www.karakutu.org.tr/">Karakutu Derneği</a>
 <br>Hafıza Yürüyüşü ile gençlerin insan hakları konusunda duyarlılık kazanmasını sağlamak.
+</p> 
+<p>
+<a href="https://www.karikaturculerdernegi.com/">Karikatürcüler Derneği</a>
 </p> 
 <p>
 <a href="https://kirmizicocuklardernegi.org/home/index.html">Kırmızı Çocuklar Derneğpi</a>
