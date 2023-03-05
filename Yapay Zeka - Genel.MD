@@ -43,6 +43,10 @@
 <br>Machine Learning / Artificial Intelligence / Data Landscape
 </p>
 <p>
+<a href="https://www.obviously.ai/">Obviously AI</a>
+<br>Data Science without Code
+</p>
+<p>
 <a href="https://okai.brown.edu/chapter0.html">OKAI</a>
 </p>
 <p>
