@@ -1,4 +1,8 @@
 <p>
+<a href="https://www.aginkadinkooperatifi.com/">Ağın Kadın Kooperatifi</a>
+<br>Ağın Kadınları Tarımsal Kalkınma Kooperatifi
+</p>
+<p>
 <a href="https://astronutturkey.com/">Astronut</a>
 <br>Kuruyemiş
 </p>
@@ -17,6 +21,10 @@
 <p>
 <a href="https://www.handeonel.com/">Hande Önel Bakery</a>
 <br>Pasta, Fırın
+</p> 
+<p>
+<a href="https://www.hazek.com.tr/">Hazek</a>
+<br>Hatay Altınözü Zeytin Emeği Kadın Girişimi Üretim ve İşleme Kooperatifi
 </p> 
 <p>
 <a href="https://www.koyde.com/">Köyde</a>
@@ -41,4 +49,8 @@
 <p>
 <a href="https://www.kayisiadinahersey.com/">Sarı Dünya</a>
 <br>Kayısı Adına Her Şey
+</p> 
+<p>
+<a href="https://vakiflilezzetleri.com/">Vakıflı Lezzetleri</a>
+<br>Hatay Vakıflı Köyü Lezzetleri
 </p> 
