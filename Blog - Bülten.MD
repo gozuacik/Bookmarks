@@ -138,6 +138,10 @@
 <a href="https://engineering.imvu.com/">IMVU Engineering Blog</a>
 </p>
 <p>
+<a href="https://www.beningo.com/blog/">Jacob's Blog</a>
+<br>Programlama ile ilgili yazılar.  
+</p> 
+<p>
 <a href="https://blog.janestreet.com/">Jane Street Tech Blog</a>
 </p> 
 <p>
