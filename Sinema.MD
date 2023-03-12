@@ -21,6 +21,10 @@
 <a href="https://cinelog.net/">Cinelog</a>
 </p>
 <p>
+<a href="https://cinemashle.com/">Cinemashle</a>
+<br>Film Tahmini Oyunu  
+</p>
+<p>
 <a href="https://connectthestars.xyz/">Connect the Stars</a>
 <br>Movie Trivia Game  
 </p>
