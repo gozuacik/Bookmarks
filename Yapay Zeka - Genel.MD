@@ -43,6 +43,10 @@
 <br>Machine Learning / Artificial Intelligence / Data Landscape
 </p>
 <p>
+<a href="https://mad.firstmarkcap.com/">MissJourney</a>
+<br>The AI alternative that celebrates women+.
+</p>
+<p>
 <a href="https://www.obviously.ai/">Obviously AI</a>
 <br>Data Science without Code
 </p>
