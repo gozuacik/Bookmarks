@@ -33,6 +33,9 @@
 <br>Türkiye'nin Kadın Ustaları
 </p>
 <p>
+<a href="https://lgbtqvrmuseum.com/">LGBTQ+ VR Museum</a>
+</p>
+<p>
 <a href="https://katalog.marmara.edu.tr/yordambt/yordam.php">Marmara Üniversitesi - Nadide Eserler</a>
 <br>Marmara Üniversitesi'ndeki nadide eserlere online olarak ulaşabileceğiniz platform 
 </p> 
