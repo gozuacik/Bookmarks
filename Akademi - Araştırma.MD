@@ -29,6 +29,10 @@ Link-aggregator website for academic article discussion
 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.
 </p>
 <p>
+<a href="https://www.tangify.ai/">Tangify</a>
+<br>Find out if your idea can be patented in minutes, without disclosing confidential IP.  
+<p>
+<p>
 <a href="http://www.tubaterim.gov.tr/">TÜBA - Türkçe Bilim Terimleri Sözlüğü</a>
 <p>
 <p>
