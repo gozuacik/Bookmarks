@@ -39,6 +39,10 @@
 <br>Create and share beautiful images of your source code
 </p>
 <p>
+<a href="https://chartai.io/">ChartAI</a>
+<br>Diagramming as a Service
+</p>
+<p>
 <a href="https://www.coscreen.co/">CoScreen</a>
 <br>Video Collaboration for Technical Teams.
 </p>         
