@@ -1,8 +1,4 @@
 <p>
-<a href="https://www.1001cesit.com.tr/">Binbir Çeşit</a>
-<br>Gaziantep Yöresel Ürünleri
-</p>
-<p>
 <a href="https://www.aginkadinkooperatifi.com/">Ağın Kadın Kooperatifi</a>
 <br>Ağın Kadınları Tarımsal Kalkınma Kooperatifi
 </p>
@@ -35,6 +31,10 @@
 <p>
 <a href="https://www.balavcisi.com/">Bal Avcısı</a>
 <br>Yaban Balları ve Arı Ürünleri
+</p>
+<p>
+<a href="https://www.1001cesit.com.tr/">Binbir Çeşit</a>
+<br>Gaziantep Yöresel Ürünleri
 </p>
 <p>
 <a href="https://www.cemens.com.tr/">Çemen's Gurme</a>
