@@ -15,6 +15,9 @@
 <br>Geçmişten bugüne çizilmiş tüm haritalara ulaşabileceğiniz bir arşiv
 </p>
 <p>
+<a href="https://dp.la/">Digital Public Library of America</a>
+</p>
+<p>
 <a href="https://www.discuvver.com/">Discuvver</a>
 <br>Faydalı Web Sayfası Önerileri
 </p>
