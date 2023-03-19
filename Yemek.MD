@@ -125,6 +125,10 @@
 <br>Kayısı Adına Her Şey
 </p> 
 <p>
+<a href="https://www.semireraslan.com/">Semir Eraslan</a>
+<br>Türkiye'nin En Doğal Yöresel Ürünler Merkezi
+</p> 
+<p>
 <a href="https://www.sifaana.com.tr/">ŞifaAna</a>
 <br>Doğal Fermentasyon Gıdalar
 </p> 
