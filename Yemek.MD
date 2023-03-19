@@ -53,6 +53,10 @@
 <br>Yöresel ve Organik Ürünler
 </p> 
 <p>
+<a href="https://www.gurmezar.com.tr/">Gurmezar</a>
+<br>Yöresel Adıyaman Ürünleri
+</p> 
+<p>
 <a href="https://www.handeonel.com/">Hande Önel Bakery</a>
 <br>Pasta, Fırın
 </p> 
