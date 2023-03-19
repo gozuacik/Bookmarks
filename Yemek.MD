@@ -6,6 +6,9 @@
 <a href="https://ahsendogalurunler.com/">Ahsen Doğal Ürünler</a>
 </p>
 <p>
+<a href="https://www.alficorek.com/">Alfi Çörek</a>
+</p>
+<p>
 <a href="https://www.almacipazari.com.tr/">Almacı Pazarı</a>
 <br>Tarihi Gaziantep Bakkalı
 </p>
