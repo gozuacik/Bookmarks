@@ -113,6 +113,10 @@
 <br>Hatay Yöresel, Doğal, Organik Ürünler
 </p>
 <p>
+<a href="https://otak.com.tr/">Otak</a>
+<br>Doğal Gıda Ürünleri
+</p>
+<p>
 <a href="https://www.kayisiadinahersey.com/">Sarı Dünya</a>
 <br>Kayısı Adına Her Şey
 </p> 
