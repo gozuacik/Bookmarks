@@ -233,6 +233,10 @@
 <br>Dünyayı daha yaşanabilir bir yer hâline getirecek ve değişime öncülük edecek, toplumu ileriye taşıyacak girişimcileri, liderleri ve kurumları güçlendirmeyi hedefleyen, 5 kıtada, 100’den fazla şehirde buluna global sosyal inovasyon platformudur.
 </p> 
 <p>
+<a href="https://ifade.org.tr/">İfade Ö<gürlüğü Derneği</a>
+<br>Türkiye’de ifade özgürlüğü, medya ve İnternet özgürlüğünün korunması ve geliştirilmesi İfade Özgürlüğü Derneği’nin (“İFÖD”) temel hedefidir.
+</p> 
+<p>
 <a href="https://www.ihtiyacharitasi.org/">İhtiyaç Haritası</a>
 <br>ihtiyaç sahipleri ve destekçileri harita tabanlı dijital bir platformda buluşturan online sosyal bir kooperatiftir.
 </p> 
