@@ -16,6 +16,9 @@
 <br>A curated list of C good stuff.  
 </p>
 <p>
+<a href="https://cpp.libhunt.com/">Awesome C++</a>
+</p>
+<p>
 <a href="https://awesomeopensource.com/">Awesome Open Source</a>
 </p>
 <p>
