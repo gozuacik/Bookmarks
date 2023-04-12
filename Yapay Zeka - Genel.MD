@@ -54,11 +54,19 @@
 <a href="https://okai.brown.edu/chapter0.html">OKAI</a>
 </p>
 <p>
+<a href="https://www.phind.com/">Phind</a>
+<br>The AI search engine for developers.
+</p>
+<p>
 <a href="https://www.textbook.ds100.org/intro">Principles and Techniques of Data Science</a>
 </p>
 <p>
 <a href="https://seeing-theory.brown.edu/index.html">Seeing Theory</a>
 <br>A Visual Introduction to Probability and Statistics
+</p>
+<p>
+<a href="https://github.com/vocodedev/vocode-python">Vocode</a>
+<br>Build voice-based LLM apps in minutes.
 </p>
 <p>
 <a href="https://atozofai.withgoogle.com/intl/en-US/">The A-Z of AI</a>

@@ -32,6 +32,10 @@
 <br>C Programming, Network Programming
 </p>
 <p>
+<a href="https://bloop.ai/">Bloop</a>
+<br>Understand codebases with GPT-4 and semantic code search.
+</p>
+<p>
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav">Data Structure Visualization</a>
 <br>Visualizations for generic data structures and algorithms.
 </p>

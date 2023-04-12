@@ -124,6 +124,10 @@
 <br>Doğal Gıda Ürünleri
 </p>
 <p>
+<a href="https://rizecaysepeti.com/">Rize Çay Sepeti</a>
+<br>Online Çay Satış Mağazası
+</p>
+<p>
 <a href="https://www.kayisiadinahersey.com/">Sarı Dünya</a>
 <br>Kayısı Adına Her Şey
 </p> 

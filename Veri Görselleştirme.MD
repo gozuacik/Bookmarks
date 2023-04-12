@@ -14,6 +14,10 @@
 <a href="https://datagifmaker.withgoogle.com/">Data Gif Maker</a>
 </p>
 <p>
+<a href="https://www.dataflexor.com/">Dataflexor</a>
+<br>Turn your spreadsheets into explorable charts.
+</p>
+<p>
 <a href="https://datamaps.world/">Datamaps</a>
 </p>
 <p>

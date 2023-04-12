@@ -44,6 +44,10 @@
 <br>Animasyon ve Hareketli Grafik Yaratma Aracı 
 </p>
 <p>
+<a href="https://www.postuby.com/">Postuby</a>
+<br>Sosyal Medya için tasarımlar.
+</p>
+<p>
 <a href="https://www.publisheet.com/">Publisheet</a>
 <br>Publish your Excel sheets as interactive web pages.
 </p>

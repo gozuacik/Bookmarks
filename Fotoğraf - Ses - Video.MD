@@ -115,6 +115,10 @@
 <br>Benzer Müzisyenleri Bulma  
 </p>
 <p>
+<a href="https://ai.nero.com/image-upscaler">Nero AI</a>
+<br>Successfully upscaled images.
+</p>
+<p>
 <a href="http://publicdomain.nypl.org/pd-visualization/">NYPL Public Domain Release</a>
 <br>New York Halk Kütüphanesi tarafından dijital ortama aktarılan belgeler 
 </p>

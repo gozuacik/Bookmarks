@@ -82,6 +82,9 @@
 <br>Çocukların eğitimini, mutluluğunu, sağlıklı gelişimlerini sağlamak ve bu konudaki her türlü engele karşı mücadele vererek çocuklara destek olmak.
 </p> 
 <p>
+<a href="https://cinselsiddetlemucadele.org/">Cinsel Şiddetle Mücadele Derneği (ÇŞMD)</a>
+</p> 
+<p>
 <a href="https://www.cydd.org.tr/">Çağdaş Yaşamı Destekleme Derneği (ÇYDD)</a>
 <br>Atatürk ilkelerini koruyarak, bilimsel düşünme yetilerini geliştiren, insan haklarına saygılı çağdaş bir yaşam ve eğitim için çözüm üretmek.
 </p> 
@@ -151,6 +154,10 @@
 <p>
 <a href="https://www.enkad.org/">Engelli Kadın Derneği (EnKad)</a>
 <br>Engelli kadınların mevcut durum ve problemlerini irdeleyerek, onların; evrensel insan hakları, adalet ve hukukun üstünlüğü ilkesi çerçevesinde siyasi, hukuki, sosyal ve ekonomik varlıklarını geliştirecek teorik ve pratik çözümler üretir.
+</p> 
+<p>
+<a href="https://etkicemberleri.org/">Etki Çemberleri Vakfı</a>
+<br>Gezegende, bölgede, ülkede, ilde, ilçede” yaşayan tüm canlıların yaşam kalitelerini iyileştirmek, daha iyi bir bugün ve gelecek tasarlamak üzere harekete geçen bireylerin bir araya geldikleri bir bağışçılar topluluğu.
 </p> 
 <p>
 <a href="https://www.fazlagida.com/">Fazla Gıda</a>
@@ -344,6 +351,10 @@
 <br>Somut / somut olmayan her türlü kültürel mirasın korunması ve topluma tanıtılması.
 </p> 
 <p>
+<a href="https://kureseldenge.org/">Küresel Denge Derneği</a>
+<br>Doğal kaynakların sürdürülebilir gelişme prensipleri doğrultusunda; araştırma yapmak, korunmasına, geri kazanılmasına ve iyileştirilmesine çalışmak ve bu yönde yönetim planları oluşturmak, çevre alanında duyarlı ve bilinçli bir toplum yaratılmasına katkı sağlamak, sivil toplum kuruluşlarının rolünü güçlendirmek ve küresel sorumluluğu ülke koşullarımız dikkate alınarak paylaşmak.
+</p> 
+<p>
 <a href="http://www.lisesvakfi.org/">Lions ve Leo Kulüpleri Yönetim Çevresi Sağlık Eğitim Sosyal Hizmet (LİSES) Vakfı</a>
 <br>Bizi biz yapan Lion ve Leo enerjisinin ve hayallerinin, toplumun yararına olacak kalıcı hizmetlere dönüşmesine zemin oluşturmak.
 </p> 
@@ -448,6 +459,14 @@
 <br>Otizmli bireylerin eğitim ve istihdamına katkı sağlamayı amaçlayarak toplumsal farkındalık çalışmaları yürütmektedir.
 </p>
 <p>
+<a href="https://pozitifyasam.org/">Pozitif Yaşam Derneği</a>
+<br>HIV tanısı konmuş olsun veya olmasın, tüm HIV ile yaşayan kişilere ulaşmayı hedefler.
+</p>
+<p>
+<a href="https://www.pozitifiz.org/">Pozitif-iz Derneği</a>
+<br>HIV pozitif kişiler ve yakınlarını fiziksel, ruhsal ve sosyal yönden güçlendirmeyi amaçlayan bir sivil toplum kuruluşudur.
+</p>
+<p>
 <a href="https://puduhepavekizkardesleri.com/">Puduhepa ve Kız Kardeşleri</a>
 <br>Kız çocuklarının eğitimini desteklemek ve kadın istihdamına katkıda bulunmak.
 </p>
@@ -474,6 +493,10 @@
 <p>
 <a href="https://www.sagkal.org/">Sağlıkta Kalite Derneği</a>
 <br>Bireylerin sağlıklı yaş almalarına katkı sağlayarak toplum sağlığını korumak.
+</p>
+<p>
+<a href="https://sebuka.com/">Sebuka (Sen Bu Kadınların Avukatı mısın?)</a>
+<br>Kurumlara toplumsal cinsiyet odaklı eğitim ve danışmanlık hizmetleri sunar.
 </p> 
 <p>
 <a href="https://seyev.org/">Seda Yekeler Eğitim Vakfı (SEYEV)</a>

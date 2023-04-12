@@ -31,6 +31,10 @@
 <br>Create a quiz, survey, form
 </p>
 <p>
+<a href="https://www.browse.ai/">Browse AI</a>
+<br>The easiest way to extract and monitor data from any website.
+</p>
+<p>
 <a href="https://bytevitae.com/">Byte Vitae</a>
 <br>Highest quality developer resume in less than 5 minutes.
 </p>
@@ -137,10 +141,15 @@
 <p>
 <a href="https://www.nocode.tech/">NoCode</a>
 <br>Teknik Bilgi Gerektirmeyen Yardımcı Araçlar
-</p>                             
+</p>
+<p>
 <a href="https://www.omnicalculator.com/discover">Omni Calculator</a>
 <br>Online Calculator
-</p>        
+</p>   
+<p>
+<a href="https://oneword.domains/">One Word Domains</a>
+<br>A database for available & brandable one-word domain names for your next startup idea.
+</p>  
 <p>
 <a href="https://papersizes.io/">Paper Sizes</a>
 <br>Kağıt Boyutları

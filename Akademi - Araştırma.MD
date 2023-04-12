@@ -3,6 +3,10 @@
 <br>Connect scientists
 </p> 
 <p>
+<a href="https://consensus.app/">Consensus</a>
+<br>A search engine that uses AI to extract and distill findings directly from scientific research.
+</p> 
+<p>
 <a href="https://explodingtopics.com/">Exploding Topics</a>
 <br>Discover Exploding Topics
 </p> 

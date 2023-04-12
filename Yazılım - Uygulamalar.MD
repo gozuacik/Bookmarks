@@ -38,6 +38,10 @@
 <br>Scrape and extract data from any webpage.
 </p> 
 <p>
+<a href="https://semanticdiff.com/">SemanticDiff</a>
+<br>A Visual Studio Code extension to help you understand code changes faster by removing noise and adding useful annotations.
+</p> 
+<p>
 <a href="https://swimlanes.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn">Swimlanes</a>
 <br>Create sequence diagrams with simple online tool.
 </p> 
