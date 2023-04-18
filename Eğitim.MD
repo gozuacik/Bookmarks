@@ -33,6 +33,9 @@
 <a href="https://dash.generalassemb.ly/">Dash</a>
 </p>
 <p>
+<a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a>
+</p>
+<p>
 <a href="https://dev.tube/">DevTube</a>
 </p>
 <p>

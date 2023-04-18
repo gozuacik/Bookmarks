@@ -3,6 +3,10 @@
 <br>Fotoğraflardan Yağlı Tablo Üretimi  
 </p>
 <p>
+<a href="https://fairanimateddrawings.com/site/home">Animated Drawings</a>
+<br>Create animations starring your own drawn characters.
+</p>
+<p>
 <a href="https://barnimages.com/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter">Barnimages</a>
 </p>
 <p>

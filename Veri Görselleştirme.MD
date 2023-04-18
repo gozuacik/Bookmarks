@@ -31,6 +31,10 @@
 <br>Generates Pivot tables and charts from CSV files  
 </p>
 <p>
+<a href="https://github.com/JuliaPlots/UnicodePlots.jl">UnicodePlots</a>
+<br>Advanced Unicode plotting library designed for use in Julia's REPL.
+</p>
+<p>
 <a href="https://zapchart.com/">ZapChart</a>
 </p>
 

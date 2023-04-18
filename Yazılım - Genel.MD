@@ -48,6 +48,10 @@
 <br>Step by step guides and paths to learn different tools or technologies.
 </p>
 <p>
+<a href="https://github.com/bregman-arie/devops-resources">DEVOPS Resources</a>
+<br>This repository is about gathering any useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.
+</p>
+<p>
 <a href="https://www.freecodecamp.org/news/">Free Code Camp</a>
 </p>
 <p>
@@ -110,6 +114,10 @@
 </p>
 <p>
 <a href="https://refrf.shreyasminocha.me/?utm_source=hackernewsletter&utm_medium=email&utm_term=books">Regular Expressions for Regular Folk</a> 
+</p>
+<p>
+<a href="https://github.com/mhadidg/software-architecture-books">Software Architecture Books</a>
+<br>A comprehensive list of books on Software Architecture.
 </p>
 <p>
 <a href="https://www.syncfusion.com/ebooks">Succinctly Series</a>

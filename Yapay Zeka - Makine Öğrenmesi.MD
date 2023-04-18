@@ -59,6 +59,9 @@ verdiği "Makine Öğrenmesine Giriş" ders notlarını ve video kayıtlarını 
 <a href="https://medium.com/@ayyucekizrak">Medium - Ayyüce Kızrak</a>
 </p>
 <p>
+<a href="https://github.com/dair-ai/ML-Papers-of-the-Week">ML Papers of The Week</a>
+</p>
+<p>
 <a href="https://mlcourse.ai/">MLCOURSE.AI</a>
 </p>
 <p>

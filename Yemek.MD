@@ -6,6 +6,10 @@
 <a href="https://ahsendogalurunler.com/">Ahsen Doğal Ürünler</a>
 </p>
 <p>
+<a href="https://www.akalpsut.com/">Akalp Çiftliği</a>
+<br>Doğal Süt ve Süt Ürünleri
+</p>
+<p>
 <a href="https://www.alficorek.com/">Alfi Çörek</a>
 </p>
 <p>
@@ -146,6 +150,10 @@
 <p>
 <a href="https://www.uygarlikbahcesi.com/">Uygarlık Bahçesi</a>
 <br>Hatay'dan Hayata
+</p> 
+<p>
+<a href="https://www.ucelmadogaltarim.net/">Üç Elma Doğal Tarım</a>
+<br>Küçük çiftçi ailesiyiz, topraklarımızda Fukuoka'nın doğal tarım yöntemine ve felsefesine inanarak gübresiz, ilaçsız, sürmesiz tarım yapmaktayız.
 </p> 
 <p>
 <a href="https://vakiflilezzetleri.com/">Vakıflı Lezzetleri</a>

@@ -10,6 +10,10 @@
 <a href="https://checklist.atolye15.com/">Checklist</a>
 </p>
 <p>
+<a href="https://deskreen.com/lang-en">Deskreen</a>
+<br>Herhangi bir cihazı bilgisayarınız için ikincil bir ekrana dönüştürün.
+</p>
+<p>
 <a href="https://usedevbook.com/">DEVBOOK</a>
 <br>Devbook is a search engine for developers that helps them to find the resources they need and answer their questions faster.
 </p> 
@@ -26,8 +30,16 @@
 <br>Visually build native mobile apps.
 </p>
 <p>
+<a href="https://app.dropchat.co/">Dropchat</a>
+<br>Chat with any book and file, instantly.
+</p>
+<p>
 <a href="https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/?utm_source=hackernewsletter&utm_medium=email&utm_term=code">Graphviz</a>
 <br>Create diagrams with code
+</p> 
+<p>
+<a href="https://www.phind.com/">Phind</a>
+<br>Geliştiriciler için AI arama motoru.
 </p> 
 <p>
 <a href="https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/?utm_source=dailytechdigest&utm_medium&utm_campaign=1520">QGIS</a>
