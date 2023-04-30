@@ -42,6 +42,10 @@
 <a href="https://search.creativecommons.org/?utm_campaign=StartupResources.io&utm_medium=email&utm_source=Revue%20newsletter">Creative Commons Search</a>
 </p>
 <p>
+<a href="https://www.daftart.ai/">Daft Art</a>
+<br>Albüm kapağı hazırlama.
+</p>
+<p>
 <a href="https://desifren.com/">Deşifren - Sesten Yazıya</a>
 </p>
 <p>
@@ -170,6 +174,9 @@
 <a href="https://rfclipart.com/?utm_campaign=StartupResources.io&utm_medium=email&utm_source=Revue%20newsletter">RFclipart</a>
 </p>
 <p>
+<a href="https://rythmex.com/">Rythmex</a>
+<br>Sesi yazıya dönüştürün.  
+</p>
 <a href="https://same.energy/">Same Energy</a>
 <br>Visual image search  
 </p>
@@ -186,6 +193,9 @@
 </p>
 <p>
 <a href="https://streamlineicons.com/">StreamLineIcons</a>
+</p>
+<p>
+<a href="https://textart.sh/">Text Art</a>
 </p>
 <p>
 <a href="https://visualhunt.com/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=StartupResources.io">Visual Hunt</a>
@@ -215,4 +225,8 @@
 </p>
 <p>
 <a href="https://www.wordclouds.com/">Word Cloud Generator</a>
+</p>
+<p>
+<a href="https://www.yepic.ai/studio">Yepic</a>
+<br>Yazınızı Yapay Zeka ile videoya dönüştürün. 
 </p>

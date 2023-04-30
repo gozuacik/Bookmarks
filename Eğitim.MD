@@ -36,6 +36,10 @@
 <a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a>
 </p>
 <p>
+<a href="https://dev.tube/">DevFreeBooks</a>
+<br>Yazılımcılar için ücretsiz kitaplar.
+</p>
+<p>
 <a href="https://dev.tube/">DevTube</a>
 </p>
 <p>

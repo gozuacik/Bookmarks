@@ -7,6 +7,10 @@
 <br>Şehirdeki Etkinlikler
 </p>  
 <p>
+<a href="https://www.findyourfest.com/">Find Your Fest</a>
+<br>Müzik Festivali Sorgulama
+</p> 
+<p>
 <a href="https://www.istanbulberlin.com/">İstanbul Berlin</a>
 </p>
 <p>

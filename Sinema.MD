@@ -5,6 +5,9 @@
 <a href="http://www.altyazi.net/">Altyazı Sinema Dergisi</a>
 </p>
 <p>
+<a href="https://awesome-movies.life/">Awesome-Movies</a>
+</p>
+<p>
 <a href="https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/">Based on a True Story</a>
 <br>Gerçek Hikayelere Dayanan Filmlerin Benzeme Yüzdeleri  
 </p>

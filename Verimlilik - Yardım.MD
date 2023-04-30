@@ -123,7 +123,15 @@
 <br>Kargonu hemen takip etmeye başla.                                  
 </p>
 <p>
+<a href="https://www.magicslides.app/">MagicSlides</a>
+<br>Fikirlerinizi hızlıca sunuma dönüştürün.                                 
+</p>
+<p>
 <a href="https://namechk.com/">Namechk</a>
+</p>
+<p>
+<a href="https://namewizard.ai/">Namewizard</a>
+<br>Marka fikriniz için alan adı bulucu.
 </p>
 <p>
 <a href="https://neetcode.io/">NeetCode</a>
@@ -189,6 +197,10 @@ that it was designated to materialise
 <p>
 <a href="https://shellshare.net/">shellshare</a>
 <br>LIVE TERMINAL BROADCAST
+</p>
+<p>
+<a href="https://standardresume.co/">Standard Resume</a>
+<br>Özgeçmiş/CV Hazırlama  
 </p>
 <p>
 <a href="https://tempail.com/tr/">Tempail</a>

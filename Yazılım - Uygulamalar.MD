@@ -38,6 +38,14 @@
 <br>Create diagrams with code
 </p> 
 <p>
+<a href="https://makestoryboard.com/">MakeStoryBoard</a>
+<br>Hikaye görselleme yazılımı.                                  
+</p>
+<p>
+<a href="https://en.melba.app/">Melba</a>
+<br>Çiftler için bir uygulama.                                  
+</p>
+<p>
 <a href="https://www.phind.com/">Phind</a>
 <br>Geliştiriciler için AI arama motoru.
 </p> 

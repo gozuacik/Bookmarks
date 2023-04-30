@@ -6,6 +6,10 @@
 <a href="http://www.tanpinarmerkezi.com/">Ahmet Hamdi Tanpınar Merkezi</a>
 </p>
 <p>
+<a href="https://www.kitantik.com/">Kitantik</a>
+<br>Kitap - Antika - Efemera
+</p>
+<p>
 <a href="https://www.masallarinsesi.com/">Masalların Sesi</a>
 </p>
 <p>

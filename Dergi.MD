@@ -54,6 +54,10 @@
 <br>Fotoğraf  
 </p> 
 <p>
+<a href="https://kreaktivist.com.tr/">Kreaktivist</a>
+<br>Kültür - Sanat - Yaşam  
+</p> 
+<p>
 <a href="http://www.mlive.com.tr/">M Live</a>
 <br>Ev ve Yaşam Stili 
 </p> 

@@ -321,6 +321,10 @@
 <a href="https://engineeringblog.yelp.com/">Yelp Engineering</a>
 </p> 
 <p>
+<a href="https://yuvaluna.com/">Yuvaluna</a>
+<br>Yaşamı kutlamayı ve kutsamayı önemseyen; konuşulmayanı konuştuğumuzda, bilgiyi ve deneyimi paylaşmaya başladığımızda dünyanın değişebileceğine inanan bir online platformdur.
+</p> 
+<p>
 <a href="https://zapier.com/engineering/">Zapier Engineering Blog</a>
 </p> 
 <p>
