@@ -49,7 +49,11 @@
 <p>
 <a href="https://www.coscreen.co/">CoScreen</a>
 <br>Video Collaboration for Technical Teams.
-</p>         
+</p>    
+<p>
+<a href="https://currl.io/">Currl</a>
+<br>Ücretsiz bir metin tabanlı sosyal yer imi web sitesi.
+</p>  
 <p>
 <a href="https://www.cleverfiles.com/disk-drill-windows.html">Data Recovery Software for Windows</a>
 </p>

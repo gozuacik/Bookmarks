@@ -38,6 +38,10 @@
 <br>Create diagrams with code
 </p> 
 <p>
+<a href="https://idolapp.io/ai">Idol AI</a>
+<br>Kodlama Yapmadan ChatGPT ile Uygulama Oluşturma.                               
+</p>
+<p>
 <a href="https://makestoryboard.com/">MakeStoryBoard</a>
 <br>Hikaye görselleme yazılımı.                                  
 </p>

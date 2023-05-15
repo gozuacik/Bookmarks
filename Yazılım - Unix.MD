@@ -38,6 +38,9 @@
 <a href="https://github.com/jlevy/the-art-of-command-line?utm_source=dailytechdigest&utm_medium&utm_campaign=1433">The Art of Command Line</a>
 </p>
 <p>
+<a href="https://sysprog21.github.io/lkmpg/">The Linux Kernel Module Programming Guide</a>
+</p>
+<p>
 <a href="http://cb.vu/unixtoolbox.xhtml">Unix Toolbox</a>
 <br>This document is a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users
 </p>

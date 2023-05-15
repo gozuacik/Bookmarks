@@ -44,6 +44,10 @@
 <br>Animasyon ve Hareketli Grafik Yaratma Aracı 
 </p>
 <p>
+<a href="https://popsy.co/">Popsy</a>
+<br>Kodlama gerektirmeden web sitesi oluşturma.
+</p>
+<p>
 <a href="https://www.postuby.com/">Postuby</a>
 <br>Sosyal Medya için tasarımlar.
 </p>
