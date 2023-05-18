@@ -71,6 +71,10 @@
 <br>Sosyoekonomik eşitsizliklerin hakim olduğu bölgelerde yaşayan 5-18 yaş arası çocukların hakları ve eğitimleri için fırsat eşitsizliği mücadelesi.
 </p> 
 <p>
+<a href="https://www.birizdayanisma.org/">Birİz Dayanışma Derneği</a>
+<br>Birlikte olmanın gücüyle toplumsal yardımlaşma ve dayanışma alanında fayda üretip bir iz bırakmak adına yurt içinden ve yurt dışından bir araya gelen gönüllülerimiz ile çalışmalarımıza devam ediyoruz.
+</p> 
+<p>
 <a href="https://brhd.org.tr/">Birleşmiş Ressamlar ve Heykeltıraşlar Derneği (BRHD)</a>
 </p> 
 <p>
