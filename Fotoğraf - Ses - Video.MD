@@ -234,6 +234,10 @@
 <br>Sesten yazıya çevirme, Speech to Text
 </p>
 <p>
+<a href="https://webamp.org/">Webamp</a>
+<br>Kült Winamp Müzik Uygulamasının Web Versiyonu
+</p>
+<p>
 <a href="https://www.wordclouds.com/">Word Cloud Generator</a>
 </p>
 <p>

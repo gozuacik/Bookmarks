@@ -629,7 +629,7 @@
 <p>
 <a href="https://www.tema.org.tr/">Türkiye Erozyonla Mücadele, Ağaçlandırma ve Doğal Varlıkları Koruma Vakfı (TEMA)</a>
 <br>Sürdürülebilir yaşam ilkesiyle topraklarımızı ve doğal varlıklarımızı korumak ve bu mücadelenin bir devlet politikası haline gelmesini sağlamak.
-</p> 
+</p>
 <p>
 <a href="http://www.israf.org/">Türkiye İsrafı Önleme Vakfı (TİSVA)</a>
 <br>Dar gelirli kadınların kendi kendilerine gelir getirici faaliyette bulunmaları için mikrokredi desteği sağlamak.

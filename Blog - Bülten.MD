@@ -166,6 +166,10 @@
 <a href="https://kickstarter.engineering/">Kickstarter Engineering</a>
 </p> 
 <p>
+<a href="https://nickedwards.fun/KINGLY">Kingly</a>
+<br>Web Çizgi Romanı
+</p> 
+<p>
 <a href="https://letterdrop.io/">LetterDrop</a>
 <br>Discover and share new newsletters launching daily
 </p> 

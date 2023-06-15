@@ -6,6 +6,10 @@
 <a href="http://www.tanpinarmerkezi.com/">Ahmet Hamdi Tanpınar Merkezi</a>
 </p>
 <p>
+<a href="https://nickedwards.fun/KINGLY">Kingly</a>
+<br>Web Çizgi Romanı
+</p> 
+<p>
 <a href="https://www.kitantik.com/">Kitantik</a>
 <br>Kitap - Antika - Efemera
 </p>

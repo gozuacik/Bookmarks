@@ -1,4 +1,8 @@
 <p>
+<a href="https://vergialgi.com/ali-alaybek-dijital-kutuphanesi">Ali Alaybek Dijital Kütüphanesi</a>
+<br>Hukuk ve Ekonomi alanlarında kitaplar. 
+</p>
+<p>
 <a href="https://www.baserails.com/">BaseRails</a>
 </p>
 <p>
@@ -33,6 +37,9 @@
 <a href="https://dash.generalassemb.ly/">Dash</a>
 </p>
 <p>
+<a href="https://kutuphane.ito.org.tr/yordam/">Dersaadet Kütüphanesi</a>
+</p>
+<p>
 <a href="https://github.com/bradtraversy/design-resources-for-developers">Design Resources for Developers</a>
 </p>
 <p>
@@ -62,6 +69,9 @@
 </p>
 <p>
 <a href="https://informationisbeautiful.net/">Information is Beautiful</a>
+</p>
+<p>
+<a href="https://istanbulbarosu.org.tr/Yayinlar.aspx">İstanbul Barosu - Kitaplar</a>
 </p>
 <p>
 <a href="https://www.khanacademy.org/">Khan Academy</a>
@@ -97,6 +107,9 @@
 <a href="https://www.skillshare.com/">Skillshare</a>
 </p>
 <p>
+<a href="https://ekitap.ktb.gov.tr/">T.C. Kültür ve Turizm Bakanlığı E-Kitap</a>
+</p>
+<p>
 <a href="https://ed.ted.com/">TEDEd</a>
 </p>
 <p>
@@ -107,8 +120,15 @@
 <a href="https://trinket.io/">Trinket</a>
 </p>
 <p>
+<a href="https://kutuphane.tuik.gov.tr/yordambt/yordam.php">TÜİK Kütüphanesi</a>
+</p>
+<p>
 <a href="https://www.udacity.com/">Udacity</a>
 </p>
 <p>
 <a href="https://www.udemy.com/">Udemy</a>
+</p>
+<p>
+<a href="https://yokdersleri.yok.gov.tr/">YÖK Dersleri Platformu</a>
+<br>Yükseköğretim Kurumları Dersleri
 </p>

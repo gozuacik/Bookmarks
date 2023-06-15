@@ -8,3 +8,7 @@
 <p>
 <a href="https://randevu.nvi.gov.tr/#/nvi/anasayfa">Randevu Al</a>
 </p>
+<p>
+<a href="https://www.tihek.gov.tr/">Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK)</a>
+<br>İnsan haklarını korumak ve geliştirmek, kişilerin eşit muamele görme hakkının güvence altına alınması için çalışmak, işkence ve kötü muameleyle etkin mücadele etmek.
+</p>

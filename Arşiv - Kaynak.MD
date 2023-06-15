@@ -1,4 +1,8 @@
 <p>
+<a href="https://vergialgi.com/ali-alaybek-dijital-kutuphanesi">Ali Alaybek Dijital Kütüphanesi</a>
+<br>Hukuk ve Ekonomi alanlarında kitaplar. 
+</p>
+<p>
 <a href="https://almanac.io/home">Almanac</a>
 <br>Template Library.
 </p>
@@ -13,6 +17,9 @@
 <p>
 <a href="https://www.davidrumsey.com/">David Rumsey Map Collection</a>
 <br>Geçmişten bugüne çizilmiş tüm haritalara ulaşabileceğiniz bir arşiv
+</p>
+<p>
+<a href="https://kutuphane.ito.org.tr/yordam/">Dersaadet Kütüphanesi</a>
 </p>
 <p>
 <a href="https://dp.la/">Digital Public Library of America</a>
@@ -30,6 +37,9 @@
 </p>
 <p>
 <a href="http://ataturkkitapligi.ibb.gov.tr/yordambt/yordam.php?aTumu=">İBB Taksim Kütüphanesi</a>
+</p>
+<p>
+<a href="https://istanbulbarosu.org.tr/Yayinlar.aspx">İstanbul Barosu - Kitaplar</a>
 </p>
 <p>
 <a href="https://www.kadinustalar.com/">Kadın Ustalar</a>
@@ -76,8 +86,14 @@
 <a href="http://katalog.istanbul.edu.tr/client/tr_TR/default_tr/search/results?te=&lm=IUNEKABDUL">Sultan II. Abdülhamit Fotoğraf Koleksiyonu</a>
 </p>
 <p>
+<a href="https://ekitap.ktb.gov.tr/">T.C. Kültür ve Turizm Bakanlığı E-Kitap</a>
+</p>
+<p>
 <a href="https://www.themuseumofsound.com/">The Museum of Sound</a>
-</p>  
+</p>
+<p>
+<a href="https://kutuphane.tuik.gov.tr/yordambt/yordam.php">TÜİK Kütüphanesi</a>
+</p>
 <p>
 <a href="https://ancientcitiesturkey.com/hakkinda">Türkiye'nin Antik Kentleri</a>
 </p>  
@@ -88,3 +104,7 @@
 <a href="https://www.un-ilibrary.org/">United Nations iLibrary</a>
 <br>Birleşmiş Milletler bünyesinde yayınlanan tüm eserlere ulaşabileceğiniz bir arşiv
 </p>  
+<p>
+<a href="https://yokdersleri.yok.gov.tr/">YÖK Dersleri Platformu</a>
+<br>Yükseköğretim Kurumları Dersleri
+</p>
