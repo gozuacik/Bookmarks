@@ -52,6 +52,9 @@
 <a href="http://listen.hatnote.com/">Listen to Wikipedia</a>
 </p>
 <p>
+<a href="https://kutuphane.madimak.org/">Madımak Katliamı Dijital Kütüphane</a>
+</p>
+<p>
 <a href="https://katalog.marmara.edu.tr/yordambt/yordam.php">Marmara Üniversitesi - Nadide Eserler</a>
 <br>Marmara Üniversitesi'ndeki nadide eserlere online olarak ulaşabileceğiniz platform 
 </p> 
