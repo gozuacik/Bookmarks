@@ -24,5 +24,9 @@
 <a href="http://earsiv.sehir.edu.tr:8080/xmlui/">Şehir Üniveritesi Arşiv</a>
 </p>
 <p>
+<a href="https://onlinebooks.library.upenn.edu/">The Online Books Page</a>
+<br>Web'de yer alan üç milyondan fazla ücretsiz kitaba erişim olanağı sunan bir sayfa.
+</p>
+<p>
 <a href="http://teis.yesevi.edu.tr/">Türk Edebiyatı İsimler Sözlüğü</a>
 </p>
