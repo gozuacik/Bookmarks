@@ -95,6 +95,9 @@
 <a href="https://ekitap.ktb.gov.tr/">T.C. Kültür ve Turizm Bakanlığı E-Kitap</a>
 </p>
 <p>
+<a href="http://motivationalvideoarchive.org/">The Motivational Video Archive</a>
+</p>
+<p>
 <a href="https://www.themuseumofsound.com/">The Museum of Sound</a>
 </p>
 <p>
