@@ -10,6 +10,10 @@
 <br>"Bahçeşehir Üniversitesi Kadın Hakları Kulübü" Resmi Spotify Podcast Kanalı © BAU Radyo.
 </p> 
 <p>
+<a href="https://podcasters.spotify.com/pod/show/birazkonusabilirmiyiz">Biraz Konuşabilir miyiz?</a>
+<br>İlker Gümüşoluk ve Kemal Ayça iftiharla sunar...
+</p> 
+<p>
 <a href="https://podcasters.spotify.com/pod/show/draskiellibeskaya">Doç. Dr. Aşkı Ellibeş Kaya</a>
 <br>Gebelik, Kadın Hastalıkları, Genital Estetik.
 </p>  
@@ -24,6 +28,10 @@
 <p>
 <a href="https://podcasters.spotify.com/pod/show/linyemeyecekkadar">Linç Yemeyecek Kadar</a>
 <br>Bu podcast iki kadının ilişki yaşamını konu almaktadır.
+</p> 
+<p>
+<a href="https://karnaval.com/programlar/meksika-acmazi">Meksika Açmazı</a>
+<br>"O konuda gerçekten ne düşünüyorsun? Bu zor durumdan nasıl çıkarsın? Peki en yakın arkadaşını satar mısın?" Mesut Süre, Anlatanadam ve Fazlı Polat Meksika Açmazı'nda cevabı olmayan sorulara çözüm arıyor!
 </p> 
 <p>
 <a href="https://art19.com/shows/mental-klitoris">Mental Klitoris</a>
@@ -48,4 +56,8 @@
 <p>
 <a href="https://www.spreaker.com/show/televizyon-cocuklari">Televizyon Çocukları</a>
 <br>Defne Akman ve Deniz Tokgöz dizi gündemini sizin için takip ediyor, kaçırmamanız gerekenleri paylaşıyor.
+</p>  
+<p>
+<a href="https://karnaval.com/programlar/rabarba">Virgin Radio - Mesut Süre ile Rabarba</a>
+<br>Stand-up gösterileri, Youtube ilişki testi videoları ve ‘Rabarba’ programı ile hem radyoda hem podcast’ler arasında geniş bir hayran kitlesine sahip olan Mesut Süre, hafta içi her akşam 18:00-20:00 arasında Virgin Radio Türkiye’de canlı olarak radyo dinleyicileri ile buluşuyor!
 </p>  
