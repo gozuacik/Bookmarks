@@ -84,6 +84,10 @@
 <br>Dalından Sofraya
 </p> 
 <p>
+<a href="https://www.jonchocolate.com/">Jön</a>
+<br>Katkısız çikolata.
+</p> 
+<p>
 <a href="https://www.koyde.com/">Köyde</a>
 <br>Doğal Ürünler
 </p> 

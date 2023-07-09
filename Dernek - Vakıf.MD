@@ -82,6 +82,9 @@
 <br>Boğaziçi Üniversitesi’ni desteklemek, üyelerinin ve BÜ öğrencilerinin sosyal, kültürel, mesleki yaşantılarına katkıda bulunan çalışmalar yapmak.
 </p> 
 <p>
+<a href="https://www.bugday.org/blog/">Buğday Derneği</a>
+</p> 
+<p>
 <a href="https://butuncocuklarbizim.org/">Bütün Çocuklar Bizim Derneği</a>
 <br>Çocukların eğitimini, mutluluğunu, sağlıklı gelişimlerini sağlamak ve bu konudaki her türlü engele karşı mücadele vererek çocuklara destek olmak.
 </p> 
