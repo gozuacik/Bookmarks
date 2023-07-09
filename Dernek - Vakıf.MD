@@ -244,7 +244,7 @@
 <br>Dünyayı daha yaşanabilir bir yer hâline getirecek ve değişime öncülük edecek, toplumu ileriye taşıyacak girişimcileri, liderleri ve kurumları güçlendirmeyi hedefleyen, 5 kıtada, 100’den fazla şehirde buluna global sosyal inovasyon platformudur.
 </p> 
 <p>
-<a href="https://ifade.org.tr/">İfade Ö<gürlüğü Derneği</a>
+<a href="https://ifade.org.tr/">İfade Özgürlüğü Derneği</a>
 <br>Türkiye’de ifade özgürlüğü, medya ve İnternet özgürlüğünün korunması ve geliştirilmesi İfade Özgürlüğü Derneği’nin (“İFÖD”) temel hedefidir.
 </p> 
 <p>
@@ -305,6 +305,10 @@
 </p> 
 <p>
 <a href="https://www.karikaturculerdernegi.com/">Karikatürcüler Derneği</a>
+</p> 
+<p>
+<a href="https://kirkyamakadin.wixsite.com/kirkyama/kirkyamakadin">Kırkyama Kadın Dayanışması</a>
+<br>Kadınların varoluşuna, hayatına, özgürlüğüne ve kimliğine yönelik saldırıların şiddetlendiği, kazanımlarının yok edilmeye çalışıldığı tarihsel bir kesitte yola çıkmış bulunuyoruz.
 </p> 
 <p>
 <a href="https://kirmizicocuklardernegi.org/home/index.html">Kırmızı Çocuklar Derneğpi</a>
@@ -605,6 +609,10 @@
 <p>
 <a href="https://www.turkkulturvakfi.org.tr/">Türk Kültür Vakfı (TKV)</a>
 <br>“Barış ve uyumun birleştirdiği bir dünya için çalışmak”.
+</p> 
+<p>
+<a href="https://www.tapv.org.tr/">Türkiye Aile Sağlığı ve Planlaması Vakfı (TAPV)</a>
+<br>Bireylerin yaşam kalitesini yükseltmek, kadınların ve kız çocuklarının bilgiye erişimini artırmak için toplumsal cinsiyet eşitliği temelinde çalışmak.
 </p> 
 <p>
 <a href="https://www.alzheimerdernegi.org.tr/">Türkiye Alzheimer Derneği (TAD)</a>
