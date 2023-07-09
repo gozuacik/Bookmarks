@@ -371,6 +371,10 @@
 <br>Sağlık hizmet sunumu ve eğitiminde fırsat eşitliğinin sağlanması yolunda ülkemizde lider, dünyada örnek bir sivil toplum kuruluşu olmaktır.
 </p> 
 <p>
+<a href="https://www.maksad.org/">Marmaris Kültür ve Sanat Derneği (MAKSAD)</a>
+<br>Marmaris'te 1999'tan bu yana, kültür ve sanat dolu bir yaşamı paylaşmak için varız.
+</p> 
+<p>
 <a href="https://mayavakfi.org/ana-sayfa-tr/">Maya Vakfı</a>
 <br>Doğal afet, göç, aile kaybı, zorbalık gibi sebeplerle travmaya maruz kalmış 5-24 yaş arası çocuk ve gençlere psikososyal destek sağlıyoruz.
 </p> 

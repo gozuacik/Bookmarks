@@ -15,6 +15,9 @@
 <br>Consumer Aesthetics Research Institute.
 </p>
 <p>
+<a href="https://kimlik.mk.gov.tr/tccb">Cumhurbaşkanlığı Millet Kütüphanesi</a>
+</p>
+<p>
 <a href="https://www.davidrumsey.com/">David Rumsey Map Collection</a>
 <br>Geçmişten bugüne çizilmiş tüm haritalara ulaşabileceğiniz bir arşiv
 </p>
@@ -52,6 +55,9 @@
 <a href="http://listen.hatnote.com/">Listen to Wikipedia</a>
 </p>
 <p>
+<a href="https://kutuphane.madimak.org/">Madımak Katliamı Dijital Kütüphane</a>
+</p>
+<p>
 <a href="https://katalog.marmara.edu.tr/yordambt/yordam.php">Marmara Üniversitesi - Nadide Eserler</a>
 <br>Marmara Üniversitesi'ndeki nadide eserlere online olarak ulaşabileceğiniz platform 
 </p> 
@@ -87,6 +93,9 @@
 </p>
 <p>
 <a href="https://ekitap.ktb.gov.tr/">T.C. Kültür ve Turizm Bakanlığı E-Kitap</a>
+</p>
+<p>
+<a href="http://motivationalvideoarchive.org/">The Motivational Video Archive</a>
 </p>
 <p>
 <a href="https://www.themuseumofsound.com/">The Museum of Sound</a>
