@@ -315,7 +315,11 @@
 </p> 
 <p>
 <a href="https://kirmizicocuklardernegi.org/home/index.html">Kırmızı Çocuklar Derneğpi</a>
-<br>koruyucu aile konusunda farkındalığı artırmak, devlet korumasından çıkan 18 yaş üzeri gençlere mentorlük yapmak ve yuvadaki çocukların gelişimine katkı sağlayacak projeler çerçevesinde çalışmak.
+<br>Koruyucu aile konusunda farkındalığı artırmak, devlet korumasından çıkan 18 yaş üzeri gençlere mentorlük yapmak ve yuvadaki çocukların gelişimine katkı sağlayacak projeler çerçevesinde çalışmak.
+</p> 
+<p>
+<a href="https://kirmizisemsiye.org/">Kırmızı Şemsiye Cinsel Sağlık ve İnsan Hakları Derneği</a>
+<br>Türkiye’deki savunmasız ve dezavantajlı toplumsal gruplar içerisinde yer alan seks çalışanlarının cinsel sağlık ve insan hakları noktasındaki sorunlarını gündeme taşımak, bu sorunlara karşı çözüm önerileri geliştirmek ve yetkililer nezdinde toplumsal cinsiyet eşitliği, adalete erişim, sosyal politikaların geliştirilmesi, kamu sağlığı, ayrımcılık ve nefret suçları ile mücadele ve benzeri diğer konularda savunuculuk çalışmaları yapmak niyetiyle projeler geliştirir.
 </p> 
 <p>
 <a href="https://www.kizbasina.com/">KızBaşına</a>
@@ -538,6 +542,10 @@
 <br>Her insanın, tüm temel hakların esasında yatan vücut bütünlüğü hakkına erişimi ve bu hakkın korunması için çalışıyoruz.
 </p> 
 <p>
+<a href="https://sosyalhaklardernegi.org/">Sosyal Haklar Derneği</a>
+<br>Sosyal hakların, devlet tarafından toplumun tüm kesimlerine sağlanmasını, güvence altına alınmasını denetler; ihmal ve ihlalleri tespit eder; önlem alınması için taraflara çağrı ve uyarıda bulunur.
+</p> 
+<p>
 <a href="http://www.sendegel.org.tr/">Sosyal ve Ekonomik Yaşamda Nitelikli Değişim ve Gelişime Destek Derneği (Sen De Gel)</a>
 <br>Sosyal ve ekonomik alanda sürdürülebilir gelişim programları aracılığıyla “en az gelişmiş ülkelerin” sorunlarına çözümler üretmek.
 </p>    
@@ -608,6 +616,10 @@
 <p>
 <a href="https://www.tev.org.tr/anasayfa/tr">Türk Eğitim Vakfı (TEV)</a>
 <br>Başarılı fakat maddi olanaklardan yoksun, ülkemize ve insanlığa katkı sağlayacak gençleri ve onların yetişecekleri eğitim sistemini desteklemek.
+</p> 
+<p>
+<a href="https://www.tjv.org.tr/">Türk Japon Vakfı</a>
+<br>Türkiye ile Japonya arasında sosyal, kültürel, teknik, ekonomik ve benzeri alanlarda dostluk ve işbirliğini geliştirmek amacıyla, 1993 yılında kurulmuştur.
 </p> 
 <p>
 <a href="https://www.turkkanserdernegi.org/">Türk Kanser Derneği (TKD)</a>

@@ -101,6 +101,14 @@
 <a href="https://www.themuseumofsound.com/">The Museum of Sound</a>
 </p>
 <p>
+<a href="https://publicdomainreview.org/">The Public Domain Review</a>
+<br>Bu web sayfası sanat, edebiyat ve fikir tarihinden merak uyandıran ve merak uyandıran eserlerin keşfedilmesine adanmıştır.
+</p>
+<p>
+<a href="https://www.worldswritingsystems.org/">THE WORLD’S WRITING SYSTEMS</a>
+<br>Dünyadaki yazı sistemlerinin her biri için bir referans glifi ve temel bilgiler sunmaktadır.
+</p>
+<p>
 <a href="https://kutuphane.tuik.gov.tr/yordambt/yordam.php">TÜİK Kütüphanesi</a>
 </p>
 <p>

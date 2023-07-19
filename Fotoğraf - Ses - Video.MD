@@ -208,6 +208,10 @@
 <a href="https://textart.sh/">Text Art</a>
 </p>
 <p>
+<a href="https://trimmr.ai/app/">Trimmr</a>
+<br>Uzun videolarınızı kısa videolara çevirin.
+</p>
+<p>
 <a href="https://visualhunt.com/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=StartupResources.io">Visual Hunt</a>
 </p>
 <p>
@@ -227,7 +231,11 @@
 </p>
 <p>
 <a href="https://vidkeeper.io/">VidKeeper</a>
-<br>Easily save videos from YouTube, Facebook, Instagram, Twitter, and other sites  
+<br>Easily save videos from YouTube, Facebook, Instagram, Twitter, and other sites.  
+</p>
+<p>
+<a href="https://visibleearth.nasa.gov/">Visible Earth</a>
+<br>A catalog of NASA images and animations of our home planet .
 </p>
 <p>
 <a href="https://voicenote.in/">VoiceNote</a>

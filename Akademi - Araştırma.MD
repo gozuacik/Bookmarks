@@ -27,13 +27,14 @@
 </p>  
 <p>
 <a href="https://paperkast.com/">Paperkast</a>
-<br>
-Link-aggregator website for academic article discussion
+<br>Link-aggregator website for academic article discussion
 </p>
 <p>
 <a href="https://github.com/papers-we-love/papers-we-love">Papers We Love</a>
-<br>
-Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.
+<br>Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers.
+</p>
+<p>
+<a href="https://research.wmz.ninja/projects/phd/index.html">PhD Simulator</a>
 </p>
 <p>
 <a href="https://www.tangify.ai/">Tangify</a>

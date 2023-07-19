@@ -23,3 +23,7 @@
 <a href="https://nezaman.be/index.php">NeZaman.be</a>
 <br>Dizi ve Filmler ile İlgili Yeni Sezon ve Bölüm Takvimi
 </p>  
+<p>
+<a href="https://publicdomainreview.org/">The Public Domain Review</a>
+<br>Bu web sayfası sanat, edebiyat ve fikir tarihinden merak uyandıran ve merak uyandıran eserlerin keşfedilmesine adanmıştır.
+</p>
