@@ -45,6 +45,10 @@
 <a href="https://istanbulbarosu.org.tr/Yayinlar.aspx">İstanbul Barosu - Kitaplar</a>
 </p>
 <p>
+<a href="https://kadinhaklari.org/">Kadın Hakları Dijital Veri Platformu</a>
+<br>Hukuki bilgi ve yönlendirmeleri sindirilebilir ve tüketilebilir halde yeniden tasarlayan, algoritmik sistemlerde proaktif olarak şiddet gören kadınlara ulaştıran hak temelli bilgilendirme projesidir.
+</p>
+<p>
 <a href="https://www.kadinustalar.com/">Kadın Ustalar</a>
 <br>Türkiye'nin Kadın Ustaları
 </p>
