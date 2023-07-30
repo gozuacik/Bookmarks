@@ -22,6 +22,9 @@
 <br>Geçmişten bugüne çizilmiş tüm haritalara ulaşabileceğiniz bir arşiv
 </p>
 <p>
+<a href="https://dahaiyibirgelecek.org/">Daha İyi Bir Gelecek Platformu</a>
+</p>
+<p>
 <a href="https://kutuphane.ito.org.tr/yordam/">Dersaadet Kütüphanesi</a>
 </p>
 <p>
