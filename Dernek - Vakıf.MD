@@ -729,7 +729,11 @@ ve uygulamaların, sosyal kaynakların ortaklaşması yoluyla üretildiği bir �
 </p> 
 <p>
 <a href="https://www.yenidenbiz.org/">YenidenBiz Derneği</a>
-<br>İş hayatına ara vermiş eğitimli ve deneyimli kadınları güçlendirmek ve işe dönmelerini kolaylaştırmak için çalışmaktadır
+<br>İş hayatına ara vermiş eğitimli ve deneyimli kadınları güçlendirmek ve işe dönmelerini kolaylaştırmak için çalışmaktadır.
+</p> 
+<p>
+<a href="http://yenilikciegitim.org/">Yenilikçi Eğitim Derneği</a>
+<br>Derneğimizin hedef kitlesi çocuklardan yaşlılara kadar çok geniş bir topluluğu kapsamaktadır. Derneğimiz, hedef kitlesine hitap eden yenilikçi eğitim yöntemlerini araştırır keşfeder ve hayata geçirir. Çağdaş dünya ile bütünleşmiş güçlü bir sivil toplum oluşumuna katkıda bulunmak için çalışmalar yapar ve sivil topluma rehberlik eder.
 </p> 
 <p>
 <a href="https://yesilkitaplik.org/">Yeşil Kitaplık Derneği</a>
