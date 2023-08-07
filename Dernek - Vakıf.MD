@@ -414,6 +414,10 @@
 <br>Devlet ortaokulu öğrencilerinin eğitimine yıl boyu süren ücretsiz ve çevrim içi destek.
 </p>
 <p>
+<a href="https://commonpurpose.org/tr">Ortak İdealler Derneği</a>
+<br>Kendi dünyalarında ve çevrelerindeki dünyada fark yaratmak isteyen bireyler ve kuruluşlar için dönüştürücü öğrenme deneyimleri sunar.
+</p>
+<p>
 <a href="https://www.otistiklerdernegi.org.tr/">Otistikler Derneği</a>
 <br>Farklı gelişen bireylerin toplumla entegrasyonu amaçlanmaktadır.
 </p>
