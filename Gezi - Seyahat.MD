@@ -2,6 +2,13 @@
 <a href="https://howmuch.world/?countries=tr">How Much World</a>
 </p> 
 <p>
+<a href="https://www.konyapedia.com/">Konyapedia</a>
+<br>Konya Ansiklopedisi
+</p> 
+<p>
+<a href="https://harita.mto.org.tr/">Marmaris Turistik Harita</a>
+</p> 
+<p>
 <a href="http://www.pariste.net/">Pariste.Net</a>
 <br>Paris Gezi ve Yaşam Rehberi
 </p> 

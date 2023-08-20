@@ -96,6 +96,9 @@
 <br>Atatürk ilkelerini koruyarak, bilimsel düşünme yetilerini geliştiren, insan haklarına saygılı çağdaş bir yaşam ve eğitim için çözüm üretmek.
 </p> 
 <p>
+<a href="https://ceviridernegi.org/">Çeviri Derneği</a>
+</p> 
+<p>
 <a href="https://www.cekulvakfi.org.tr/">Çevre ve Kültür Değerlerini Koruma ve Tanıtma Vakfı (ÇEKÜL)</a>
 <br>ÇEKÜL Vakfı, ülkemizin doğal, tarihsel ve kültürel varlıklarını korumak amacıyla 1990 yılında vakıf statüsünde kuruldu.
 </p> 
@@ -166,6 +169,10 @@
 <a href="https://etkicemberleri.org/">Etki Çemberleri Vakfı</a>
 <br>Gezegende, bölgede, ülkede, ilde, ilçede” yaşayan tüm canlıların yaşam kalitelerini iyileştirmek, daha iyi bir bugün ve gelecek tasarlamak üzere harekete geçen bireylerin bir araya geldikleri bir bağışçılar topluluğu.
 </p> 
+<p>
+<a href="https://faydasicokvakfi.org/">Faydasıçok Vakfı</a>
+<br>2016 yılında ülkemizin geleceğinin iyi eğitimli gençlerle şekilleneceğine olan inancımız ve bunun gerçekleşmesine katkıda bulunma hayalimizle kurulmuştur. Amacımız gençlerimizi burslarımızla maddi yönden desteklerken, bir yandan da onların kişisel gelişimlerine katkı sunarak hayatlarına dokunabilmektir.
+</p>
 <p>
 <a href="https://www.fazlagida.com/">Fazla Gıda</a>
 <br>Sağlayacağı sürdürülebilir finansman modeli ile Gıda Atığını Önleyen Teknoloji Çözümleri ve Gıda Bankacılığının gelişimine yatırım yapma vizyonu ile kurulmuş olup aynı zamanda paydaşlarına iyi bir işten gelir elde etme imkanı tanımaktadır. Fazla Gıda gıda atığını önlerken diğer iki önemli Küresel Hedef olan Sorumlu Üretim ve Tüketim ile birlikte Açlığa Son hedeflerini de çözerek dönüşüm ekonomisi oluşturma hedefini misyon olarak edinmiştir.

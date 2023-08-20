@@ -42,6 +42,9 @@
 <br>Kadına yönelik şiddet bugün geçmişe kıyasla çok daha bilinen bir olgu olsa da biz kadınlar yaşadığımız şiddetin adını hemen koymakta güçlük çekebildiğimiz gibi utanç, suçluluk gibi duygular hissedebiliyor ve ilişkiden kolayca çıkamayabiliyoruz. Mor Çatı'da kadınlarla kurulan dayanışma bizlere erkek şiddetinin karmaşık ve zorlu yapısı kadar kadınların bu şiddete karşı gücünü de gösteriyor. Bu podcast serisinde Mor Çatı deneyiminden hareketle erkek şiddetinin kadınlar üstündeki etkisini, kadınları şiddet ilişkisinde tutan nedenleri ve kadınların şiddetten uzaklaşma mücadelelerini tartışıyoruz.
 </p> 
 <p>
+<a href="https://mubi.com/tr/notebook/posts/tag/MUBI%20Podcast">MUBI Podcast</a>
+</p> 
+<p>
 <a href="https://www.onbironsekiz.com/">Onbironsekiz</a>
 <br>Türkiye'nin Podcast Kanalı
 </p>  
@@ -60,4 +63,7 @@
 <p>
 <a href="https://karnaval.com/programlar/rabarba">Virgin Radio - Mesut Süre ile Rabarba</a>
 <br>Stand-up gösterileri, Youtube ilişki testi videoları ve ‘Rabarba’ programı ile hem radyoda hem podcast’ler arasında geniş bir hayran kitlesine sahip olan Mesut Süre, hafta içi her akşam 18:00-20:00 arasında Virgin Radio Türkiye’de canlı olarak radyo dinleyicileri ile buluşuyor!
-</p>  
+</p>
+<p>
+<a href="https://podtail.com/podcast/ye%C5%9Filcam-arkeolojisi/">Yeşilçam Arkeolojisi</a>
+</p> 
