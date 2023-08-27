@@ -44,6 +44,10 @@
 <a href="http://www.tubaterim.gov.tr/">TÜBA - Türkçe Bilim Terimleri Sözlüğü</a>
 <p>
 <p>
+<a href="https://vekam.ku.edu.tr/">Vehbi Koç Ankara Araştırmaları Uygulama ve Araştırma Merkezi (VEKAM)</a>
+<br>Gerçekleştirdiği projeler, bilimsel toplantı ve etkinlikler ile önemli bir akademik platform işlevi görmekle birlikte Ankara ve çevresi ile ilgili kapsamlı uzmanlık kütüphanesi ve zengin arşiviyle araştırmacılara hizmet sunmaktadır.
+<p>
+<p>
 <a href="http://www.wikicfp.com/cfp/">WikiCFP</a>
 <br>A Wiki for Call For Papers  
 <p>

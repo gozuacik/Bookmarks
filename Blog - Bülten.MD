@@ -127,6 +127,10 @@
 <br>Personal Blog About DevOps, GNU/Linux and Docker  
 </p> 
 <p>
+<a href="https://haylayt.com/">Haylayt</a>
+<br>Pazarlama dünyasının ana ekranı.  
+</p> 
+<p>
 <a href="https://ibakesoftware.com/">I Bake Software</a>
 <br>Tech Blog  
 </p>

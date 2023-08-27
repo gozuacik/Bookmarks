@@ -90,6 +90,9 @@
 <br>Free open source icons, illustrations and graphics
 </p>
 <p>
+<a href="https://ideogram.ai/">Ideogram</a>
+</p>
+<p>
 <a href="https://ikonate.com/?utm_campaign=StartupResources.io&utm_medium=email&utm_source=Revue%20newsletter">Ikonate - Vector Icons</a>
 </p>
 <p>
@@ -136,6 +139,10 @@
 <p>
 <a href="http://publicdomain.nypl.org/pd-visualization/">NYPL Public Domain Release</a>
 <br>New York Halk Kütüphanesi tarafından dijital ortama aktarılan belgeler 
+</p>
+<p>
+<a href="https://onlinesafari.tv/">OnlineSafari</a>
+<br>Canlı vahşi hayat kameralarına genel bir bakış sağlar.
 </p>
 <p>
 <a href="https://orioniconlibrary.com/all-icons">Orion Icon Library</a>

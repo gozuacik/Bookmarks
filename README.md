@@ -29,6 +29,8 @@ Bookmark Repository
 <br>
 [Girişimcilik](Girişimcilik.MD)
 <br>
+[Kadın](Kadın.MD)
+<br>
 [Kültür - Sanat](Kültür%20-%20Sanat.MD)
 <br>
 [Podcast](Podcast.MD)

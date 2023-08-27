@@ -45,6 +45,10 @@
 <a href="http://ataturkkitapligi.ibb.gov.tr/yordambt/yordam.php?aTumu=">İBB Taksim Kütüphanesi</a>
 </p>
 <p>
+<a href="https://www.iae.org.tr/">İstanbul Araştırmaları Enstitüsü</a>
+<br>2007 yılından beri ürettiği projeleri destekleyecek sergiler için düzenlenmiş "Galeri"si, "Atatürk ve Cumhuriyet Araştırmaları", "Osmanlı Araştırmaları" ve "Bizans Araştırmaları" bölümlerinin yanı sıra kamuya açık kütüphanesi ve Bilgi-Belge Merkezi'yle İstanbul'u uluslararası düzeyde temsil etmeyi amaçlayan ve çağdaş bilimsel ölçütlere titizlikle sahip çıkan bir araştırma kurumu.
+</p>
+<p>
 <a href="https://istanbulbarosu.org.tr/Yayinlar.aspx">İstanbul Barosu - Kitaplar</a>
 </p>
 <p>

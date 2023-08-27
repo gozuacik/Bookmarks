@@ -701,6 +701,10 @@
 <br>Maddi yetersizlik içerisinde olan ailelerin okuma istekli çocuklarına destek vermek.
 </p> 
 <p>
+<a href="https://www.turkiyetasarimvakfi.org/tr/">Türkiye Tasarım Vakfı</a>
+<br>Tasarım odaklı yaklaşım ile Türkiye'nin sosyal ve ekonomik gelişimine katkı sağlamayı hedefler.
+</p>
+<p>
 <a href="https://bambugep.org/">Uluslararası Bambu Eğitim Derneği</a>
 <br>Eğitimde fırsat eşitliğini artırmak için çevrimiçi eğitim çalışmaları yürüterek 4-18 yaş grubundaki çocukların eğitimlerine destek olmaktır.
 </p> 

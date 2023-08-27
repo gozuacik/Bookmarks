@@ -9,6 +9,10 @@
 <a href="https://harita.mto.org.tr/">Marmaris Turistik Harita</a>
 </p> 
 <p>
+<a href="https://onlinesafari.tv/">OnlineSafari</a>
+<br>Canlı vahşi hayat kameralarına genel bir bakış sağlar.
+</p>
+<p>
 <a href="http://www.pariste.net/">Pariste.Net</a>
 <br>Paris Gezi ve Yaşam Rehberi
 </p> 
