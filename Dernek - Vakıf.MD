@@ -298,6 +298,10 @@
 <br>Kadın tıp doktoru ve diş hekimlerinin eğitimine destek amacıyla kurulan bir vakıftır.
 </p> 
 <p>
+<a href="https://www.kasfad.org/">Kadınlar için Spor ve Fiziksel Aktivite Derneği (KASFAD)</a>
+<br>Amacımız ülkemizde spor ve fiziksel aktiviteye katılımın kadınların ve kız çocukların günlük yaşamlarının bir parçası olması için onların güvenilir ve eşitlikçi bir ortamda spor ve fiziksel aktiviteye katılımlarının koşullarının oluşturulmasına katkıda bulunmaktır.
+</p> 
+<p>
 <a href="https://kacod.org.tr/">Kanser Çocuğumdan Uzak Dur Derneği (KAÇOD)</a>
 <br>Çocukluk Çağı Kanserleri Hususunda Farkındalık Yaratmak ve Tedavi sürecini çocuklarımızın rahat şekilde atlatmalarını sağlamak.
 </p> 
