@@ -577,6 +577,10 @@
 <br>Ülkemizde demokratik tarih bilincinin geliştirilip yaygınlaştırılması.
 </p> 
 <p>
+<a href="https://www.teknolojidekadin.org/">Teknolojide Kadın Derneği</a>
+<br>Dernek bireylerin kendi potansiyellerini keşfetmelerini sağlamak; meraklı, araştırmacı, üretken, özgüveni yüksek, teknolojide uzman insanlar yetiştirip iş dünyasına kazandırmak üzere çalışmalarına devam ediyor.
+</p> 
+<p>
 <a href="https://www.tider.org/">Temel İhtiyaç Derneği (TİDER)</a>
 <br>Yoksulluk sınırı altında yaşayan insanların temel ihtiyaçlara ulaşabilmelerini,ardından iş edinip kendi ayakları üzerinde durabilmelerini sağlar.
 </p> 
