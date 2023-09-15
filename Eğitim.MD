@@ -59,6 +59,9 @@
 <a href="https://exercism.io/">Exercism</a>
 </p>
 <p>
+<a href="https://github.com/cloudcommunity/Free-Certifications">Free Certifications</a>
+</p>
+<p>
 <a href="https://freelearninglist.org/?utm_source=brainpint&utm_medium=email&utm_campaign=building_a_serendipity_vehicle&utm_term=2020-11-03">Free Learning List</a>
 </p>
 <p>

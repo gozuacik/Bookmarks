@@ -31,6 +31,9 @@
 <br>Uluslararası bir kuruluş olan Savory Institute'un Türkiye gözesi olarak Allan Savory'nin ortaya çıkardığı Bütüncül Yönetim yöntemlerinden beslenerek faaliyetlerini yürütür. Bu bağlamda da organizasyon şemasını bütüncül ve onarıcı olacak şekilde sürdürürken yeni paradigmanın uyumlu bir parçası olmayı gözetir.
 </p> 
 <p>
+<a href="https://www.aspeg.org.tr/">Anadolu Speoloji Grubu Derneği (ASPEG)</a>
+</p> 
+<p>
 <a href="https://www.anlataneller.com/">Anlatan Eller</a>
 <br>Türk İşaret Dili desteği ile sağır topluma eğitim veren sosyal girişimdir.
 </p>
@@ -549,6 +552,10 @@
 <br>Toplumsal cinsiyet eşitliğini savunmak, Sürdürülebilir Kalkınma Amaçları’na ulaşmak ve bu sayede memleketimizde ve dünyada eşitliğin, barışın hakim olduğu bir dünya düzeni için örgütlü dayanışmayı desteklemek.
 </p>  
 <p>
+<a href="https://simurgdernegi.org.tr/">Simurg Derneği</a>
+<br>Toplumsal değişimin gençlerle olacağına inanan ve kendini geliştirmeyi hayatının merkezine koyan; farklı hikayelere sahip bireylerden oluşan bir dernek.
+</p>  
+<p>
 <a href="https://sisterslab.co/">SistersLab | Bilim ve Teknolojide Kadın Derneği</a>
 <br>STEM alanlarında cinsiyet eşitliği farkındalığını artırmayı, kız çocukları ve kadınları eğitimler yoluyla güçlendirmeyi hedefleyen STK'dır.
 </p> 
@@ -595,6 +602,10 @@
 <p>
 <a href="https://thisismana.com/">This is Mana</a>
 <br>Dezavantajlı topluluklara yaratıcı projeler ve işbirlikleriyle sürdürülebilir gelir modelleri yaratan bir sosyal girişimdir.
+</p> 
+<p>
+<a href="https://www.tiskmcv.org.tr/">TİSK Mikrocerrahi ve Rekonstrüksiyon Vakfı</a>
+<br>Vakıf, iş kazalarını önlemeye yönelik faaliyetlerde bulunmayı, kazazede ve ailelerine destek olmayı, iş sağlığı ve güvenliği kültürünü işletmelerde yerleştirmeyi, mikrocerrahi başta olmak üzere tıp alanında Türkiye’de gerçekleştirebilecek  bilimsel araştırmalarla, uygulama ve eğitim çalışmalarını yapmayı ve desteklemeyi ana amacı saymaktadır.
 </p> 
 <p>
 <a href="https://tiyatrokooperatifi.org/">Tiyatro Kooperatifi</a>
@@ -737,6 +748,10 @@ ve uygulamaların, sosyal kaynakların ortaklaşması yoluyla üretildiği bir �
 <p>
 <a href="https://www.yanindayiz.org/">Yanındayız Derneği</a>
 <br>Evrensel insan hakları anlayışı çerçevesinde, Türkiye’de toplumsal cinsiyet eşitliğinin sağlanmasını amaçlıyor.
+</p> 
+<p>
+<a href="https://aipaturkey.org/index.html">Yapay Zeka Politikaları Derneği (AIPA)</a>
+<br>Yapay zekâya dair farkındalık yaratmak ve sektörün gelişimine dair bir platform oluşturmak doğrultusunda kurulan ve Türkiye’de yapay zeka konusundaki ilk sivil toplum kuruluşlarının başında gelen Yapay Zeka Politikaları Derneği (AIPA), Şubat 2021 yılında kurulmuş, bağımsız bir dernektir.
 </p> 
 <p>
 <a href="https://yardimsever.life/">Yardımsever</a>
