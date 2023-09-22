@@ -301,6 +301,10 @@
 <br>Kadın tıp doktoru ve diş hekimlerinin eğitimine destek amacıyla kurulan bir vakıftır.
 </p> 
 <p>
+<a href="https://www.linkedin.com/company/kasi%CC%87der/">Kadın Sigortacılar Derneği (KASİDER)</a>
+<br>Sigorta sektörü özelinde T.C. yasalarında kadınlara verilen hakları korumak, geliştirmek, kadının iş yaşamında çağdaş ve saygın yerini alabilmesi, cinsiyet ayırımının kaldırılması, eğitim, gelişim, terfi gibi her alanda eşitliğin sağlanmasına yönelik çalışmalar yapmak amacıyla kurulmuş olan bir dernektir.
+</p> 
+<p>
 <a href="https://www.kasfad.org/">Kadınlar için Spor ve Fiziksel Aktivite Derneği (KASFAD)</a>
 <br>Amacımız ülkemizde spor ve fiziksel aktiviteye katılımın kadınların ve kız çocukların günlük yaşamlarının bir parçası olması için onların güvenilir ve eşitlikçi bir ortamda spor ve fiziksel aktiviteye katılımlarının koşullarının oluşturulmasına katkıda bulunmaktır.
 </p> 
