@@ -3,6 +3,9 @@
 <br>Fotoğraflardan Yağlı Tablo Üretimi  
 </p>
 <p>
+<a href="https://www.ritsumei.ac.jp/~akitaoka/index-e.html">Akiyoshi's Illusion Pages</a>
+</p>
+<p>
 <a href="https://fairanimateddrawings.com/site/home">Animated Drawings</a>
 <br>Create animations starring your own drawn characters.
 </p>

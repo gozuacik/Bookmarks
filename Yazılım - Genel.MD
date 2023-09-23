@@ -128,6 +128,10 @@
 <br>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 </p>
 <p>
+<a href="http://www.turkiyeninmuhendiskizlari.com/">Türkiye'nin Mühendis Kızları</a>
+<br>Mühendislik eğitimi alan ve/veya alacak olan kız öğrencileri, eğitimlerinin farklı aşamalarında ve birçok yönden desteklemek üzere yola çıkan “Türkiye’nin Mühendis Kızları” projesi, lise ve üniversitede okuyan kız öğrencilere yönelik iki ayrı programdan oluşuyor.
+</p>
+<p>
 <a href="https://github.com/PizzaPokerGuy/ultimate-coding-resources">Ultimate Coding Resources</a>
 <br>A collection of the best resources for programming, web development, computer science and more.
 </p>

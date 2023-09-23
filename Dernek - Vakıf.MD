@@ -92,6 +92,9 @@
 <br>Çocukların eğitimini, mutluluğunu, sağlıklı gelişimlerini sağlamak ve bu konudaki her türlü engele karşı mücadele vererek çocuklara destek olmak.
 </p> 
 <p>
+<a href="https://www.cised.org.tr/">Cinsel Sağlık Enstitüsü Derneği (CİSED)</a>
+</p> 
+<p>
 <a href="https://cinselsiddetlemucadele.org/">Cinsel Şiddetle Mücadele Derneği (ÇŞMD)</a>
 </p> 
 <p>
@@ -155,6 +158,9 @@
 <p>
 <a href="https://worldhumanrelief.org/tr/">Dünya İnsani Dayanışma Derneği</a>
 <br>Toplumun hak ihlalleri ve travma konusundaki farkındalığını arttıran etkinlikler düzenlemek.
+</p> 
+<p>
+<a href="http://ekoder.org.tr/">Ekolojik Yaşam Derneği (EKODER)</a>
 </p> 
 <p>
 <a href="https://elbebekgulbebek.org/">El Bebek Gül Bebek Derneği</a>
@@ -556,6 +562,10 @@
 <br>Toplumsal cinsiyet eşitliğini savunmak, Sürdürülebilir Kalkınma Amaçları’na ulaşmak ve bu sayede memleketimizde ve dünyada eşitliğin, barışın hakim olduğu bir dünya düzeni için örgütlü dayanışmayı desteklemek.
 </p>  
 <p>
+<a href="https://www.seyirdernek.org/">Seyir Derneği</a>
+<br>Özellikle gençlere yönelik projelere öncelik vermeyi ve Ayvalık’ı hem sinema hem de diğer sanatlar için merkez haline getirmeyi hedefliyor.
+</p> 
+<p>
 <a href="https://simurgdernegi.org.tr/">Simurg Derneği</a>
 <br>Toplumsal değişimin gençlerle olacağına inanan ve kendini geliştirmeyi hayatının merkezine koyan; farklı hikayelere sahip bireylerden oluşan bir dernek.
 </p>  
@@ -672,6 +682,10 @@
 <br>Toplumumuzun Alzheimer hastalığı konusunda bilinçlendirilmesi; Alzheimer Hastalarına ve yakınlarına destek vermek.
 </p> 
 <p>
+<a href="https://turabder.org/">Türkiye - Avrupa Birliği Derneği (TURABDER)</a>
+<br>Amacı, tüzüğünde belirtildiği gibi “AB ile bütünleşme” hedefine varılabilmesi ve “Avrupa fikri” etrafında bir kamuoyu oluşturulabilmesi için gerekli çalışmalara öncülük etmektir.
+</p> 
+<p>
 <a href="https://tubed.org.tr/">Türkiye Beden Eğitimi Öğretmenleri Derneği (TÜBED)</a>
 <br>Mesleki gelişime yönelik bilimsel ve sosyal etkinlikler düzenlemek. Spor kültürünün yaygınlaştırılması adına paydaşlarla işbirliği yapmak.
 </p> 
@@ -727,6 +741,10 @@
 <a href="https://www.turkiyetasarimvakfi.org/tr/">Türkiye Tasarım Vakfı</a>
 <br>Tasarım odaklı yaklaşım ile Türkiye'nin sosyal ve ekonomik gelişimine katkı sağlamayı hedefler.
 </p>
+<p>
+<a href="https://www.uzad.org/">Ulu Zeytin Ağaçları Derneği (UZAD)</a>
+<br>Doğal kültürel mirasımız olan anıtsal nitelikteki zeytin ağaçlarının görünür kılınması, korunması ve gelecek nesillere aktarılması konusunda farkındalık yaratmak için zeytin ağacına gönül vermiş 8 kurucu üyenin girişimiyle 21.04.2022 tarihinde Muğla’da kurulmuştur.
+</p> 
 <p>
 <a href="https://bambugep.org/">Uluslararası Bambu Eğitim Derneği</a>
 <br>Eğitimde fırsat eşitliğini artırmak için çevrimiçi eğitim çalışmaları yürüterek 4-18 yaş grubundaki çocukların eğitimlerine destek olmaktır.

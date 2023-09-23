@@ -136,6 +136,10 @@
 <br>Online Çay Satış Mağazası
 </p>
 <p>
+<a href="https://www.saporeeksimayakulubu.com/">Sapore Ekşi Maya Kulübü</a>
+<br>Bu platformda ekşi maya hakkında detaylı bilgiler, reçeteler, eğitimler gibi güncel içerikler ücretsiz sunuluyor.
+</p> 
+<p>
 <a href="https://www.kayisiadinahersey.com/">Sarı Dünya</a>
 <br>Kayısı Adına Her Şey
 </p> 

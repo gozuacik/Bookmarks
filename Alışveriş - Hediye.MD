@@ -47,5 +47,13 @@
 <a href="https://tr.pandacheck.com/">PandaCheck</a>
 </p>
 <p>
+<a href="https://www.solemiocollection.com/">Sole Mio Collection</a>
+<br>Halı, Kırlent, Sofra Grubu.
+</p>
+<p>
+<a href="https://global.thekeep.shop/">The Keep</a>
+<br>Kadın mimarlar ve sanatçıların tasarladığı çağdaş kilimler.
+</p>
+<p>
 <a href="https://www.tohumkart.com/">TohumKart</a>
 </p>

@@ -18,6 +18,9 @@
 <a href="https://kimlik.mk.gov.tr/tccb">Cumhurbaşkanlığı Millet Kütüphanesi</a>
 </p>
 <p>
+<a href="https://cumhuriyetinaydinlanmaonculeri.com/">Cumhuriyetin Aydınlanma Öncüleri</a>
+</p>
+<p>
 <a href="https://www.davidrumsey.com/">David Rumsey Map Collection</a>
 <br>Geçmişten bugüne çizilmiş tüm haritalara ulaşabileceğiniz bir arşiv
 </p>

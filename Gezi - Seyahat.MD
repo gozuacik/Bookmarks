@@ -1,4 +1,7 @@
 <p>
+<a href="https://vole.wtf/british-seaside/">British Seaside Simulator</a>
+</p> 
+<p>
 <a href="https://howmuch.world/?countries=tr">How Much World</a>
 </p> 
 <p>
