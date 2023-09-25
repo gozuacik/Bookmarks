@@ -58,6 +58,9 @@
 <br>Ben Seçerim, temsiliyet ve katılımın her alanında kadınların varlığını, eşitliğini ve etkinliğini arttırmayı amaçlamaktadır.
 </p> 
 <p>
+<a href="https://bitekder.org.tr/">Bilgi Teknolojileri Derneği (BiTekDer)</a>
+</p> 
+<p>
 <a href="https://www.bilimkahramanlari.org/">Bilim Kahramanları Derneği</a>
 <br>Bilim, bilimsel düşünce ve bilimsel farkındalığın toplumun her kesiminde yayılması ve teşvik edilmesi için çalışmalar yapmak.
 </p> 
@@ -476,6 +479,9 @@
 <p>
 <a href="https://www.onemsiyoruz.org/">Önemsiyoruz Derneği</a>
 <br>Risk altındaki çocukların ve çevresindeki yetişkinlerin; sosyal, kültürel ve ekonomik alanda iyi bir yaşam sürmeleri için çalışır.
+</p>
+<p>
+<a href="https://www.ozdebir.org.tr/">Özel Eğitim-Öğretim Derneği (ÖZDEBİR)</a>
 </p>
 <p>
 <a href="https://www.parilti.org.tr/">Parıltı Görmeyen Çocuklara Destek Derneği</a>
