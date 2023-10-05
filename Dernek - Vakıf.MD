@@ -282,6 +282,9 @@
 <br>Dünyadaki kültür ve sanat üretiminin seçkin örneklerini, yeni girişimleri ve değişik akımları İstanbul'daki sanatseverlere sunmak.
 </p> 
 <p>
+<a href="https://www.imas.org.tr/">İstanbul Motorlu Araç Satıcıları Derneği (İMAS)</a>
+</p> 
+<p>
 <a href="https://www.izev.org.tr/">İstanbul Zihinsel Engelliler İçin Eğitim ve Dayanışma Vakfı (İZEV)</a>
 <br>Zihin farklı bireyler ve aileleri özelinde topluma ve insanlığa farkındalık ve bütünleşme sağlamaktır.
 </p> 
@@ -702,6 +705,10 @@
 <p>
 <a href="https://tegv.org/">Türkiye Eğitim Gönüllüleri Vakfı (TEGV)</a>
 <br>Amacımız ilköğretim çağındaki imkanları kısıtlı çocuklarımızın eğitimlerine destek olmaktır.
+</p> 
+<p>
+<a href="https://www.tepav.org.tr/tr/">Türkiye Ekonomi Politikaları Araştırma Vakfı (TEPAV)</a>
+<br>Türkiye'de fikir tartışmalarının bilgi ve veri içeriğini artıracak araştırmalar yapmak üzere Aralık 2004'te bir grup iş insanı, bürokrat ve akademisyen tarafından kurulmuş olan düşünce kuruluşudur.
 </p> 
 <p>
 <a href="http://tesyev.org/tr/anasayfa">Türkiye Engelliler Spor Yardım ve Eğitim Vakfı (TESYEV)</a>
