@@ -719,6 +719,9 @@
 <br>Sürdürülebilir yaşam ilkesiyle topraklarımızı ve doğal varlıklarımızı korumak ve bu mücadelenin bir devlet politikası haline gelmesini sağlamak.
 </p>
 <p>
+<a href="https://www.peryon.org.tr/">Türkiye İnsan Yönetimi Derneği (PERYÖN)</a>
+</p> 
+<p>
 <a href="http://www.israf.org/">Türkiye İsrafı Önleme Vakfı (TİSVA)</a>
 <br>Dar gelirli kadınların kendi kendilerine gelir getirici faaliyette bulunmaları için mikrokredi desteği sağlamak.
 </p> 
