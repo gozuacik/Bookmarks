@@ -278,6 +278,9 @@
 <br>Otizm tanısı almış çocuk ve ailelerine özel eğitim ve psikolojik destek vermek amacıyla 1988'den beri faaliyet göstermekteyiz.
 </p> 
 <p>
+<a href="https://www.imsad.org/">İnşaat Malzemesi Sanayicileri Derneği (İMSAD)</a>
+</p> 
+<p>
 <a href="https://www.iksv.org/">İstanbuk Kültür ve Sanat Vakfı (İKSV)</a>
 <br>Dünyadaki kültür ve sanat üretiminin seçkin örneklerini, yeni girişimleri ve değişik akımları İstanbul'daki sanatseverlere sunmak.
 </p> 
