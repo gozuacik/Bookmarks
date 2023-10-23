@@ -124,6 +124,10 @@
 <br>Free Access to 170+ ebooks
 </p>
 <p>
+<a href="https://github.com/ByteByteGoHq/system-design-101">System Design 101</a>
+<br>Karmaşık sistemleri görseller ve basit terimlerle açıklayan bir sayfa.
+</p>
+<p>
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge?utm_source=pocket_mylist">The Book of Secret Knowledge</a>
 <br>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 </p>

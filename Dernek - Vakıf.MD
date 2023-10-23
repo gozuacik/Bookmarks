@@ -81,6 +81,9 @@
 <br>Birlikte olmanın gücüyle toplumsal yardımlaşma ve dayanışma alanında fayda üretip bir iz bırakmak adına yurt içinden ve yurt dışından bir araya gelen gönüllülerimiz ile çalışmalarımıza devam ediyoruz.
 </p> 
 <p>
+<a href="Birleşmiş Markalar Derneği">Birleşik Markalar Derneği</a>
+</p> 
+<p>
 <a href="https://brhd.org.tr/">Birleşmiş Ressamlar ve Heykeltıraşlar Derneği (BRHD)</a>
 </p> 
 <p>
