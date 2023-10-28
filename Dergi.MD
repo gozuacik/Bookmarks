@@ -50,6 +50,10 @@
 <br>Edebiyat  
 </p> 
 <p>
+<a href="https://kompleks.org/">Kompleks</a>
+<br>Odaklandığı ana konuyu oluşturan her bir parçaya, derinlemesine bakararak analog ve dijital hikâyeler hazırlayan bir yayıncılık girişimidir. 
+</p> 
+<p>
 <a href="https://kontrastdergi.com/">Kontrast</a>
 <br>Fotoğraf  
 </p> 

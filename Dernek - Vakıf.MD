@@ -185,6 +185,9 @@
 <br>Gezegende, bölgede, ülkede, ilde, ilçede” yaşayan tüm canlıların yaşam kalitelerini iyileştirmek, daha iyi bir bugün ve gelecek tasarlamak üzere harekete geçen bireylerin bir araya geldikleri bir bağışçılar topluluğu.
 </p> 
 <p>
+<a href="https://www.fabisad.com/">Fantazya ve Bilimkurgu Sanatları Derneği</a>
+</p>
+<p>
 <a href="https://faydasicokvakfi.org/">Faydasıçok Vakfı</a>
 <br>2016 yılında ülkemizin geleceğinin iyi eğitimli gençlerle şekilleneceğine olan inancımız ve bunun gerçekleşmesine katkıda bulunma hayalimizle kurulmuştur. Amacımız gençlerimizi burslarımızla maddi yönden desteklerken, bir yandan da onların kişisel gelişimlerine katkı sunarak hayatlarına dokunabilmektir.
 </p>
@@ -277,11 +280,18 @@
 <br>ihtiyaç sahipleri ve destekçileri harita tabanlı dijital bir platformda buluşturan online sosyal bir kooperatiftir.
 </p> 
 <p>
+<a href="https://350turkiye.org/">İklim için 350 Derneği</a>
+<br>İklim için güvenli üst sınıra bir an önce geri dönebilmek için küresel ve yerel ölçekte çalışmalar yürütülüyor.
+</p> 
+<p>
 <a href="https://ilgiotizm.org.tr/">İlgi Otizm Derneği</a>
 <br>Otizm tanısı almış çocuk ve ailelerine özel eğitim ve psikolojik destek vermek amacıyla 1988'den beri faaliyet göstermekteyiz.
 </p> 
 <p>
 <a href="https://www.imsad.org/">İnşaat Malzemesi Sanayicileri Derneği (İMSAD)</a>
+</p> 
+<p>
+<a href="https://istanbulfilarmoni.org//">İstanbul Filarmoni Derneği</a>
 </p> 
 <p>
 <a href="https://www.iksv.org/">İstanbuk Kültür ve Sanat Vakfı (İKSV)</a>
@@ -422,7 +432,11 @@
 <br>Doğal afet, göç, aile kaybı, zorbalık gibi sebeplerle travmaya maruz kalmış 5-24 yaş arası çocuk ve gençlere psikososyal destek sağlıyoruz.
 </p> 
 <p>
-<a href="https://www.medak.org.tr/">Medikal Arama Kurtarma Derneği (MEDAK)</a>
+<a href="https://mekandaadalet.org/">Medikal Arama Kurtarma Derneği</a>
+<br>Kentsel ve kırsal mekanda daha adil, ekolojik ve demokratik süreçlerin/pratiklerin geliştirilmesine dair disiplinlerötesi çalışmalar yapar. Yenilikçi, nitelikli ve kamusal bilgiyi üretir, biriktirir ve paylaşır.
+</p> 
+<p>
+<a href="https://www.medak.org.tr/">Mekanda Adalet Derneği (MEDAK)</a>
 <br>MEDAK'ın misyonu afetzedeler, mülteciler, mevsimlik tarım işçileri gibi kırılgan gruplara ilkyardım eğitimi ve sağlık hizmeti ulaştırmaktır.
 </p> 
 <p>
@@ -762,6 +776,10 @@
 <p>
 <a href="https://www.turkiyetasarimvakfi.org/tr/">Türkiye Tasarım Vakfı</a>
 <br>Tasarım odaklı yaklaşım ile Türkiye'nin sosyal ve ekonomik gelişimine katkı sağlamayı hedefler.
+</p>
+<p>
+<a href="https://turkyaybir.org.tr/">Türkiye Yayıncılar Birliği</a>
+<br>Türkiye’de yayıncılık sektöründe faaliyet göstermekte olan yayıncıları ve yayın dağıtımcılarını temsil etmektedir.
 </p>
 <p>
 <a href="https://www.uzad.org/">Ulu Zeytin Ağaçları Derneği (UZAD)</a>

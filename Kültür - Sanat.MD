@@ -24,6 +24,10 @@
 <a href="https://www.istanbulberlin.com/">İstanbul Berlin</a>
 </p>
 <p>
+<a href="http://www.istanbulkadinmuzesi.org/">İstanbul Kadın Müzesi</a>
+<br>Kentin kültür ve sanat yaşamını zenginleştirmiş yolaçıcı kadınlarla buluşturuyor, kültürler arası iletişim sağlıyor.
+</p>
+<p>
 <a href="https://nezaman.be/index.php">NeZaman.be</a>
 <br>Dizi ve Filmler ile İlgili Yeni Sezon ve Bölüm Takvimi
 </p>  

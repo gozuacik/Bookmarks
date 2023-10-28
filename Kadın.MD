@@ -1,4 +1,8 @@
 <p>
+<a href="http://www.istanbulkadinmuzesi.org/">İstanbul Kadın Müzesi</a>
+<br>Kentin kültür ve sanat yaşamını zenginleştirmiş yolaçıcı kadınlarla buluşturuyor, kültürler arası iletişim sağlıyor.
+</p>
+<p>
 <a href="https://www.tabukamu.com/">TabuKamu</a>
 <br>Cinsellik, cinsel sağlık ve ilişkilerle ilgili pratik bilgilere ulaşabileceğin bir websitesi burası.
 </p>
