@@ -58,6 +58,10 @@
 <a href="https://okai.brown.edu/chapter0.html">OKAI</a>
 </p>
 <p>
+<a href="https://app.getonboardai.com/">Onboard AI</a>
+<br>Lets you chat with any codebase and understand functionality.
+</p>
+<p>
 <a href="https://www.phind.com/">Phind</a>
 <br>The AI search engine for developers.
 </p>
