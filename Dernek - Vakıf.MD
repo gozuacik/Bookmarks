@@ -94,6 +94,10 @@
 <a href="https://www.bugday.org/blog/">Buğday Derneği</a>
 </p> 
 <p>
+<a href="https://buldanvakfi.org/">Buldan Eğitim ve Dayanışma Vakfı</a>
+<br>Gönüllülerin desteği ile güçleneceğine, faaliyetlerinin yaygınlaşacağına inanmakta ve ekip çalışmasına önem vermektedir.
+</p> 
+<p>
 <a href="https://butuncocuklarbizim.org/">Bütün Çocuklar Bizim Derneği</a>
 <br>Çocukların eğitimini, mutluluğunu, sağlıklı gelişimlerini sağlamak ve bu konudaki her türlü engele karşı mücadele vererek çocuklara destek olmak.
 </p> 
@@ -205,6 +209,9 @@
 <p>
 <a href="https://gktd.org/">Gıda Kurtarma Derneği</a>
 <br>Sürdürülebilir Kalkınma Hedefleri kapsamında, gıda atığı kaynaklı sorunlara yönelik pratik çözümlerin sağlanması.
+</p> 
+<p>
+<a href="https://www.peryon.org.tr/">Girişimcilik Vakfı (GİRVAK)</a>
 </p> 
 <p>
 <a href="https://good4trust.org/">Good4Trust</a>
