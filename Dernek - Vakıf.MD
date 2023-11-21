@@ -185,6 +185,10 @@
 <br>Engelli kadınların mevcut durum ve problemlerini irdeleyerek, onların; evrensel insan hakları, adalet ve hukukun üstünlüğü ilkesi çerçevesinde siyasi, hukuki, sosyal ve ekonomik varlıklarını geliştirecek teorik ve pratik çözümler üretir.
 </p> 
 <p>
+<a href="https://www.teid.org/">Etik ve İtibar Derneği</a>
+<br>Amacı, üyelerine iş etiği politikası oluşturma ve uygulamada yardım ve rehberlik etmek, şirket etik değerlerinin şirketin tüm idari ve ticari fonksiyonları tarafından benimsenmesi, bir iş yapma biçimi haline getirilmesini sağlamakta destek vermektir.
+</p>
+<p>
 <a href="https://etkicemberleri.org/">Etki Çemberleri Vakfı</a>
 <br>Gezegende, bölgede, ülkede, ilde, ilçede” yaşayan tüm canlıların yaşam kalitelerini iyileştirmek, daha iyi bir bugün ve gelecek tasarlamak üzere harekete geçen bireylerin bir araya geldikleri bir bağışçılar topluluğu.
 </p> 
