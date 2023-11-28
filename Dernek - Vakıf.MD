@@ -42,6 +42,10 @@
 <br>Erken çocukluk dönemindeki çocukları ve ailelerini destekleyen bilimsel eğitim programları geliştiriyor ve uyguluyoruz.
 </p> 
 <p>
+<a href="https://www.antalyakadindanisma.org/">Antalya Kadın Danışma Merkezi ve Dayanışma Derneği</a>
+<br>Merkezin Amacı: Kadınlara yönelik her tür şiddet baskı ve ayrımcılığın önüne geçmek üzere mücadele etmek, şiddete uğramış ya da uğrama ihtimali olan kadınlara hukuksal ve psikolojik destek sağlamak,  farkındalık çalışmaları ile kadın dayanışmasını güçlendirmek, kadınları ilgilendiren her konuda karar alıp kadın politikaları geliştirmek ve üretmek, kadınların haklarını kullanabilmeleri, kendi ihtiyaçlarına yönelik taleplerini ve görüşlerini hayata geçirebilmeleri için danışmanlık vermek ve kadın dayanışmasını güçlendirmektir.
+</p>
+<p>
 <a href="https://ashokaturkiye.org/">Ashoka Türkiye</a>
 <br>Dünyanın ilk ve en geniş sosyal girişimcilik ağı Ashoka, acil toplumsal sorunlarına etkin çözümler geliştiren sosyal girişimcileri destekliyor.
 </p> 
@@ -347,6 +351,10 @@
 <br>Sigorta sektörü özelinde T.C. yasalarında kadınlara verilen hakları korumak, geliştirmek, kadının iş yaşamında çağdaş ve saygın yerini alabilmesi, cinsiyet ayırımının kaldırılması, eğitim, gelişim, terfi gibi her alanda eşitliğin sağlanmasına yönelik çalışmalar yapmak amacıyla kurulmuş olan bir dernektir.
 </p> 
 <p>
+<a href="https://kadinininsanhaklari.org/">Kadının İnsan Hakları Derneği</a>
+<br>Türkiye’de ve dünyada kadınların insan haklarını savunmak ve hayata geçirmek amacıyla 1993 yılında kurulan bağımsız bir kadın örgütüdür.
+</p> 
+<p>
 <a href="https://www.kasfad.org/">Kadınlar için Spor ve Fiziksel Aktivite Derneği (KASFAD)</a>
 <br>Amacımız ülkemizde spor ve fiziksel aktiviteye katılımın kadınların ve kız çocukların günlük yaşamlarının bir parçası olması için onların güvenilir ve eşitlikçi bir ortamda spor ve fiziksel aktiviteye katılımlarının koşullarının oluşturulmasına katkıda bulunmaktır.
 </p> 
@@ -460,6 +468,10 @@
 <p>
 <a href="https://mikader.org.tr/">Minik Kalplerle Elele Derneği (MİKADER)</a>
 <br>Aile ve Sosyal Politikalar Bakanlığı Çocuk Hizmetleri Genel Müdürlüğü'ne bağlı Sevgi Evleri il Çocuk Destek Merkezleri açmak, tefriş etmek vb.
+</p> 
+<p>
+<a href="https://morcati.org.tr/">Mor Çatı Kadın Sığınağı Vakfı</a>
+<br>Mor Çatı Kadın Sığınağı Vakfı 1990 yılında kadına yönelik şiddetle mücadele etmek amacıyla feministler tarafından kuruldu. Mor Çatı’da erkek şiddetine karşı mücadele feminist yöntemlere dayalı olarak yürütülür ve kadınların özgür ve eşit koşullarda yaşadığı, toplumsal cinsiyet temelli ayrımcılık ve erkek şiddetinden uzakta bir yaşam kurabilmeleri hedeflenir.
 </p> 
 <p>
 <a href="https://mumowrap.com/">Mumo</a>
