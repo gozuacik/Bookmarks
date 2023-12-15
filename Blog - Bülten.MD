@@ -326,6 +326,10 @@
 <a href="https://medium.com/yammer-engineering">Yammer Engineering</a>
 </p> 
 <p>
+<a href="https://yabellini.netlify.app/">Yanina Bellini Saibene</a>
+<br>Özellikle R programlamna dili ile ilgili yazılar içerir.
+</p> 
+<p>
 <a href="https://engineeringblog.yelp.com/">Yelp Engineering</a>
 </p> 
 <p>

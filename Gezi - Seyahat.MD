@@ -27,4 +27,7 @@
 <a href="https://visalist.io/turkey/">Visalist</a>
 <br>Turkish passport countries to travel.
 </p> 
-
+<p>
+<a href="https://visit.istanbul/">Visit İstanbul</a>
+<br>İstanbul Büyükşehir Belediyesi tarafından hayata geçirilen bir platform.
+</p> 

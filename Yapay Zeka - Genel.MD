@@ -1,4 +1,8 @@
 <p>
+<a href="https://thealliance.ai/">AI Alliance</a>
+<br>Açık inovasyona dayanan güvenli, sorumlu yapay zekayı geliştirmek için işbirliği yapan teknoloji yaratıcıları, geliştiricileri ve benimseyenlerinden oluşan bir topluluk..
+</p>
+<p>
 <a href="https://library.phygital.plus/">AI Library</a>
 <br>Mükemmel AI aracınızı bulmak için arayın, filtreleyin, keşfedin.
 </p>

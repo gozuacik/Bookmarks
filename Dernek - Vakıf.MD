@@ -246,6 +246,10 @@
 <br>Atatürk ilke ve inkılâplarına bağlı, - Türkiye Cumhuriyeti yasalarına saygılı, - Ülkesini seven, - Aydın bireylerin yetişmesine destek olmak.
 </p> 
 <p>
+<a href="https://www.guvenlisokaklar.org/">Güvenli Sokaklar Derneği (GÜSODER)</a>
+<br>Vizyon: Çocuklar ve engelliler için sokakların her türlü tehlikeden arındırıldığı bir geleceğe katkıda bulunmak.
+</p> 
+<p>
 <a href="https://www.guzelislerdernegi.org/">Güzel İşler Derneği</a>
 <br>Üretim, gelişim, paylaşım ve sosyal faydayı hedefleyen yerelde kurulu uluslararası bir atölye ve deneyim derneğidir.
 </p> 
