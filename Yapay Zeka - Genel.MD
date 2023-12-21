@@ -22,6 +22,10 @@
 <br>Learn Data Sciences Online  
 </p>
 <p>
+<a href="https://www.dedp.online/">Data Engineering Design Patterns (DEDP)</a>
+<br>Veri Mühendisliği Tasarım Örüntüleri ile ilgili yazılmaya devam edilen bir kitap projesi.
+</p>
+<p>
 <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
 </p>
 <p>

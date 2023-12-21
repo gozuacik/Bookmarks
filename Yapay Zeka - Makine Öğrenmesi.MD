@@ -82,5 +82,9 @@ verdiği "Makine Öğrenmesine Giriş" ders notlarını ve video kayıtlarını 
 <br>Python library which aims to make machine learning interpretable and understandable by everyone.
 </p>
 <p>
+<a href="https://fleuret.org/francois/lbdl.html">The Little Book of Deep Learning</a>
+<br>Derin Öğrenme ile ilgili cep telefonu ekranında okuyabilmek için tasarlanmış bir kitap. 
+</p>
+<p>
 <a href="http://www.veridefteri.com/">Veri Defteri</a>
 </p>

@@ -290,6 +290,9 @@
 <br>Hrant Dink'in hayallerini, mücadelesini, dilini ve yüreğini yaşatmak amacıyla 2007 yılından beri faaliyetlerini sürdürüyor.
 </p> 
 <p>
+<a href="http://hukukvedegisim.org/">Hukuk ve Değişim Derneği</a>
+</p> 
+<p>
 <a href="https://istanbul.impacthub.net/">Impact Hub İstanbul</a>
 <br>Dünyayı daha yaşanabilir bir yer hâline getirecek ve değişime öncülük edecek, toplumu ileriye taşıyacak girişimcileri, liderleri ve kurumları güçlendirmeyi hedefleyen, 5 kıtada, 100’den fazla şehirde buluna global sosyal inovasyon platformudur.
 </p> 
@@ -759,6 +762,9 @@
 <p>
 <a href="https://www.tepav.org.tr/tr/">Türkiye Ekonomi Politikaları Araştırma Vakfı (TEPAV)</a>
 <br>Türkiye'de fikir tartışmalarının bilgi ve veri içeriğini artıracak araştırmalar yapmak üzere Aralık 2004'te bir grup iş insanı, bürokrat ve akademisyen tarafından kurulmuş olan düşünce kuruluşudur.
+</p> 
+<p>
+<a href="https://tued.com.tr/">Türkiye Emekliler Derneği (TÜED)</a>
 </p> 
 <p>
 <a href="http://tesyev.org/tr/anasayfa">Türkiye Engelliler Spor Yardım ve Eğitim Vakfı (TESYEV)</a>
