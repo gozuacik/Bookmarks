@@ -38,6 +38,10 @@
 <br>Faydalı Web Sayfası Önerileri
 </p>
 <p>
+<a href="https://worldwide.espacenet.com/">Espacenet</a>
+<br>Free access to over 140 million patent documents.
+</p>
+<p>
 <a href="https://www.evernote.design/">Evernote.Design</a>
 <br>Tasarımcılar için Favori Sayfalar
 </p>
