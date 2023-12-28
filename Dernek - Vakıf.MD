@@ -779,6 +779,9 @@
 <br>Sürdürülebilir yaşam ilkesiyle topraklarımızı ve doğal varlıklarımızı korumak ve bu mücadelenin bir devlet politikası haline gelmesini sağlamak.
 </p>
 <p>
+<a href="https://www.gaziler.org.tr/">Türkiye Gaziler ve Şehit Aileleri Vakfı</a>
+</p> 
+<p>
 <a href="https://www.peryon.org.tr/">Türkiye İnsan Yönetimi Derneği (PERYÖN)</a>
 </p> 
 <p>
