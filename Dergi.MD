@@ -93,6 +93,10 @@
 <br>Magazin
 </p> 
 <p>
+<a href="https://talid.org/">Türkiye Araştırmaları Literatür Dergisi (TALİD)</a>
+<br>Magazin
+</p> 
+<p>
 <a href="https://www.zdergisi.istanbul/">Z Dergisi</a>
 <br>Kültür | Sanat | Şehir, Mevsimlik Tematik Dergi
 </p> 

@@ -59,6 +59,10 @@
 <br>The AI alternative that celebrates women+.
 </p>
 <p>
+<a href="https://github.com/talperetz/notebook-copilot">Notebook Copilot</a>
+<br>Turn Your Thoughts Into a Polished Notebook at Record-Speed with AI.
+</p>
+<p>
 <a href="https://www.obviously.ai/">Obviously AI</a>
 <br>Data Science without Code
 </p>
@@ -79,6 +83,9 @@
 <p>
 <a href="https://seeing-theory.brown.edu/index.html">Seeing Theory</a>
 <br>A Visual Introduction to Probability and Statistics
+</p>
+<p>
+<a href="https://udlbook.github.io/udlbook/">Understanding Deep Learning</a>
 </p>
 <p>
 <a href="https://github.com/vocodedev/vocode-python">Vocode</a>

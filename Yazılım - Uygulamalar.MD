@@ -78,6 +78,10 @@
 <br>A Visual Survey of Text Visualization Techniques
 </p> 
 <p>
+<a href="https://tldraw.dev/">TLDraw</a>
+<br>Text to Diagram tool.
+</p> 
+<p>
 <a href="https://www.todesktop.com/">ToDesktop</a>
 <br>Convert your Wep App to a Desktop App.
 </p>

@@ -35,6 +35,10 @@
 <br>Advanced Unicode plotting library designed for use in Julia's REPL.
 </p>
 <p>
+<a href="https://www.visual-literacy.org/">Visual-Literacy</a>
+<br>Your Visualization Skills Portal.
+</p>
+<p>
 <a href="https://zapchart.com/">ZapChart</a>
 </p>
 

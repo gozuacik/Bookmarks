@@ -95,6 +95,9 @@
 <a href="https://www.jamisbuck.org/mazes/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun">Maze Algorithms</a>
 </p>
 <p>
+<a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">Performance Engineering Of Software Systems</a>
+</p>
+<p>
 <a href="https://pldb.com/">PLDB</a>
 <br>Programming Language DataBase
 </p>

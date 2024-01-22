@@ -65,6 +65,9 @@ verdiği "Makine Öğrenmesine Giriş" ders notlarını ve video kayıtlarını 
 <a href="https://mlcourse.ai/">MLCOURSE.AI</a>
 </p>
 <p>
+<a href="https://neuro4ml.github.io/">Neuroscience for machine learners</a>
+</p>
+<p>
 <a href="https://paperswithcode.com/">Papers with Code</a>
 <br>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
 </p>
