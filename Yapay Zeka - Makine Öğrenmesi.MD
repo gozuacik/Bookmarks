@@ -27,9 +27,17 @@
 <a href="https://www.datasciencecentral.com/">Data Science Central</a>
 </p>
 <p>
+<a href="https://lightning.ai/courses/deep-learning-fundamentals/">Deep Learning Fundamentals</a>
+<br>Deep Learning Fundamentals is a free course on learning deep learning using a modern open-source stack.
+</p>
+<p>
 <a href="https://github.com/oxford-cs-deepnlp-2017/lectures">Deep Neural Network Course</a>
 <br>This repository contains the lecture slides and course description for the 
 Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford
+</p>
+<p>
+<a href="https://deeplearning.cs.cmu.edu/F23/index.html">Introduction to Deep Learning</a>
+<br>A course about Deep Learning.
 </p>
 <p>
 <a href="https://github.com/sibirbil/IMO2020">İstanbul'da Makine Öğrenmesi, 2020</a>
