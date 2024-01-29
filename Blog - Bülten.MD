@@ -23,6 +23,10 @@
 <br>Tech Blog
 </p> 
 <p>
+<a href="https://aytulturan.com/">Aytül Turan</a>
+<br>Çay ekseninde bir sayfa.
+</p> 
+<p>
 <a href="https://brendangregg.com/index.html">Brendan D. Gregg's Blog</a>
 <br>Unix, Linux, Programming, Performance, Tracing
 </p> 
@@ -129,6 +133,10 @@
 <p>
 <a href="https://haylayt.com/">Haylayt</a>
 <br>Pazarlama dünyasının ana ekranı.  
+</p> 
+<p>
+<a href="https://www.herumutortakarar.com">Her Umut Ortak Artar</a>
+<br>İstanbul'daki tarihi binalar, apartmanlarla ilgili notlar.  
 </p> 
 <p>
 <a href="https://ibakesoftware.com/">I Bake Software</a>

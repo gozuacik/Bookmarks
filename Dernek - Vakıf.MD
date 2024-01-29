@@ -178,6 +178,10 @@
 <br>Toplumun hak ihlalleri ve travma konusundaki farkındalığını arttıran etkinlikler düzenlemek.
 </p> 
 <p>
+<a href="https://ekav.org/">Eğitim, Kültür ve Araştırma Vakfı (EKAV)</a>
+<br>3 Kasım 1991'de sanatı toplumun her kesimine ulaştırmak, geleceğin genç sanatçılarına destek vermek amacıyla kurulmuştur.
+</p> 
+<p>
 <a href="http://ekoder.org.tr/">Ekolojik Yaşam Derneği (EKODER)</a>
 </p> 
 <p>
@@ -331,6 +335,10 @@
 </p> 
 <p>
 <a href="https://www.izev.org.tr/">İstanbul Zihinsel Engelliler İçin Eğitim ve Dayanışma Vakfı (İZEV)</a>
+<br>Zihin farklı bireyler ve aileleri özelinde topluma ve insanlığa farkındalık ve bütünleşme sağlamaktır.
+</p> 
+<p>
+<a href="https://www.skdturkiye.org/">İş Dünyası ve Sürdürülebilir Kalkına Derneği</a>
 <br>Zihin farklı bireyler ve aileleri özelinde topluma ve insanlığa farkındalık ve bütünleşme sağlamaktır.
 </p> 
 <p>
