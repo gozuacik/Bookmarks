@@ -87,6 +87,9 @@
 <a href="https://www.archives.gov/">National Archives</a>
 </p>
 <p>
+<a href="https://digitalcollections.nypl.org/">NEW YORK PUBLIC LIBRARY</a>
+</p>
+<p>
 <a href="https://nisanyanmap.com/">Nişanyan Yer Adları</a>
 <br>Türkiye'deki tüm yer isimlerinin tarihi, eski adları ve değişimlerini inceleyebileceğiniz bir platform  
 </p>
