@@ -216,6 +216,9 @@
 <br>Sağlayacağı sürdürülebilir finansman modeli ile Gıda Atığını Önleyen Teknoloji Çözümleri ve Gıda Bankacılığının gelişimine yatırım yapma vizyonu ile kurulmuş olup aynı zamanda paydaşlarına iyi bir işten gelir elde etme imkanı tanımaktadır. Fazla Gıda gıda atığını önlerken diğer iki önemli Küresel Hedef olan Sorumlu Üretim ve Tüketim ile birlikte Açlığa Son hedeflerini de çözerek dönüşüm ekonomisi oluşturma hedefini misyon olarak edinmiştir.
 </p>
 <p>
+<a href="https://fintr.org/">Finansal İnovasyon ve Teknoloji Derneği (FINTR)</a>
+</p>
+<p>
 <a href="https://gelecekbugunbaslar.com/">Gelecek Bugün Başlar Derneği</a>
 </p>
 <p>
