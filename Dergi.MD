@@ -20,6 +20,9 @@
 <p>
 <a href="http://www.cinedergi.com/">Cinedergi</a>
 <br>Sinema
+<p>
+<a href="https://corpusdergi.com/">Corpus</a>
+<br>Felsefe, Siyaset
 </p> 
 <p>
 <a href="https://www.decor-mag.com/">Decor</a>
