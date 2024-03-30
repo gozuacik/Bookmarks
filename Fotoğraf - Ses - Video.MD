@@ -215,6 +215,9 @@
 <a href="https://streamlineicons.com/">StreamLineIcons</a>
 </p>
 <p>
+<a href="https://trttelaffuz.com/">Telaffuz Sözlüğü</a>
+</p>
+<p>
 <a href="https://textart.sh/">Text Art</a>
 </p>
 <p>
