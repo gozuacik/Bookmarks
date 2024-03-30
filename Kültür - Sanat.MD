@@ -19,7 +19,11 @@
 <p>
 <a href="https://www.findyourfest.com/">Find Your Fest</a>
 <br>Müzik Festivali Sorgulama
-</p> 
+</p>
+<p>
+<a href="https://guvenlicinsellik.my.canva.site/fotoanlati">Güvenli Cinsellik</a>
+<br>Bu proje, genç kadınların güvenli cinsellikle ilgili düşüncelerini, duygularını, deneyimlerini anlamayı hedefliyor.
+</p>
 <p>
 <a href="https://www.istanbulberlin.com/">İstanbul Berlin</a>
 </p>
