@@ -24,6 +24,9 @@
 <a href="http://earsiv.sehir.edu.tr:8080/xmlui/">Şehir Üniveritesi Arşiv</a>
 </p>
 <p>
+<a href="https://trttelaffuz.com/">Telaffuz Sözlüğü</a>
+</p>
+<p>
 <a href="https://onlinebooks.library.upenn.edu/">The Online Books Page</a>
 <br>Web'de yer alan üç milyondan fazla ücretsiz kitaba erişim olanağı sunan bir sayfa.
 </p>
