@@ -13,3 +13,6 @@
 <p>
 <a href="https://www.podcastsinenglish.com/index.shtml">Podcast in English</a>
 </p>
+<p>
+<a href="https://trttelaffuz.com/">Telaffuz Sözlüğü</a>
+</p>
