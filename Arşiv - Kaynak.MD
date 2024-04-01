@@ -119,6 +119,10 @@
 <a href="https://trttelaffuz.com/">Telaffuz Sözlüğü</a>
 </p>
 <p>
+<a href="https://www.thecurricula.com/">The Curricula</a>
+<br>search for something to learn 
+</p>
+<p>
 <a href="http://motivationalvideoarchive.org/">The Motivational Video Archive</a>
 </p>
 <p>
