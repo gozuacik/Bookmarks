@@ -89,6 +89,10 @@
 <br>A Visual Introduction to Probability and Statistics
 </p>
 <p>
+<a href="https://www.thecurricula.com/">The Curricula</a>
+<br>search for something to learn 
+</p>
+<p>
 <a href="https://udlbook.github.io/udlbook/">Understanding Deep Learning</a>
 </p>
 <p>
