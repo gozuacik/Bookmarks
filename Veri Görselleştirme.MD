@@ -18,6 +18,9 @@
 <br>Turn your spreadsheets into explorable charts.
 </p>
 <p>
+<a href="https://github.com/TutteInstitute/datamapplot">DataMapPlot</a>
+</p>
+<p>
 <a href="https://datamaps.world/">Datamaps</a>
 </p>
 <p>
