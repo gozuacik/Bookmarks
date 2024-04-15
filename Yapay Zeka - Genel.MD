@@ -33,6 +33,9 @@
 <br>THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY  
 </p>
 <p>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7184330649237868544/">𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 𝘁𝗼 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗲 𝗬𝗼𝘂𝗿 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗝𝗼𝘂𝗿𝗻𝗲𝘆</a>
+</p>
+<p>
 <a href="https://semanti.ca/blog/?glossary-of-machine-learning-terms">Glossary of Machine Learning Terms</a>
 </p>
 <p>
