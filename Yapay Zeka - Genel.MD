@@ -1,4 +1,7 @@
 <p>
+<a href="https://bayesball.github.io/EDA/">A Course in Exploratory Data Analysis</a>
+</p>
+<p>
 <a href="https://thealliance.ai/">AI Alliance</a>
 <br>Açık inovasyona dayanan güvenli, sorumlu yapay zekayı geliştirmek için işbirliği yapan teknoloji yaratıcıları, geliştiricileri ve benimseyenlerinden oluşan bir topluluk..
 </p>
