@@ -10,6 +10,10 @@
 <br>Mükemmel AI aracınızı bulmak için arayın, filtreleyin, keşfedin.
 </p>
 <p>
+<a href="https://github.com/agiresearch/AIOS">AIOS</a>
+<br>LLM Agent Operating System
+</p>
+<p>
 <a href="https://allthingsai.com/">All Things AI</a>
 <br>The Complete Resource Of Artificial Intelligence Tools & Services.
 </p>
