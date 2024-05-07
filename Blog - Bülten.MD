@@ -3,6 +3,10 @@
 <br>Sparking ideas, insights, and creative solutions
 </p> 
 <p>
+<a href="https://aitrends.com.tr/">AI Trends</a>
+<br>yapay zeka dünyasındaki son trendleri, yenilikleri ve uygulamaları herkes için erişilebilir ve anlaşılır kılmayı amaçlayan dijital medya platformudur.
+</p>
+<p>
 <a href="https://aarvik.dk/">ANDERS AARVIK</a>
 <br>UNIX and Linux, Open Source, and systems
 </p> 
