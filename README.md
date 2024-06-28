@@ -47,6 +47,8 @@ Bookmark Repository
 <br>
 [Yapay Zeka - Genel](Yapay%20Zeka%20-%20Genel.MD)
 <br>
+[Yapay Zeka - Generative AI](Yapay%20Zeka%20-%20Generative%20AI.MD)
+<br>
 [Yapay Zeka - Makine Öğrenmesi](Yapay%20Zeka%20-%20Makine%20Öğrenmesi.MD)
 <br>
 [Yapay Zeka - NLP](Yapay%20Zeka%20-%20NLP.MD)
