@@ -874,6 +874,9 @@ ve uygulamaların, sosyal kaynakların ortaklaşması yoluyla üretildiği bir �
 <br>STK ve Sosyal Girişimlerin güçlü bir iletişim ve yönetişim alt yapısı kurarak sürdürülebilir gelir oluşturmalarını ve etki yaratmalarını sağlamak.
 </p> 
 <p>
+<a href="https://yasamicintoprak.org/">Yaşam için Toprak Derneği</a>
+</p> 
+<p>
 <a href="https://yayadernegi.org/">Yaya Derneği</a>
 <br>Amacımız, ülkemizdeki yaya hakları düşünce ve uygulamasının, Avrupa Yaya Hakları Bildirgesi boyutunda gelişmesi için çalışmalar yapmaktır.
 </p> 
