@@ -44,6 +44,10 @@
 <br>DevBooks helps developers to find the best books for developers and authors to showcase their amazing work.
 </p>
 <p>
+<a href="https://devdocs.io/">DevDocs</a>
+<br>DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
+</p>
+<p>
 <a href="https://roadmap.sh/roadmaps">Developer Roadmaps</a>
 <br>Step by step guides and paths to learn different tools or technologies.
 </p>
