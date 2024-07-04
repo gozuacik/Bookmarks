@@ -94,6 +94,10 @@
 <br>Türkiye'deki tüm yer isimlerinin tarihi, eski adları ve değişimlerini inceleyebileceğiniz bir platform  
 </p>
 <p>
+<a href="https://www.onetcenter.org/">O*NET Resource Center</a>
+<br>The O*NET Program is the nation's primary source of occupational information.
+</p>  
+<p>
 <a href="https://gutenberg.org/">Project Gutenberg</a>
 <br>Free eBooks / Ücretsiz E-Kitaplar
 </p>  
