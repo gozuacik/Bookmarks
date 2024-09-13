@@ -771,6 +771,10 @@
 <br>Suça sürüklenen çocukların tutuksuz yargılanması, tutuklulukları ve hükümlülükleri sırasında ve sonrasında güven duygularının geliştirilmesi.
 </p> 
 <p>
+<a href="https://www.tded.org.tr/">Türkiye Dil ve Edebiyat Derneği (TDED)</a>
+<br>Derneğimizin amacı, dil bilincinin toplumda yerleşmesi ve gelişmesini sağlayacak faaliyetlerde bulunmak ve bu konuda çalışmalar yapan kişi ve kuruluşlara destek vermektir.
+</p> 
+<p>
 <a href="https://tegv.org/">Türkiye Eğitim Gönüllüleri Vakfı (TEGV)</a>
 <br>Amacımız ilköğretim çağındaki imkanları kısıtlı çocuklarımızın eğitimlerine destek olmaktır.
 </p> 
