@@ -15,6 +15,10 @@
 <a href="http://www.baskasinema.com/">Başka Sinema</a>
 </p>
 <p>
+<a href="https://cam.sivildusun.net/">CAM</a>
+<br>CAM, Mart 2020’den bu yana Sivil Düşün desteğiyle hayata geçirilmiş yapımları izleyebileceğiniz dijital bir yayın platformudur.
+</p>
+<p>
 <a href="https://www.thecherrypicks.com/home">Cherry Picks</a>
 </p>
 <p>
