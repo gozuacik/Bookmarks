@@ -153,15 +153,19 @@
 <p>
 <a href="https://www.demdernek.org/">Dem Derneği</a>
 <br>Toplumsal zıtlıklar arasında diyalog alanları yaratarak bu alanlarda deneyimle keşfettiği meselelere sürdürülebilir çözümler üretmek.
-</p> 
+</p>
 <p>
-<a href="https://www.ddd.org.tr/">Denizciler Dayanışma Derneği</a>
-<br>Atatürkçü,çağdaş,ilerici görüşlerle denizcilik gücümüzün ve ülkemizin gelişimi ile ilgili her türlü faaliyet ve girişime katılım,destek sağlamak.
+<a href="https://dmad.org.tr/">Deniz Memelileri Araştırma Derneği</a>
+<br>Bilimsel araştırma ve sosyal yardım faaliyetleri ile ekolojik bilinç oluşturma.
 </p> 
 <p>
 <a href="https://www.denizyasaminikoruma.org/">Deniz Yaşamını Koruma Derneği</a>
 <br>Gerçekleştireceğimiz “Sosyal Sorumluluk Projeleri” ile farkındalık yaratarak sürdürülebilir deniz yaşamını desteklemek.
-</p> 
+</p>
+<p>
+<a href="https://www.ddd.org.tr/">Denizciler Dayanışma Derneği</a>
+<br>Atatürkçü,çağdaş,ilerici görüşlerle denizcilik gücümüzün ve ülkemizin gelişimi ile ilgili her türlü faaliyet ve girişime katılım,destek sağlamak.
+</p>
 <p>
 <a href="https://www.dmdaileleri.org/">DMD Aileleri Derneği</a>
 <br>DMD’li (Duchenne-Muscular-Dystrophy) bireylerin bakımı konusunda aileleri bilinçlendirmek, hastaların fiziksel, psiko-sosyal anlamda en iyi koşullara kavuşmalarını sağlamak.
