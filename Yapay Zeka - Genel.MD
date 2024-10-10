@@ -33,6 +33,9 @@
 <br>Veri Mühendisliği Tasarım Örüntüleri ile ilgili yazılmaya devam edilen bir kitap projesi.
 </p>
 <p>
+<a href="https://github.com/andresvourakis/data-scientist-handbook">Data Scientist Handbook 2024</a>
+</p>
+<p>
 <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
 </p>
 <p>
