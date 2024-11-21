@@ -75,6 +75,10 @@
 <br>Simplify website management with SpreadSimple and Google Sheets
 </p>
 <p>
+<a href="https://ui-avatars.com/">UI-Avatars</a>
+<br>User Initial Avatar Creation
+</p>
+<p>
 <a href="https://undesign.learn.uno/">Undesign</a>
 <br>Collection of free design tools and resources for makers, developers and designers
 </p>
