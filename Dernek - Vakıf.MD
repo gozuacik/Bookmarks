@@ -832,6 +832,10 @@
 <br>Toplumu Spina Bifida ve önlenmesi için bilinçlendirerek Spina Bifidalı doğum oranını azaltmak, spina bifidalıların yaşam kalitelerini yükseltmek.
 </p>
 <p>
+<a href="https://tusev.org.tr/">Türkiye Üçüncü Sektör Vakfı (TÜSEV)</a>
+<br>Türkiye Üçüncü Sektör Vakfı (TÜSEV) olarak 1993 yılında Türkiye’de sivil toplum kuruluşlarının (STK) karşılaştığı ortak ve güncel sorunlara çözümler geliştirmek için kurulduk.
+</p>
+<p>
 <a href="https://www.tocev.org.tr/">Tüvana Okuma İstekli Çocuk Eğitim Vakfı (TOÇEV)</a>
 <br>Maddi yetersizlik içerisinde olan ailelerin okuma istekli çocuklarına destek vermek.
 </p> 
