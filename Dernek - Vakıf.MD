@@ -167,6 +167,10 @@
 <br>Atatürkçü,çağdaş,ilerici görüşlerle denizcilik gücümüzün ve ülkemizin gelişimi ile ilgili her türlü faaliyet ve girişime katılım,destek sağlamak.
 </p>
 <p>
+<a href="https://www.turmepa.org.tr/">DenizTemiz Derneği</a>
+<br>Aldığımız her iki nefesten birini denizlerimiz sağlıyor.
+</p> 
+<p>
 <a href="https://www.dmdaileleri.org/">DMD Aileleri Derneği</a>
 <br>DMD’li (Duchenne-Muscular-Dystrophy) bireylerin bakımı konusunda aileleri bilinçlendirmek, hastaların fiziksel, psiko-sosyal anlamda en iyi koşullara kavuşmalarını sağlamak.
 </p> 
