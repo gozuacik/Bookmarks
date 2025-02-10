@@ -48,8 +48,8 @@
 <br>Gerçekleştirdiği projeler, bilimsel toplantı ve etkinlikler ile önemli bir akademik platform işlevi görmekle birlikte Ankara ve çevresi ile ilgili kapsamlı uzmanlık kütüphanesi ve zengin arşiviyle araştırmacılara hizmet sunmaktadır.
 <p>
 <p>
-<a href="http://www.wikicfp.com/cfp/">WikiCFP</a>
-<br>A Wiki for Call For Papers  
+<a href="https://webinarcafe.com/">Webinar Cafe</a>
+<br>Search for upcoming webinars by topic or publisher  
 <p>
 <p>
 <a href="http://www.wikicfp.com/cfp/">WikiCFP</a>
