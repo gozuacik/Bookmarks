@@ -46,6 +46,10 @@
 <br>Merkezin Amacı: Kadınlara yönelik her tür şiddet baskı ve ayrımcılığın önüne geçmek üzere mücadele etmek, şiddete uğramış ya da uğrama ihtimali olan kadınlara hukuksal ve psikolojik destek sağlamak,  farkındalık çalışmaları ile kadın dayanışmasını güçlendirmek, kadınları ilgilendiren her konuda karar alıp kadın politikaları geliştirmek ve üretmek, kadınların haklarını kullanabilmeleri, kendi ihtiyaçlarına yönelik taleplerini ve görüşlerini hayata geçirebilmeleri için danışmanlık vermek ve kadın dayanışmasını güçlendirmektir.
 </p>
 <p>
+<a href="https://aramizda.org.tr/">Aramızda</a>
+<br>Toplumsal Cinsiyet Araştırmaları Derneği
+</p>
+<p>
 <a href="https://aifd.org.tr/">Araştırmacı İlaç Firmaları Derneği</a>
 <br>Türk insanının yeni ve orijinal ilaçlara erişimini sağlamak ve ülkemizde sağlık sorunlarına etkin çözümler bulunmasına katkıda bulunmaktadır.
 </p> 
