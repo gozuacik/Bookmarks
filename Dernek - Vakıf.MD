@@ -245,6 +245,9 @@
 <a href="https://www.peryon.org.tr/">Girişimcilik Vakfı (GİRVAK)</a>
 </p> 
 <p>
+<a href="https://www.golader.org/">GOLA Kültür Sanat ve Ekoloji Derneği</a>
+</p>
+<p>
 <a href="https://good4trust.org/">Good4Trust</a>
 <br>Ekolojik ve sosyal açıdan adil üreticiler ile onlardan bütün ihtiyaçlarını karşılayan türeticilerden oluşan küresel bir topluluk geliştirmek.
 </p>
