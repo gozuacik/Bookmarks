@@ -15,6 +15,10 @@
 <br>Consumer Aesthetics Research Institute.
 </p>
 <p>
+<a href="https://diagramr.vercel.app/">Diagramr</a>
+<br>Find diagrams at the speed of thought.
+</p>
+<p>
 <a href="https://kimlik.mk.gov.tr/tccb">Cumhurbaşkanlığı Millet Kütüphanesi</a>
 </p>
 <p>
