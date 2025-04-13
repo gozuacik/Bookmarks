@@ -1,4 +1,8 @@
 <p>
+<a href="https://paperfinder.allen.ai/chat">Ai2 PaperFinder</a>
+<br>A research tool for paper discovery, with broad and deep coverage via a corpus of 8M+ full text papers and 108M+ abstracts. 
+</p> 
+<p>
 <a href="https://collaboratory.ist/">Collaboratory</a>
 <br>Connect scientists
 </p> 
