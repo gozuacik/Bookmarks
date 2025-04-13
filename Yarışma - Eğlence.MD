@@ -42,6 +42,10 @@
 <br>Procedurally-generated vector-format infinitely-scrolling Chinese landscape for the browser
 </p>  
 <p>
+<a href="https://www.supercartoons.net/">SuperCartoons</a>
+<br>Watch Online 1500+ Classic Cartoons Online. You can watch Mickey Mouse, Tom and Jerry, Looney Tunes, Merrie Melodies, Popeye the Sailor and more.
+</p>  
+<p>
 <a href="https://www.dunyahalleri.com/sehir-isimlerinin-ne-anlama-geldigini-gosteren-harita/">Şehir İsimlerinin Anlamları</a>
 </p> 
 <p>
