@@ -17,6 +17,10 @@
 <br>Free Curved Text Generator
 </p>
 <p>
+<a href="https://josephbarbierdarnal.github.io/dayplot/">dayplot</a>
+<br>A simple-to-use Python library to build calendar heatmaps with ease. It's built on top of matplotlib and leverages it to access high customization possibilities.
+</p>
+<p>
 <a href="https://designvalley.club/">Design Valley</a>
 <br>Design tool depository.  
 </p>
