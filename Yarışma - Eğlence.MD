@@ -3,6 +3,9 @@
 <br>Ücretsiz Geçici E-Posta Adresi Kullanma  
 </p>  
 <p>
+<a href="https://adelfaure.net/tools/ascii_facemaker/">ASCII Face Maker</a>
+</p> 
+<p>
 <a href="https://www.chronophoto.app/game.html">Chronophoto</a>
 <br>Fotoğrafın ait olduğu yılı tahmin etme üzerine bir yarışma.
 </p> 
