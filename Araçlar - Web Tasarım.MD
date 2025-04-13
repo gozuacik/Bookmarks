@@ -28,6 +28,10 @@
 <br>Creates delightful, editable UI designs from a simple text description.  
 </p>
 <p>
+<a href="https://gitdiagram.com/">GitDiagram</a>
+<br>Turn any GitHub repository into an interactive diagram for visualization.  
+</p>
+<p>
 <a href="https://hiya.io/">Hiya</a>
 <br>Websites for professionals. 
 </p>
