@@ -13,6 +13,10 @@
 <br>Free Hand-Drawn Animated GIF Creator  
 </p>
 <p>
+<a href="https://www.curvedtext.io/">Curved Text Generator</a>
+<br>Free Curved Text Generator
+</p>
+<p>
 <a href="https://designvalley.club/">Design Valley</a>
 <br>Design tool depository.  
 </p>
