@@ -46,6 +46,9 @@
 <br>Tasarımcılar için Favori Sayfalar
 </p>
 <p>
+<a href="https://www.height-weight-chart.com/">Height Weight Chart</a>
+</p>
+<p>
 <a href="https://archive.org/">Internet Archive</a>
 </p>
 <p>
