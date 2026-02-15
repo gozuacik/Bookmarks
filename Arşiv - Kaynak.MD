@@ -108,6 +108,12 @@
 <br>The O*NET Program is the nation's primary source of occupational information.
 </p>  
 <p>
+<a href="https://www.obooko.com/">Obooko</a>
+<br>Download free eBooks
+on PDF, EPUB & Kindle.
+Forever yours.
+</p>
+<p>
 <a href="https://gutenberg.org/">Project Gutenberg</a>
 <br>Free eBooks / Ücretsiz E-Kitaplar
 </p>  
